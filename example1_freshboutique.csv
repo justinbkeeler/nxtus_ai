@@ -1,0 +1,1501 @@
+Month,Revenue ($),Foot Traffic (Visitors),E-commerce Orders (#),Product Category,Sales by Product Category ($),Social Media Platform,Campaign Type,Impressions,Engagements,Marketing Spend ($),Email Opens,Email Click-Throughs,Inventory Level (Units),Customer Source,Customer Feedback (Rating),Customer Gender,Customer Age,Customer Income ($),Bundling Indicator
+1/1/2021,5000,500,7,Clothing,2000,Facebook,Social Media,3630,200,1000,106,148,50,Social Media,3,Male,20,80000,0
+1/1/2021,10000,500,11,Accessories,1000,Facebook,In-Store Event,7544,200,1000,145,193,50,Community,3,Female,50,20000,0
+1/1/2021,7000,100,15,Clothing,5000,Email,In-Store Event,5033,200,2000,251,167,100,Social Media,3,Male,40,60000,0
+1/1/2021,7000,500,12,Clothing,2000,Email,Networking Event,6047,500,2000,493,178,100,Social Media,4,Female,50,20000,0
+1/2/2021,3000,500,10,Home Goods,2000,LinkedIn,Email,13213,50,2000,301,147,50,Community,4,Male,40,60000,0
+1/2/2021,3000,500,8,Home Goods,2000,Instagram,Social Media,1467,500,2000,69,56,200,Community,5,Female,30,60000,1
+1/2/2021,2000,700,11,Accessories,5000,Instagram,Email,1904,500,3000,30,4,100,Social Media,3,Male,20,40000,0
+1/3/2021,10000,500,12,Clothing,2000,Facebook,Social Media,9177,200,1000,92,13,100,Social Media,4,Female,30,60000,0
+1/3/2021,7000,700,8,Accessories,1000,Instagram,Social Media,10447,200,2000,136,279,50,Social Media,4,Female,40,20000,0
+1/3/2021,7000,700,12,Accessories,5000,Instagram,In-Store Event,4130,500,2000,373,215,200,Social Media,5,Non-Binary,40,60000,0
+1/4/2021,2000,700,12,Clothing,5000,Instagram,In-Store Event,3468,1000,2000,162,174,200,Community,3,Male,30,60000,1
+1/4/2021,10000,700,7,Clothing,8000,Instagram,Social Media,7769,1000,1000,80,2,200,Social Media,5,Male,20,40000,1
+1/4/2021,10000,1000,12,Home Goods,1000,Facebook,Email,2079,1000,2000,315,136,50,Community,4,Female,30,20000,0
+1/4/2021,3000,100,8,Clothing,5000,Facebook,In-Store Event,11487,3000,3000,75,99,100,Referral,4,Male,30,60000,1
+1/5/2021,3000,300,4,Accessories,5000,Facebook,Email,6492,500,500,62,82,400,Social Media,1,Female,20,40000,0
+1/5/2021,3000,100,5,Clothing,1000,Facebook,Social Media,550,3000,2000,99,279,100,Community,3,Non-Binary,30,20000,0
+1/5/2021,5000,700,12,Clothing,5000,Instagram,Email,6952,1000,1000,435,131,50,Community,4,Female,20,80000,1
+1/6/2021,5000,1000,9,Clothing,2000,Instagram,Social Media,5653,1000,3000,47,0,200,Community,1,Male,50,40000,1
+1/6/2021,5000,300,9,Home Goods,8000,Instagram,In-Store Event,10351,50,1000,444,115,50,Community,3,Female,30,60000,0
+1/6/2021,3000,1000,7,Clothing,1000,Instagram,Email,14400,3000,500,407,201,100,Social Media,5,Non-Binary,50,60000,0
+1/7/2021,7000,100,8,Accessories,5000,Email,Social Media,6523,500,1000,73,139,50,Events,3,Female,30,40000,0
+1/7/2021,3000,1000,11,Accessories,2000,Email,Social Media,4800,1000,2000,313,145,100,Social Media,2,Female,40,20000,0
+1/7/2021,3000,500,8,Accessories,8000,Facebook,In-Store Event,3287,50,100,191,265,100,Social Media,4,Non-Binary,20,60000,0
+1/7/2021,5000,300,11,Home Goods,2000,Instagram,In-Store Event,13881,200,2000,29,201,50,Events,1,Non-Binary,40,20000,0
+1/8/2021,5000,500,11,Accessories,8000,Facebook,Email,13320,200,3000,156,151,200,Social Media,4,Non-Binary,30,20000,1
+1/8/2021,7000,500,7,Clothing,8000,Facebook,Email,2655,200,2000,486,221,100,Community,4,Female,20,60000,0
+1/8/2021,3000,500,12,Home Goods,2000,Facebook,Social Media,7519,50,100,265,78,100,Community,3,Female,60,60000,0
+1/9/2021,5000,500,8,Accessories,8000,Facebook,Social Media,5860,1000,3000,255,199,100,Events,4,Female,40,40000,1
+1/9/2021,7000,700,17,Clothing,8000,Facebook,Social Media,13038,50,2000,38,249,200,Events,2,Male,30,60000,0
+1/9/2021,2000,500,7,Clothing,2000,Facebook,Email,4730,200,500,54,98,100,Community,5,Female,30,60000,1
+1/10/2021,7000,500,12,Home Goods,2000,Email,Email,11853,200,100,27,212,200,Community,5,Female,30,60000,1
+1/10/2021,3000,700,9,Clothing,5000,Instagram,Social Media,10306,500,500,401,142,200,Events,1,Female,40,60000,1
+1/10/2021,2000,700,11,Accessories,2000,Email,Email,8107,200,2000,424,189,200,Social Media,5,Female,40,100000,0
+1/10/2021,10000,500,9,Clothing,1000,Instagram,In-Store Event,11428,200,100,117,51,100,Events,4,Male,20,40000,0
+1/11/2021,10000,500,7,Clothing,2000,Instagram,Email,9098,500,500,369,111,200,Community,3,Female,30,40000,0
+1/11/2021,10000,300,21,Accessories,2000,LinkedIn,Email,12071,500,2000,208,134,100,Referral,3,Female,40,20000,1
+1/11/2021,5000,300,5,Clothing,2000,LinkedIn,In-Store Event,4697,50,1000,74,111,50,Events,3,Female,30,20000,1
+1/12/2021,2000,700,15,Clothing,1000,Instagram,Social Media,10076,200,2000,64,12,50,Community,5,Male,40,20000,0
+1/12/2021,7000,300,7,Accessories,8000,Facebook,Networking Event,12387,200,2000,336,272,400,Social Media,3,Female,40,40000,0
+1/12/2021,5000,500,12,Clothing,5000,Instagram,Email,14339,3000,100,355,232,50,Community,2,Female,40,60000,1
+1/13/2021,3000,700,11,Accessories,1000,Facebook,Social Media,14419,200,2000,99,43,200,Social Media,3,Non-Binary,30,20000,0
+1/13/2021,5000,300,11,Home Goods,5000,Email,Networking Event,5912,500,500,45,72,50,Social Media,4,Female,50,60000,0
+1/13/2021,2000,700,12,Accessories,5000,LinkedIn,Social Media,4999,200,1000,315,260,100,Social Media,5,Female,20,40000,1
+1/13/2021,10000,500,7,Clothing,8000,Facebook,In-Store Event,5409,500,2000,392,230,200,Social Media,4,Non-Binary,40,100000,0
+1/14/2021,3000,1000,12,Clothing,1000,Instagram,Social Media,7669,50,500,428,32,50,Community,3,Female,60,60000,0
+1/14/2021,7000,500,7,Accessories,2000,Facebook,Social Media,11594,50,3000,443,67,200,Events,3,Male,40,80000,0
+1/14/2021,5000,700,8,Home Goods,8000,Instagram,Social Media,10321,500,1000,155,15,200,Social Media,3,Male,40,80000,1
+1/15/2021,5000,700,4,Home Goods,8000,LinkedIn,Social Media,3762,200,100,239,149,100,Events,1,Female,20,80000,0
+1/15/2021,5000,100,12,Home Goods,5000,Email,Email,9718,50,3000,352,291,100,Community,4,Male,50,60000,0
+1/15/2021,3000,700,12,Clothing,5000,Facebook,Social Media,3489,500,1000,258,101,50,Social Media,2,Female,30,40000,0
+1/16/2021,10000,1000,16,Clothing,1000,Instagram,Social Media,13808,3000,2000,434,185,100,Social Media,5,Female,40,60000,0
+1/16/2021,7000,700,7,Clothing,5000,Instagram,Social Media,8154,200,1000,135,24,50,Social Media,4,Non-Binary,30,40000,0
+1/16/2021,10000,700,12,Clothing,2000,Instagram,Networking Event,2724,500,2000,369,71,100,Social Media,5,Female,20,40000,0
+1/16/2021,10000,1000,10,Clothing,1000,Email,Social Media,5876,3000,100,197,80,400,Social Media,5,Female,30,40000,0
+1/17/2021,7000,300,9,Home Goods,8000,Facebook,In-Store Event,3420,1000,500,186,60,100,Referral,5,Male,30,40000,1
+1/17/2021,10000,300,11,Clothing,1000,Instagram,Email,8201,500,1000,115,17,200,Community,2,Female,50,40000,1
+1/17/2021,2000,700,8,Clothing,2000,Facebook,Social Media,7041,500,100,444,241,100,Events,5,Male,50,20000,1
+1/18/2021,3000,500,13,Clothing,8000,Email,Networking Event,6115,50,2000,57,57,50,Social Media,4,Female,40,40000,1
+1/18/2021,2000,700,11,Home Goods,1000,Instagram,Social Media,4815,500,1000,69,56,100,Social Media,4,Female,20,40000,0
+1/18/2021,5000,1000,12,Accessories,8000,Email,Social Media,6600,200,500,92,96,200,Social Media,1,Male,30,40000,1
+1/19/2021,5000,500,9,Accessories,8000,Email,Email,12960,200,100,228,214,50,Events,2,Male,40,80000,1
+1/19/2021,3000,300,16,Home Goods,5000,LinkedIn,Social Media,3283,200,2000,395,11,200,Social Media,5,Female,20,40000,0
+1/19/2021,10000,700,13,Clothing,1000,Instagram,Email,10105,50,2000,136,10,100,Events,3,Female,40,100000,0
+1/19/2021,5000,500,9,Accessories,2000,Instagram,In-Store Event,13289,500,1000,104,162,50,Community,2,Female,20,20000,0
+1/20/2021,3000,700,8,Clothing,2000,Instagram,Social Media,12340,500,1000,304,282,100,Social Media,3,Non-Binary,40,80000,0
+1/20/2021,5000,500,16,Clothing,2000,Instagram,In-Store Event,14600,500,500,338,216,100,Social Media,5,Female,50,40000,0
+1/20/2021,3000,700,13,Home Goods,2000,Instagram,Social Media,3308,50,2000,16,240,100,Social Media,3,Female,40,100000,0
+1/21/2021,10000,100,11,Accessories,8000,Facebook,Social Media,3831,50,100,53,44,200,Social Media,5,Male,50,40000,1
+1/21/2021,2000,700,6,Clothing,1000,Facebook,Social Media,2678,500,1000,111,80,200,Social Media,3,Female,50,60000,1
+1/21/2021,10000,500,4,Clothing,5000,Email,In-Store Event,1297,3000,2000,171,254,200,Social Media,3,Female,40,20000,0
+1/22/2021,7000,700,13,Accessories,1000,Instagram,In-Store Event,3346,50,3000,415,66,200,Social Media,3,Female,30,60000,0
+1/22/2021,3000,300,5,Clothing,5000,Facebook,Email,1429,200,1000,418,101,400,Social Media,4,Female,30,40000,0
+1/22/2021,2000,700,8,Clothing,8000,Email,Social Media,5318,1000,2000,461,90,400,Social Media,3,Male,50,60000,1
+1/22/2021,10000,1000,10,Clothing,2000,Email,Social Media,3591,50,1000,304,41,50,Social Media,3,Non-Binary,40,60000,0
+1/23/2021,7000,300,9,Clothing,1000,Email,Email,2762,1000,3000,437,275,100,Community,3,Female,50,100000,1
+1/23/2021,7000,100,13,Home Goods,5000,Email,Social Media,10025,500,1000,143,273,50,Events,3,Male,40,60000,0
+1/23/2021,7000,100,17,Clothing,5000,LinkedIn,In-Store Event,9966,200,1000,84,76,100,Events,4,Male,30,40000,0
+1/24/2021,2000,700,8,Clothing,5000,Instagram,Social Media,13275,200,2000,11,233,400,Community,3,Male,60,40000,1
+1/24/2021,5000,700,16,Accessories,2000,Facebook,Networking Event,8049,200,100,251,201,50,Community,1,Female,30,60000,0
+1/24/2021,3000,500,5,Home Goods,2000,Instagram,Social Media,3980,200,500,215,220,200,Community,2,Female,60,20000,1
+1/25/2021,10000,300,10,Clothing,8000,Instagram,Social Media,3842,1000,100,125,261,200,Events,3,Female,30,80000,0
+1/25/2021,7000,500,7,Clothing,8000,Instagram,Email,6553,500,2000,97,38,50,Events,5,Male,30,40000,1
+1/25/2021,5000,700,9,Clothing,2000,Instagram,Networking Event,8074,500,100,391,10,50,Community,3,Male,30,60000,0
+1/25/2021,2000,500,6,Accessories,8000,Instagram,In-Store Event,8359,1000,2000,491,111,100,Events,1,Female,60,60000,0
+1/26/2021,5000,1000,7,Accessories,2000,Instagram,Social Media,9909,200,1000,404,107,50,Community,3,Male,50,40000,0
+1/26/2021,5000,300,6,Home Goods,2000,Instagram,Email,10156,500,100,303,93,100,Community,4,Female,50,60000,0
+1/26/2021,7000,700,12,Home Goods,1000,LinkedIn,Email,13100,500,1000,391,83,100,Referral,4,Male,30,40000,0
+1/27/2021,7000,500,10,Accessories,2000,Instagram,Email,4674,1000,500,27,57,100,Events,3,Male,20,20000,1
+1/27/2021,10000,500,5,Accessories,5000,Email,Social Media,7647,200,2000,335,292,50,Events,4,Female,40,100000,1
+1/27/2021,5000,700,7,Clothing,1000,Instagram,Networking Event,5270,500,2000,265,15,100,Social Media,4,Female,30,40000,0
+1/28/2021,3000,700,5,Clothing,2000,LinkedIn,Email,6333,1000,1000,51,92,50,Social Media,2,Male,50,60000,0
+1/28/2021,7000,1000,10,Home Goods,5000,Email,In-Store Event,8705,200,100,142,164,200,Events,2,Female,50,60000,1
+1/28/2021,7000,300,7,Clothing,5000,Facebook,Social Media,7502,50,2000,131,214,100,Social Media,4,Male,30,60000,0
+1/28/2021,7000,300,9,Clothing,5000,Facebook,Social Media,2793,500,2000,345,143,200,Community,4,Female,40,20000,1
+1/29/2021,7000,700,11,Accessories,8000,Instagram,In-Store Event,2545,200,2000,206,273,200,Social Media,5,Non-Binary,50,60000,1
+1/29/2021,5000,700,9,Clothing,1000,LinkedIn,Email,1537,500,2000,483,137,200,Events,3,Male,60,40000,1
+1/29/2021,5000,500,10,Accessories,5000,Email,In-Store Event,6742,3000,500,479,203,100,Referral,4,Male,40,60000,0
+1/30/2021,5000,100,12,Accessories,5000,Email,Email,12820,500,2000,61,209,50,Social Media,2,Male,50,100000,1
+1/30/2021,2000,100,10,Clothing,5000,Facebook,Social Media,10151,500,1000,362,18,100,Events,5,Female,40,20000,0
+1/30/2021,3000,1000,14,Home Goods,2000,Instagram,In-Store Event,8948,500,100,485,293,50,Community,4,Female,20,80000,0
+1/31/2021,2000,300,10,Clothing,1000,Email,In-Store Event,12821,50,2000,131,292,400,Social Media,4,Male,30,40000,0
+1/31/2021,7000,500,11,Clothing,8000,Instagram,Social Media,6662,200,3000,40,161,100,Social Media,2,Male,20,40000,0
+1/31/2021,5000,300,8,Accessories,2000,Facebook,Social Media,4573,3000,2000,200,129,400,Community,1,Female,30,40000,0
+1/31/2021,5000,500,12,Accessories,8000,Instagram,Networking Event,1783,500,500,98,43,200,Events,4,Female,20,40000,1
+2/1/2021,10000,100,9,Accessories,5000,LinkedIn,In-Store Event,7232,50,500,310,82,50,Referral,2,Female,50,40000,0
+2/1/2021,3000,500,7,Clothing,5000,Instagram,Email,6445,200,1000,283,123,200,Community,2,Non-Binary,40,40000,0
+2/1/2021,5000,100,9,Accessories,8000,Instagram,In-Store Event,3987,500,2000,356,26,100,Events,2,Male,30,60000,1
+2/2/2021,7000,700,13,Clothing,5000,Facebook,Social Media,2684,1000,500,46,6,50,Social Media,1,Female,30,20000,1
+2/2/2021,3000,300,10,Home Goods,2000,Email,Social Media,9050,1000,2000,136,198,100,Social Media,4,Non-Binary,40,40000,0
+2/2/2021,2000,500,11,Clothing,5000,Facebook,Social Media,12483,200,500,129,111,400,Events,3,Male,20,40000,1
+2/3/2021,3000,1000,7,Accessories,8000,Instagram,Social Media,13541,3000,2000,194,88,100,Community,3,Female,30,80000,1
+2/3/2021,3000,700,12,Clothing,2000,Instagram,In-Store Event,14390,500,3000,116,127,200,Events,3,Female,50,20000,0
+2/3/2021,10000,500,14,Clothing,2000,Email,Social Media,3687,500,1000,363,229,100,Social Media,5,Female,40,100000,1
+2/3/2021,10000,500,8,Clothing,1000,LinkedIn,In-Store Event,13191,500,1000,431,17,100,Events,5,Male,40,40000,0
+2/4/2021,7000,500,9,Home Goods,8000,Email,Email,9917,50,2000,68,288,100,Social Media,3,Female,40,40000,1
+2/4/2021,10000,700,10,Accessories,1000,Facebook,Networking Event,5995,3000,1000,457,160,100,Community,4,Non-Binary,30,40000,0
+2/4/2021,10000,1000,9,Home Goods,5000,LinkedIn,In-Store Event,2797,50,2000,27,280,50,Social Media,3,Female,40,40000,0
+2/5/2021,3000,700,15,Clothing,2000,Facebook,Social Media,7597,200,2000,334,165,100,Community,4,Non-Binary,40,80000,0
+2/5/2021,10000,700,9,Clothing,2000,Facebook,Social Media,8969,1000,500,13,259,200,Community,4,Female,40,60000,0
+2/5/2021,5000,700,19,Clothing,5000,Facebook,Social Media,12899,500,2000,45,189,50,Community,3,Non-Binary,30,40000,0
+2/6/2021,10000,500,11,Home Goods,1000,Facebook,In-Store Event,10678,1000,500,470,265,400,Events,3,Male,50,20000,1
+2/6/2021,10000,100,9,Clothing,5000,Email,In-Store Event,4044,500,3000,396,290,50,Events,4,Female,30,40000,0
+2/6/2021,5000,700,11,Home Goods,5000,Facebook,Email,11485,200,500,15,278,100,Referral,5,Female,40,100000,0
+2/6/2021,3000,1000,7,Home Goods,8000,Instagram,In-Store Event,7331,3000,2000,477,216,50,Events,5,Female,40,80000,0
+2/7/2021,3000,300,9,Home Goods,1000,Instagram,Social Media,891,50,500,423,206,50,Events,4,Male,40,40000,1
+2/7/2021,5000,700,9,Accessories,8000,Instagram,Email,1468,1000,1000,455,152,400,Community,3,Female,40,60000,1
+2/7/2021,10000,300,12,Accessories,5000,Facebook,In-Store Event,10882,200,1000,208,180,200,Events,3,Male,20,80000,1
+2/8/2021,10000,500,12,Accessories,8000,Instagram,Social Media,5651,1000,2000,157,211,200,Events,5,Male,30,60000,1
+2/8/2021,2000,100,7,Clothing,2000,Instagram,In-Store Event,10920,50,1000,336,272,200,Community,2,Male,30,80000,0
+2/8/2021,5000,500,10,Accessories,5000,Facebook,Email,11318,500,2000,226,202,200,Social Media,4,Non-Binary,20,60000,1
+2/9/2021,5000,700,10,Clothing,8000,Facebook,Email,11537,1000,1000,448,204,200,Social Media,3,Male,30,40000,0
+2/9/2021,3000,500,13,Clothing,8000,Email,Social Media,4864,500,2000,240,152,200,Referral,3,Female,40,60000,1
+2/9/2021,3000,700,13,Clothing,2000,Facebook,Email,3807,500,2000,57,169,100,Social Media,3,Male,30,60000,0
+2/9/2021,5000,700,6,Clothing,2000,Email,Networking Event,11292,1000,500,471,240,100,Referral,5,Female,30,60000,1
+2/10/2021,10000,1000,11,Clothing,2000,LinkedIn,Email,11372,500,1000,303,286,200,Community,1,Female,40,40000,0
+2/10/2021,5000,300,6,Clothing,2000,Email,Social Media,6625,3000,1000,304,244,50,Community,4,Female,60,60000,0
+2/10/2021,5000,500,11,Accessories,2000,Facebook,Email,4870,200,1000,344,79,200,Referral,5,Female,50,40000,0
+2/11/2021,7000,300,15,Clothing,2000,Instagram,Email,5338,200,1000,129,91,50,Community,5,Female,60,40000,0
+2/11/2021,5000,1000,11,Accessories,8000,LinkedIn,Networking Event,8777,50,2000,216,148,200,Social Media,3,Female,40,60000,0
+2/11/2021,10000,1000,10,Clothing,1000,Instagram,Email,3634,200,500,13,29,100,Social Media,4,Female,30,60000,0
+2/12/2021,10000,500,8,Accessories,5000,Instagram,Social Media,13191,50,2000,358,122,100,Events,5,Female,40,60000,1
+2/12/2021,3000,700,8,Accessories,1000,Facebook,In-Store Event,10931,500,3000,376,28,50,Community,3,Female,30,100000,0
+2/12/2021,5000,500,7,Accessories,2000,Instagram,Social Media,12056,200,1000,242,258,200,Community,4,Male,20,60000,0
+2/12/2021,5000,700,15,Accessories,1000,LinkedIn,In-Store Event,10737,50,2000,480,185,50,Social Media,3,Female,30,60000,1
+2/13/2021,3000,100,7,Clothing,2000,Facebook,Email,1554,50,100,144,74,200,Social Media,1,Female,30,60000,0
+2/13/2021,2000,700,12,Accessories,5000,Facebook,Email,12093,1000,2000,378,44,200,Social Media,3,Male,40,40000,1
+2/13/2021,7000,300,13,Clothing,8000,Facebook,In-Store Event,4229,500,500,414,68,100,Events,4,Non-Binary,40,80000,0
+2/14/2021,5000,700,13,Clothing,2000,Facebook,Networking Event,14942,200,2000,393,209,400,Events,4,Female,20,40000,0
+2/14/2021,2000,700,12,Accessories,2000,Instagram,Social Media,14682,1000,3000,325,238,50,Events,1,Female,60,60000,0
+2/14/2021,3000,700,16,Clothing,2000,Facebook,Social Media,3169,50,1000,102,191,200,Community,5,Male,40,40000,0
+2/15/2021,10000,100,8,Accessories,8000,Email,Social Media,775,3000,2000,216,102,100,Social Media,3,Non-Binary,40,20000,1
+2/15/2021,3000,500,7,Accessories,5000,Facebook,Email,13438,500,1000,357,240,50,Referral,4,Female,60,20000,0
+2/15/2021,3000,500,7,Clothing,5000,Email,Networking Event,6217,200,100,420,252,50,Social Media,5,Male,20,60000,1
+2/15/2021,5000,500,8,Clothing,5000,Instagram,Social Media,12782,500,2000,63,219,200,Community,3,Female,50,40000,0
+2/16/2021,10000,100,13,Clothing,8000,Instagram,Social Media,9797,1000,100,157,216,400,Referral,4,Female,30,40000,1
+2/16/2021,3000,1000,5,Home Goods,1000,Instagram,In-Store Event,14701,200,2000,161,201,50,Social Media,4,Female,40,60000,1
+2/16/2021,7000,700,9,Accessories,2000,Instagram,Social Media,8522,1000,100,17,28,50,Events,4,Female,60,20000,0
+2/17/2021,7000,500,7,Clothing,8000,Email,Email,8500,200,2000,215,211,400,Community,3,Female,40,40000,1
+2/17/2021,3000,500,15,Clothing,5000,Email,In-Store Event,13373,200,500,318,153,50,Social Media,3,Female,20,40000,0
+2/17/2021,7000,500,7,Accessories,5000,Instagram,Networking Event,11624,50,1000,48,230,100,Referral,4,Non-Binary,20,60000,0
+2/18/2021,5000,700,4,Home Goods,5000,Facebook,Social Media,628,200,1000,55,101,100,Social Media,3,Non-Binary,30,60000,1
+2/18/2021,7000,500,12,Clothing,2000,Email,Email,13043,200,1000,346,176,100,Community,3,Female,50,80000,0
+2/18/2021,7000,1000,7,Clothing,5000,Instagram,Email,7577,3000,1000,57,180,200,Community,5,Non-Binary,30,40000,0
+2/18/2021,5000,500,9,Home Goods,5000,Instagram,Social Media,4826,50,1000,154,231,400,Community,3,Female,30,40000,0
+2/19/2021,2000,1000,13,Clothing,2000,LinkedIn,Social Media,4068,200,1000,54,11,100,Social Media,5,Male,50,20000,1
+2/19/2021,10000,1000,8,Clothing,5000,Facebook,In-Store Event,13948,500,1000,486,185,200,Events,3,Non-Binary,20,100000,1
+2/19/2021,5000,300,7,Home Goods,8000,LinkedIn,In-Store Event,8122,1000,1000,340,248,200,Community,4,Male,50,60000,1
+2/20/2021,3000,1000,13,Accessories,1000,Instagram,In-Store Event,8580,3000,1000,18,265,100,Community,5,Male,30,60000,0
+2/20/2021,2000,300,13,Clothing,2000,Email,Social Media,2902,1000,500,486,134,50,Social Media,5,Female,20,100000,1
+2/20/2021,7000,700,11,Clothing,2000,Instagram,Networking Event,2147,3000,3000,150,244,200,Social Media,3,Female,20,40000,1
+2/21/2021,7000,500,14,Clothing,5000,Instagram,Social Media,4056,1000,1000,358,30,100,Social Media,5,Female,60,40000,0
+2/21/2021,2000,1000,13,Clothing,2000,Facebook,Email,12583,3000,500,367,258,50,Events,3,Female,40,60000,0
+2/21/2021,5000,1000,12,Home Goods,5000,Instagram,Email,2693,500,1000,107,103,400,Events,1,Male,30,80000,1
+2/21/2021,3000,700,7,Clothing,8000,Instagram,Social Media,10739,50,2000,46,0,200,Community,4,Non-Binary,40,60000,1
+2/22/2021,7000,700,8,Accessories,2000,Instagram,In-Store Event,3604,200,100,206,206,400,Social Media,5,Female,40,80000,0
+2/22/2021,3000,500,13,Home Goods,8000,Instagram,Email,4855,500,2000,362,134,100,Social Media,5,Non-Binary,30,60000,1
+2/22/2021,7000,100,11,Clothing,8000,Email,Email,2634,200,1000,449,270,200,Community,2,Male,40,80000,0
+2/23/2021,5000,500,9,Clothing,1000,Facebook,In-Store Event,9534,200,500,482,88,200,Social Media,4,Female,30,60000,1
+2/23/2021,10000,300,12,Accessories,2000,Instagram,Email,10663,500,2000,434,194,400,Events,5,Female,20,40000,0
+2/23/2021,3000,700,16,Home Goods,8000,Instagram,Networking Event,13052,3000,1000,339,121,400,Community,3,Female,40,60000,0
+2/24/2021,5000,500,10,Home Goods,8000,Instagram,Social Media,4403,50,500,411,115,400,Community,4,Male,30,60000,0
+2/24/2021,3000,1000,12,Clothing,1000,Facebook,Email,4113,1000,2000,127,195,400,Events,3,Female,60,60000,1
+2/24/2021,10000,700,8,Accessories,1000,Instagram,In-Store Event,9083,500,2000,184,35,50,Social Media,3,Male,20,40000,0
+2/24/2021,10000,700,11,Accessories,1000,Email,Email,2779,3000,2000,57,66,200,Social Media,4,Female,50,20000,1
+2/25/2021,3000,300,9,Home Goods,8000,Instagram,Social Media,9592,3000,2000,142,132,100,Social Media,3,Non-Binary,30,40000,0
+2/25/2021,7000,1000,14,Clothing,1000,Instagram,Email,13375,1000,2000,399,280,200,Referral,3,Male,50,100000,1
+2/25/2021,10000,1000,11,Accessories,5000,Email,Email,11186,500,2000,96,10,400,Community,2,Female,20,40000,0
+2/26/2021,7000,500,18,Home Goods,8000,Email,Email,1652,200,100,46,217,50,Community,4,Female,60,60000,0
+2/26/2021,5000,700,10,Clothing,1000,Instagram,Email,1794,500,2000,190,155,100,Community,3,Male,20,60000,0
+2/26/2021,3000,700,6,Clothing,5000,Email,Email,9157,1000,2000,139,239,200,Events,3,Male,50,80000,0
+2/27/2021,2000,300,8,Clothing,2000,Facebook,Networking Event,5789,1000,100,102,59,100,Social Media,4,Male,40,80000,1
+2/27/2021,10000,500,11,Clothing,8000,Email,Social Media,10867,1000,1000,230,137,50,Referral,2,Male,30,100000,0
+2/27/2021,10000,500,9,Clothing,2000,Facebook,Social Media,3745,200,100,426,49,50,Events,5,Male,30,60000,0
+2/27/2021,7000,300,5,Home Goods,5000,Facebook,Social Media,6568,500,2000,339,166,50,Social Media,3,Male,50,80000,0
+2/28/2021,5000,500,12,Clothing,5000,LinkedIn,In-Store Event,13837,200,1000,412,164,200,Community,3,Male,30,40000,0
+2/28/2021,5000,100,7,Clothing,2000,Instagram,In-Store Event,7216,50,3000,490,188,100,Social Media,2,Female,40,40000,0
+2/28/2021,7000,100,8,Accessories,1000,Facebook,Networking Event,7154,200,500,48,91,50,Community,2,Female,30,80000,0
+3/1/2021,10000,300,15,Clothing,2000,Facebook,In-Store Event,9179,50,2000,386,293,400,Referral,5,Female,60,40000,0
+3/1/2021,10000,1000,14,Clothing,2000,Instagram,Social Media,3438,1000,500,111,288,200,Social Media,3,Female,40,80000,0
+3/1/2021,7000,500,8,Accessories,8000,Instagram,Social Media,3126,200,2000,452,74,100,Community,4,Male,20,40000,0
+3/2/2021,7000,1000,5,Home Goods,8000,Instagram,Social Media,1449,200,2000,315,44,100,Social Media,1,Female,30,40000,0
+3/2/2021,2000,500,4,Accessories,2000,Facebook,Social Media,13193,3000,2000,321,52,200,Community,4,Male,20,40000,0
+3/2/2021,3000,500,7,Accessories,5000,Facebook,Social Media,9741,200,2000,86,174,100,Social Media,5,Female,30,60000,1
+3/2/2021,10000,500,8,Clothing,5000,Facebook,Social Media,13894,50,2000,381,160,200,Community,3,Non-Binary,30,20000,1
+3/3/2021,7000,500,6,Home Goods,8000,Instagram,In-Store Event,4575,200,100,473,66,200,Social Media,4,Male,50,20000,0
+3/3/2021,2000,300,19,Clothing,2000,Facebook,In-Store Event,13151,50,1000,281,269,50,Social Media,5,Female,50,80000,0
+3/3/2021,3000,700,8,Accessories,2000,LinkedIn,Social Media,10082,50,2000,326,123,400,Social Media,4,Female,20,100000,0
+3/4/2021,7000,300,8,Clothing,2000,Instagram,Networking Event,9775,50,1000,251,181,100,Social Media,1,Female,40,20000,1
+3/4/2021,2000,700,7,Home Goods,5000,Facebook,Email,13338,500,500,73,181,100,Community,3,Male,30,60000,0
+3/4/2021,3000,700,7,Accessories,2000,Email,Email,2158,200,1000,452,35,400,Social Media,1,Male,30,60000,1
+3/5/2021,5000,300,12,Accessories,2000,Email,Social Media,13079,200,1000,46,211,100,Social Media,5,Female,20,40000,0
+3/5/2021,7000,100,7,Clothing,1000,Facebook,Social Media,7432,1000,1000,75,133,200,Social Media,4,Male,40,60000,1
+3/5/2021,7000,700,6,Clothing,5000,Email,Email,14748,200,2000,95,177,200,Referral,5,Female,60,60000,0
+3/5/2021,3000,500,14,Accessories,2000,Instagram,In-Store Event,8553,3000,1000,425,165,50,Community,1,Female,30,60000,0
+3/6/2021,7000,100,5,Accessories,1000,Email,Social Media,7459,500,100,30,45,400,Social Media,3,Non-Binary,30,80000,0
+3/6/2021,3000,1000,8,Clothing,2000,Instagram,Social Media,2317,200,100,21,155,100,Social Media,2,Male,30,60000,0
+3/6/2021,5000,100,13,Home Goods,2000,Instagram,Email,8882,1000,2000,16,235,100,Social Media,3,Male,60,40000,1
+3/7/2021,7000,700,11,Home Goods,5000,Instagram,Email,960,50,3000,211,59,400,Events,2,Male,20,60000,1
+3/7/2021,7000,1000,6,Clothing,2000,Email,In-Store Event,8471,50,2000,147,4,100,Community,3,Female,40,60000,0
+3/7/2021,10000,300,8,Home Goods,2000,Facebook,Social Media,6515,500,1000,234,180,200,Events,5,Female,50,60000,0
+3/8/2021,7000,300,5,Accessories,5000,Instagram,In-Store Event,6876,500,3000,391,144,200,Community,2,Non-Binary,30,60000,1
+3/8/2021,7000,300,8,Clothing,2000,Instagram,In-Store Event,3021,1000,2000,494,264,50,Social Media,3,Female,40,60000,0
+3/8/2021,2000,500,10,Clothing,1000,LinkedIn,Social Media,3976,3000,2000,353,222,50,Events,5,Female,20,40000,0
+3/8/2021,5000,300,11,Accessories,8000,Email,Email,3205,200,2000,304,236,50,Community,5,Female,50,40000,0
+3/9/2021,3000,700,8,Accessories,2000,Facebook,In-Store Event,4866,500,1000,86,12,200,Events,3,Male,30,60000,0
+3/9/2021,3000,100,15,Clothing,2000,Facebook,In-Store Event,9849,500,1000,37,267,50,Community,5,Male,60,80000,1
+3/9/2021,10000,500,7,Accessories,1000,Facebook,Social Media,12958,3000,500,52,265,100,Events,3,Male,60,40000,0
+3/10/2021,5000,1000,12,Accessories,2000,Instagram,Networking Event,14226,1000,500,27,15,100,Social Media,3,Female,40,40000,0
+3/10/2021,10000,700,10,Accessories,5000,LinkedIn,Networking Event,527,3000,2000,76,91,100,Social Media,5,Female,40,60000,0
+3/10/2021,7000,700,9,Clothing,5000,Instagram,Social Media,4731,200,2000,412,247,200,Referral,4,Male,50,40000,0
+3/11/2021,7000,500,9,Home Goods,5000,Facebook,Social Media,11664,1000,2000,199,18,400,Social Media,5,Female,20,20000,1
+3/11/2021,5000,700,9,Clothing,1000,Instagram,In-Store Event,7048,200,1000,394,102,100,Community,5,Male,30,60000,0
+3/11/2021,7000,500,6,Clothing,2000,Facebook,Social Media,3524,200,100,430,94,100,Events,3,Male,20,40000,0
+3/11/2021,5000,500,17,Clothing,8000,Facebook,Email,13675,3000,100,172,282,200,Community,4,Female,40,40000,1
+3/12/2021,3000,300,11,Clothing,8000,Facebook,Social Media,14316,50,1000,273,212,100,Social Media,3,Non-Binary,50,40000,0
+3/12/2021,7000,1000,10,Home Goods,1000,Instagram,Email,1764,3000,1000,49,36,400,Referral,3,Male,60,80000,0
+3/12/2021,3000,500,7,Clothing,2000,Facebook,Email,9547,50,2000,344,60,100,Social Media,2,Female,40,40000,0
+3/13/2021,2000,300,9,Accessories,2000,Instagram,In-Store Event,12717,1000,100,176,290,100,Community,3,Female,40,60000,0
+3/13/2021,7000,500,6,Clothing,1000,Instagram,Email,7087,200,3000,405,243,400,Community,5,Male,50,60000,0
+3/13/2021,3000,500,7,Clothing,2000,Instagram,Email,7077,200,1000,300,5,100,Community,5,Female,60,60000,0
+3/14/2021,10000,700,7,Home Goods,1000,Email,Social Media,1751,200,2000,444,164,50,Social Media,4,Male,40,20000,0
+3/14/2021,10000,700,13,Accessories,5000,Facebook,Social Media,13296,500,1000,226,12,50,Community,3,Male,20,60000,1
+3/14/2021,10000,700,11,Clothing,5000,Facebook,Social Media,4370,200,500,126,24,400,Events,4,Male,40,20000,0
+3/14/2021,5000,100,9,Accessories,1000,Email,Email,1826,500,2000,348,223,200,Social Media,4,Male,40,20000,1
+3/15/2021,2000,500,9,Clothing,1000,Facebook,Email,6677,50,2000,20,122,100,Referral,5,Male,40,40000,0
+3/15/2021,10000,500,10,Clothing,8000,Facebook,Email,9717,50,1000,198,128,200,Events,2,Male,60,40000,1
+3/15/2021,5000,100,13,Accessories,1000,Instagram,Social Media,861,50,1000,188,121,100,Referral,3,Female,60,80000,1
+3/16/2021,10000,500,12,Accessories,5000,Instagram,Email,1718,200,100,331,34,100,Community,5,Female,30,60000,0
+3/16/2021,10000,700,7,Clothing,2000,Facebook,In-Store Event,1105,1000,2000,419,82,200,Social Media,5,Male,20,40000,1
+3/16/2021,10000,300,13,Home Goods,5000,Facebook,Social Media,6459,1000,3000,151,181,200,Social Media,3,Male,30,100000,0
+3/17/2021,3000,500,12,Accessories,2000,Email,Email,14119,200,100,159,75,100,Community,2,Male,30,40000,1
+3/17/2021,5000,300,10,Clothing,1000,Email,Networking Event,2170,500,500,346,103,50,Social Media,5,Female,30,60000,1
+3/17/2021,10000,100,5,Accessories,2000,Instagram,Social Media,13503,1000,3000,479,231,50,Events,4,Male,50,80000,0
+3/17/2021,5000,300,15,Accessories,1000,Instagram,Social Media,10989,200,500,442,42,200,Community,4,Female,30,80000,0
+3/18/2021,3000,1000,8,Accessories,2000,Facebook,Email,10886,200,2000,95,92,200,Community,3,Female,40,20000,0
+3/18/2021,7000,700,10,Clothing,5000,Instagram,Social Media,4943,500,1000,351,143,200,Community,3,Non-Binary,30,60000,0
+3/18/2021,10000,1000,13,Accessories,2000,Instagram,Networking Event,1777,50,1000,473,253,200,Events,1,Female,40,40000,0
+3/19/2021,7000,500,10,Clothing,1000,Email,In-Store Event,898,50,1000,74,77,200,Referral,4,Male,50,40000,0
+3/19/2021,7000,300,13,Home Goods,5000,Instagram,Email,14145,200,500,365,262,200,Community,2,Female,50,60000,0
+3/19/2021,2000,500,13,Accessories,5000,LinkedIn,Social Media,13987,500,100,81,69,50,Social Media,2,Female,20,80000,0
+3/20/2021,7000,500,8,Clothing,8000,Email,Social Media,2672,50,2000,127,148,100,Referral,3,Female,50,40000,0
+3/20/2021,10000,700,10,Accessories,5000,Email,In-Store Event,3310,200,2000,358,291,100,Social Media,3,Female,30,20000,0
+3/20/2021,3000,100,3,Home Goods,2000,Instagram,In-Store Event,6774,200,2000,132,213,100,Events,3,Male,40,40000,0
+3/20/2021,5000,500,10,Home Goods,5000,Instagram,Email,6181,50,2000,399,146,200,Community,2,Female,20,40000,1
+3/21/2021,10000,300,14,Clothing,8000,Facebook,Email,11344,200,500,138,24,400,Social Media,5,Non-Binary,40,20000,1
+3/21/2021,7000,500,7,Clothing,8000,Instagram,Social Media,3439,3000,100,245,108,100,Social Media,2,Non-Binary,20,100000,0
+3/21/2021,7000,700,12,Accessories,2000,Instagram,Email,9513,50,2000,290,180,400,Events,3,Female,40,40000,1
+3/22/2021,7000,500,11,Clothing,2000,Instagram,Social Media,13689,500,1000,111,250,100,Community,3,Male,40,40000,1
+3/22/2021,5000,500,6,Home Goods,2000,Instagram,Email,1444,200,1000,202,202,100,Community,5,Male,30,60000,1
+3/22/2021,3000,500,13,Clothing,5000,Instagram,Social Media,12170,500,500,169,169,200,Social Media,3,Female,60,80000,0
+3/23/2021,10000,500,12,Clothing,5000,Email,In-Store Event,11471,500,100,86,174,100,Social Media,2,Female,20,80000,0
+3/23/2021,10000,700,13,Clothing,5000,Instagram,In-Store Event,6465,200,1000,118,169,100,Events,1,Non-Binary,50,60000,0
+3/23/2021,10000,1000,12,Clothing,1000,Instagram,Social Media,13121,1000,2000,97,1,100,Events,4,Female,30,20000,0
+3/23/2021,10000,1000,16,Accessories,5000,Facebook,Social Media,13831,500,3000,239,133,400,Community,4,Female,40,80000,0
+3/24/2021,5000,700,4,Clothing,8000,LinkedIn,In-Store Event,6848,1000,2000,336,126,200,Events,3,Female,40,60000,0
+3/24/2021,5000,500,13,Clothing,2000,Instagram,Email,8270,200,3000,137,45,100,Community,2,Female,30,60000,0
+3/24/2021,7000,700,13,Clothing,5000,Instagram,Social Media,7599,3000,3000,81,193,50,Social Media,3,Female,30,100000,0
+3/25/2021,7000,500,8,Accessories,2000,Facebook,Social Media,13142,1000,1000,235,208,400,Events,4,Male,40,80000,0
+3/25/2021,7000,500,16,Clothing,8000,LinkedIn,Email,1696,3000,500,135,295,100,Community,4,Female,50,80000,1
+3/25/2021,7000,700,11,Accessories,8000,Email,Social Media,1712,500,2000,281,57,400,Community,1,Non-Binary,60,40000,1
+3/26/2021,10000,100,8,Accessories,5000,Facebook,Email,1323,500,500,2,77,100,Social Media,4,Male,20,60000,1
+3/26/2021,5000,1000,12,Accessories,5000,Instagram,Social Media,13813,1000,500,58,201,200,Events,3,Female,30,100000,0
+3/26/2021,5000,500,12,Home Goods,8000,Facebook,Email,10588,1000,500,115,288,200,Social Media,4,Male,40,60000,1
+3/26/2021,2000,700,8,Home Goods,2000,Instagram,Social Media,7584,3000,1000,471,61,100,Social Media,4,Female,40,20000,0
+3/27/2021,7000,700,9,Home Goods,2000,Facebook,Email,12955,200,1000,130,267,200,Events,5,Female,60,60000,1
+3/27/2021,2000,1000,8,Clothing,5000,Email,In-Store Event,11107,1000,500,421,125,100,Events,3,Non-Binary,20,20000,0
+3/27/2021,5000,700,16,Clothing,2000,LinkedIn,Social Media,1035,200,1000,385,48,200,Events,4,Female,30,60000,0
+3/28/2021,5000,700,9,Clothing,2000,Instagram,Social Media,14736,500,2000,482,87,200,Social Media,3,Female,40,80000,1
+3/28/2021,3000,100,4,Home Goods,8000,Instagram,Social Media,3510,200,1000,400,260,50,Community,3,Male,30,40000,1
+3/28/2021,7000,500,6,Home Goods,5000,Facebook,Social Media,11319,200,2000,200,178,200,Community,1,Female,40,40000,1
+3/29/2021,2000,300,9,Home Goods,2000,Email,Email,8037,3000,500,291,68,50,Events,3,Female,20,40000,1
+3/29/2021,2000,700,7,Clothing,2000,Email,Networking Event,12469,50,500,341,59,50,Events,1,Female,40,80000,0
+3/29/2021,10000,500,13,Home Goods,2000,Instagram,Email,14407,500,1000,478,248,200,Referral,5,Male,40,60000,0
+3/29/2021,5000,700,13,Clothing,2000,Instagram,Email,1449,500,1000,97,168,50,Community,4,Female,30,60000,0
+3/30/2021,3000,100,12,Clothing,1000,Facebook,Networking Event,12200,50,2000,215,268,100,Community,2,Female,20,60000,0
+3/30/2021,5000,100,9,Clothing,5000,Instagram,Email,12994,200,2000,123,111,50,Community,2,Non-Binary,60,40000,1
+3/30/2021,7000,700,8,Clothing,2000,Email,Social Media,1043,500,2000,72,99,100,Community,3,Female,60,40000,1
+3/31/2021,3000,100,8,Accessories,2000,Facebook,Social Media,4400,200,3000,365,214,50,Social Media,3,Male,60,60000,0
+3/31/2021,7000,100,7,Clothing,2000,Email,Social Media,12445,1000,1000,377,112,50,Referral,3,Female,60,100000,0
+3/31/2021,2000,100,9,Clothing,8000,Facebook,Networking Event,4724,3000,500,490,96,200,Social Media,3,Non-Binary,30,20000,0
+4/1/2021,2000,1000,6,Accessories,2000,Email,Social Media,14258,200,1000,129,117,200,Social Media,5,Female,30,20000,1
+4/1/2021,5000,700,10,Home Goods,1000,Instagram,Social Media,10774,200,500,468,35,400,Social Media,4,Female,20,40000,0
+4/1/2021,5000,500,10,Accessories,1000,Email,Networking Event,3366,500,500,417,289,50,Community,4,Non-Binary,50,60000,0
+4/1/2021,7000,500,11,Clothing,5000,Instagram,Email,2746,500,500,26,123,200,Events,5,Male,50,40000,0
+4/2/2021,7000,500,6,Home Goods,5000,Facebook,Social Media,2336,200,1000,164,39,200,Social Media,1,Male,40,100000,0
+4/2/2021,10000,700,10,Home Goods,2000,Instagram,Social Media,8768,50,500,454,140,100,Community,2,Female,60,40000,1
+4/2/2021,5000,700,8,Clothing,2000,Facebook,Social Media,9060,500,100,405,25,200,Social Media,3,Male,40,20000,1
+4/3/2021,5000,300,13,Accessories,1000,Instagram,In-Store Event,7476,3000,2000,67,141,200,Social Media,4,Female,20,40000,0
+4/3/2021,7000,300,9,Clothing,5000,Instagram,In-Store Event,13313,200,2000,13,56,100,Community,3,Female,30,80000,0
+4/3/2021,3000,100,13,Clothing,5000,LinkedIn,Email,848,200,2000,97,149,200,Community,2,Female,20,20000,1
+4/4/2021,5000,700,11,Accessories,1000,Instagram,Email,5101,3000,2000,278,204,100,Social Media,5,Male,30,60000,1
+4/4/2021,2000,700,7,Home Goods,1000,Email,Email,13430,500,500,427,75,100,Community,3,Female,30,40000,0
+4/4/2021,2000,500,11,Clothing,1000,LinkedIn,Email,4833,500,500,489,284,100,Community,4,Female,50,60000,0
+4/4/2021,10000,100,10,Home Goods,1000,Instagram,Email,5899,500,500,472,209,200,Social Media,5,Female,30,20000,1
+4/5/2021,10000,100,6,Home Goods,5000,Facebook,Social Media,6196,3000,2000,448,257,100,Social Media,3,Female,40,60000,0
+4/5/2021,7000,1000,9,Home Goods,1000,Instagram,In-Store Event,1955,500,2000,370,258,100,Social Media,5,Male,40,40000,1
+4/5/2021,5000,500,3,Clothing,2000,Instagram,Networking Event,2685,1000,500,246,183,200,Referral,4,Female,60,100000,0
+4/6/2021,3000,700,12,Home Goods,1000,Facebook,Email,7936,500,1000,111,10,200,Social Media,5,Female,50,80000,0
+4/6/2021,3000,700,7,Clothing,8000,LinkedIn,Social Media,4311,500,3000,206,159,200,Social Media,3,Female,60,40000,0
+4/6/2021,3000,500,7,Accessories,8000,Instagram,Social Media,11964,200,1000,351,259,50,Events,5,Female,30,100000,1
+4/7/2021,5000,300,9,Clothing,2000,Facebook,In-Store Event,7809,200,2000,333,87,200,Social Media,1,Male,20,20000,1
+4/7/2021,7000,300,13,Clothing,2000,Facebook,In-Store Event,14461,1000,500,232,183,100,Community,4,Male,40,80000,0
+4/7/2021,7000,700,8,Accessories,2000,Email,In-Store Event,8586,200,500,60,15,100,Social Media,3,Female,20,40000,0
+4/7/2021,3000,700,13,Clothing,2000,Instagram,Social Media,4182,500,2000,84,243,100,Events,2,Female,40,40000,0
+4/8/2021,10000,700,7,Clothing,1000,Facebook,Social Media,2346,200,2000,182,85,200,Events,1,Male,30,40000,1
+4/8/2021,7000,500,10,Clothing,5000,Facebook,Email,2354,1000,2000,238,198,200,Referral,3,Female,40,60000,1
+4/8/2021,7000,100,14,Accessories,5000,Facebook,Social Media,3485,50,1000,249,9,200,Social Media,3,Female,60,20000,1
+4/9/2021,7000,1000,9,Clothing,8000,LinkedIn,Email,13142,1000,1000,70,163,100,Events,3,Male,30,60000,0
+4/9/2021,5000,700,13,Home Goods,1000,Email,Social Media,11317,500,2000,227,23,100,Community,3,Non-Binary,60,40000,0
+4/9/2021,3000,500,10,Clothing,8000,Instagram,Social Media,3394,200,500,84,63,50,Social Media,3,Male,30,60000,0
+4/10/2021,5000,1000,16,Clothing,5000,Facebook,Email,7996,500,1000,305,237,400,Referral,3,Female,30,60000,0
+4/10/2021,7000,700,16,Clothing,1000,Instagram,Email,1058,200,2000,487,237,100,Community,3,Female,40,60000,0
+4/10/2021,2000,700,10,Clothing,2000,Instagram,Email,3396,200,1000,395,21,100,Community,5,Male,50,60000,1
+4/10/2021,3000,700,10,Clothing,1000,Facebook,Email,10609,200,1000,462,179,200,Social Media,4,Non-Binary,40,40000,0
+4/11/2021,2000,700,6,Clothing,2000,Instagram,Email,1754,50,2000,270,46,50,Events,1,Female,40,20000,0
+4/11/2021,2000,700,19,Home Goods,2000,Facebook,Email,2181,3000,3000,400,278,200,Community,4,Male,30,40000,1
+4/11/2021,10000,300,12,Accessories,5000,LinkedIn,Email,13957,50,1000,289,223,200,Social Media,4,Female,20,100000,1
+4/12/2021,7000,500,9,Clothing,2000,Instagram,Email,5771,500,1000,235,217,200,Community,1,Female,30,60000,0
+4/12/2021,5000,1000,12,Clothing,8000,LinkedIn,In-Store Event,10506,200,2000,290,236,50,Social Media,3,Non-Binary,30,60000,0
+4/12/2021,2000,300,8,Home Goods,1000,Facebook,Social Media,6783,500,2000,38,203,100,Referral,3,Female,60,80000,0
+4/13/2021,5000,500,9,Clothing,8000,Facebook,Email,9354,200,2000,485,18,50,Community,5,Male,60,100000,0
+4/13/2021,5000,500,13,Clothing,2000,Email,Social Media,12808,500,1000,205,179,100,Community,3,Male,30,60000,1
+4/13/2021,3000,500,9,Accessories,5000,Instagram,In-Store Event,3825,500,1000,182,161,200,Social Media,4,Female,40,60000,1
+4/13/2021,5000,700,5,Accessories,2000,Facebook,Social Media,14899,500,2000,186,284,50,Social Media,3,Female,40,80000,0
+4/14/2021,5000,1000,9,Accessories,1000,Facebook,Email,1741,50,2000,132,60,200,Community,4,Non-Binary,20,80000,1
+4/14/2021,7000,300,11,Clothing,8000,Instagram,Social Media,3643,500,2000,29,84,100,Social Media,3,Female,30,60000,1
+4/14/2021,7000,300,9,Clothing,2000,LinkedIn,Networking Event,3537,200,500,387,34,200,Referral,3,Non-Binary,40,60000,1
+4/15/2021,2000,300,10,Accessories,5000,Email,Networking Event,8853,50,1000,254,4,100,Social Media,3,Non-Binary,40,60000,1
+4/15/2021,5000,1000,10,Clothing,5000,Instagram,Social Media,12917,200,1000,142,75,100,Social Media,5,Female,30,40000,0
+4/15/2021,7000,700,18,Accessories,2000,Instagram,In-Store Event,10642,200,3000,102,252,100,Social Media,1,Male,60,80000,0
+4/16/2021,5000,500,15,Accessories,2000,Facebook,In-Store Event,13012,500,2000,418,6,200,Social Media,2,Male,40,60000,0
+4/16/2021,10000,700,11,Clothing,5000,Instagram,Social Media,2281,500,1000,492,168,100,Community,4,Male,30,40000,0
+4/16/2021,7000,1000,13,Home Goods,1000,Facebook,Social Media,5175,200,100,73,129,100,Social Media,4,Female,30,40000,0
+4/16/2021,3000,700,12,Home Goods,5000,Instagram,Social Media,1977,200,1000,54,137,50,Referral,3,Male,50,80000,0
+4/17/2021,2000,1000,10,Accessories,8000,Facebook,In-Store Event,11722,50,100,449,299,100,Community,3,Male,40,60000,1
+4/17/2021,7000,500,9,Clothing,1000,Instagram,Email,7648,500,2000,235,90,200,Social Media,3,Male,40,40000,0
+4/17/2021,2000,700,15,Clothing,1000,Instagram,In-Store Event,12678,500,2000,59,162,200,Community,3,Male,30,40000,1
+4/18/2021,7000,500,14,Clothing,5000,Facebook,Email,8051,200,1000,23,252,50,Social Media,5,Male,30,60000,0
+4/18/2021,10000,700,10,Clothing,2000,Facebook,Social Media,606,500,1000,475,200,100,Social Media,1,Male,30,40000,0
+4/18/2021,7000,700,11,Home Goods,2000,LinkedIn,In-Store Event,3168,500,2000,21,19,50,Social Media,5,Female,30,60000,0
+4/19/2021,5000,700,19,Clothing,1000,Email,Email,5435,500,500,427,228,400,Social Media,3,Male,40,60000,0
+4/19/2021,7000,700,12,Clothing,5000,Instagram,Social Media,7770,500,500,31,162,100,Community,3,Female,30,60000,0
+4/19/2021,5000,300,17,Clothing,1000,Instagram,Email,1664,500,3000,350,164,200,Events,4,Male,30,100000,1
+4/19/2021,5000,500,13,Accessories,2000,Email,Social Media,1657,500,2000,338,231,200,Social Media,4,Female,30,20000,0
+4/20/2021,10000,1000,11,Clothing,5000,LinkedIn,Email,2746,200,2000,434,237,200,Community,1,Female,40,40000,1
+4/20/2021,5000,1000,12,Clothing,2000,Email,Social Media,7153,50,500,468,119,400,Referral,4,Female,50,20000,0
+4/20/2021,10000,100,16,Clothing,2000,Instagram,Social Media,9358,200,500,2,106,50,Community,4,Female,50,40000,0
+4/21/2021,10000,300,11,Home Goods,8000,LinkedIn,In-Store Event,10818,500,100,69,249,400,Events,2,Male,50,20000,1
+4/21/2021,3000,300,8,Clothing,5000,Instagram,In-Store Event,14759,1000,500,159,283,200,Social Media,2,Male,40,60000,0
+4/21/2021,2000,700,9,Home Goods,8000,Email,Email,11633,200,2000,385,197,100,Social Media,3,Female,30,40000,0
+4/22/2021,3000,700,6,Home Goods,2000,LinkedIn,Networking Event,8149,200,500,87,219,200,Community,4,Non-Binary,40,100000,0
+4/22/2021,2000,300,5,Clothing,5000,Instagram,Email,1011,1000,2000,364,150,200,Social Media,3,Non-Binary,20,20000,0
+4/22/2021,2000,500,5,Accessories,1000,LinkedIn,Email,8941,1000,500,58,285,200,Community,4,Female,50,60000,0
+4/22/2021,7000,700,12,Clothing,1000,Instagram,Email,1388,1000,1000,251,264,50,Events,4,Female,50,100000,0
+4/23/2021,2000,700,6,Home Goods,2000,LinkedIn,In-Store Event,9715,500,3000,218,219,200,Events,4,Female,40,40000,0
+4/23/2021,5000,500,20,Accessories,2000,Instagram,In-Store Event,13386,1000,500,200,215,50,Social Media,4,Female,20,40000,0
+4/23/2021,10000,700,16,Clothing,8000,LinkedIn,Email,8483,50,1000,76,155,200,Events,3,Female,60,60000,1
+4/24/2021,2000,500,3,Clothing,2000,Instagram,Email,13540,50,1000,254,215,400,Referral,5,Male,50,60000,0
+4/24/2021,10000,500,11,Clothing,5000,Email,Email,9291,50,500,246,113,200,Social Media,4,Non-Binary,40,60000,1
+4/24/2021,3000,700,8,Home Goods,5000,Facebook,Social Media,3522,500,1000,269,160,100,Social Media,3,Male,20,40000,0
+4/25/2021,3000,700,11,Clothing,5000,Facebook,Social Media,3030,50,1000,306,97,200,Community,4,Female,30,60000,1
+4/25/2021,7000,1000,8,Accessories,2000,Instagram,Email,11575,500,2000,138,156,100,Events,4,Non-Binary,20,60000,1
+4/25/2021,7000,700,8,Clothing,5000,Email,Networking Event,6815,500,2000,77,161,200,Events,3,Non-Binary,30,40000,0
+4/25/2021,10000,700,9,Home Goods,2000,Instagram,Social Media,2564,200,1000,79,41,200,Community,3,Female,40,100000,1
+4/26/2021,7000,300,7,Clothing,1000,Facebook,In-Store Event,10450,1000,100,9,179,50,Social Media,3,Male,50,60000,0
+4/26/2021,10000,500,5,Accessories,8000,Instagram,Social Media,5913,200,2000,467,50,50,Referral,5,Male,30,60000,0
+4/26/2021,3000,100,8,Clothing,1000,LinkedIn,Social Media,7037,200,100,335,251,200,Community,4,Male,40,80000,0
+4/27/2021,3000,300,5,Accessories,1000,Instagram,Networking Event,14633,1000,2000,123,119,100,Social Media,1,Female,30,60000,1
+4/27/2021,7000,700,13,Clothing,8000,Instagram,In-Store Event,4069,50,2000,185,74,200,Social Media,4,Female,30,20000,1
+4/27/2021,10000,1000,10,Clothing,2000,Instagram,Email,1742,500,500,33,161,100,Social Media,1,Female,60,60000,0
+4/28/2021,10000,100,8,Clothing,5000,Facebook,Social Media,4829,1000,2000,120,148,50,Community,3,Female,40,80000,0
+4/28/2021,5000,500,10,Accessories,2000,Instagram,In-Store Event,14201,3000,3000,79,122,200,Community,3,Female,40,60000,0
+4/28/2021,5000,700,11,Clothing,2000,Facebook,Email,10987,1000,2000,205,140,200,Community,4,Female,30,100000,0
+4/28/2021,7000,300,13,Accessories,2000,Email,Email,2425,200,1000,52,181,100,Events,5,Non-Binary,30,20000,0
+4/29/2021,5000,700,6,Clothing,2000,Email,Social Media,14887,500,1000,155,276,200,Social Media,5,Male,30,40000,0
+4/29/2021,10000,700,9,Home Goods,2000,Facebook,In-Store Event,10754,50,3000,273,256,100,Social Media,1,Female,30,60000,0
+4/29/2021,10000,700,12,Home Goods,5000,Instagram,Networking Event,3895,200,1000,409,244,200,Social Media,4,Male,30,60000,1
+4/30/2021,5000,300,12,Accessories,5000,Facebook,In-Store Event,940,50,2000,357,85,50,Community,5,Female,50,40000,0
+4/30/2021,7000,500,11,Clothing,8000,Instagram,Social Media,5731,200,100,134,70,100,Referral,3,Non-Binary,20,80000,1
+4/30/2021,7000,700,8,Clothing,1000,Email,Email,8681,1000,100,428,268,50,Events,4,Male,30,40000,0
+5/1/2021,3000,700,9,Clothing,5000,Instagram,Social Media,3243,200,2000,97,179,50,Social Media,5,Male,40,20000,1
+5/1/2021,10000,100,9,Clothing,5000,Facebook,Networking Event,8539,500,2000,494,278,50,Social Media,4,Male,60,100000,0
+5/1/2021,5000,700,12,Accessories,8000,Instagram,Email,8698,200,2000,240,148,50,Social Media,3,Male,60,40000,0
+5/1/2021,10000,100,12,Accessories,1000,Email,Email,2086,500,3000,44,5,400,Social Media,5,Female,50,100000,1
+5/2/2021,5000,700,12,Home Goods,5000,Instagram,Email,1325,3000,500,198,147,100,Community,5,Male,30,40000,1
+5/2/2021,10000,300,14,Clothing,8000,Facebook,Social Media,4324,200,500,480,167,50,Social Media,4,Male,30,20000,0
+5/2/2021,5000,1000,10,Accessories,2000,Instagram,In-Store Event,1768,500,3000,290,8,200,Referral,3,Female,50,80000,0
+5/3/2021,2000,500,9,Clothing,8000,Email,Social Media,8115,200,500,435,177,100,Community,4,Female,50,80000,0
+5/3/2021,10000,500,8,Accessories,1000,LinkedIn,In-Store Event,3936,50,2000,113,283,100,Social Media,3,Female,40,60000,0
+5/3/2021,2000,300,14,Clothing,5000,Facebook,Email,12130,500,1000,486,115,100,Community,3,Female,30,20000,0
+5/4/2021,5000,500,16,Clothing,8000,Facebook,In-Store Event,8589,1000,100,276,95,100,Community,4,Female,30,60000,0
+5/4/2021,10000,1000,13,Clothing,5000,LinkedIn,In-Store Event,1810,50,500,240,55,100,Social Media,5,Male,50,40000,0
+5/4/2021,10000,1000,13,Accessories,2000,Facebook,Social Media,12725,50,1000,155,206,100,Community,5,Female,30,80000,0
+5/4/2021,7000,500,13,Home Goods,1000,Facebook,In-Store Event,10319,200,2000,351,104,200,Referral,4,Female,40,40000,0
+5/5/2021,7000,500,8,Clothing,8000,Facebook,Email,9728,1000,2000,43,34,50,Social Media,3,Male,60,80000,1
+5/5/2021,5000,700,13,Clothing,2000,Facebook,In-Store Event,13957,500,2000,79,208,50,Community,3,Female,40,40000,0
+5/5/2021,3000,1000,14,Clothing,1000,Instagram,In-Store Event,977,500,1000,311,280,100,Social Media,5,Female,30,60000,0
+5/6/2021,5000,700,8,Accessories,5000,Email,Networking Event,11370,500,500,137,146,100,Events,4,Female,30,80000,0
+5/6/2021,7000,500,11,Clothing,2000,Facebook,Social Media,9406,1000,500,150,286,100,Community,5,Female,20,20000,0
+5/6/2021,7000,500,12,Accessories,1000,Instagram,Email,10368,1000,1000,431,80,200,Social Media,3,Female,40,80000,0
+5/7/2021,7000,700,9,Home Goods,2000,Email,Social Media,2662,1000,100,435,49,400,Events,4,Female,40,20000,0
+5/7/2021,7000,100,13,Home Goods,1000,Instagram,Social Media,1008,1000,500,241,86,200,Community,5,Female,30,40000,1
+5/7/2021,2000,700,12,Clothing,5000,Instagram,Networking Event,7819,500,1000,142,190,50,Referral,3,Female,30,60000,1
+5/7/2021,5000,500,11,Home Goods,5000,Facebook,Networking Event,14892,500,1000,310,0,400,Community,1,Male,20,80000,1
+5/8/2021,2000,700,7,Accessories,5000,Email,In-Store Event,881,1000,100,298,137,100,Community,3,Male,60,20000,0
+5/8/2021,5000,100,6,Clothing,8000,Email,Email,9872,3000,1000,49,135,50,Social Media,5,Male,50,60000,0
+5/8/2021,5000,700,14,Accessories,8000,LinkedIn,In-Store Event,2345,50,1000,261,153,100,Community,4,Male,30,60000,1
+5/9/2021,10000,500,12,Home Goods,5000,Email,In-Store Event,7800,50,100,160,161,200,Social Media,4,Female,60,40000,0
+5/9/2021,5000,700,8,Clothing,1000,Instagram,Networking Event,13974,3000,3000,61,18,50,Social Media,3,Non-Binary,40,40000,0
+5/9/2021,3000,100,7,Clothing,5000,Instagram,Email,13062,200,100,54,242,200,Community,4,Non-Binary,50,60000,0
+5/10/2021,3000,700,11,Clothing,2000,Email,Email,10410,1000,2000,422,128,200,Referral,4,Female,40,40000,1
+5/10/2021,7000,700,10,Accessories,5000,Instagram,Email,9792,200,100,395,175,100,Social Media,2,Non-Binary,50,60000,0
+5/10/2021,7000,700,8,Clothing,5000,Facebook,Social Media,10552,50,2000,371,279,200,Social Media,5,Non-Binary,30,80000,0
+5/10/2021,3000,700,18,Home Goods,2000,Facebook,Social Media,10783,50,100,483,83,100,Social Media,3,Female,40,80000,1
+5/11/2021,2000,700,15,Accessories,8000,Instagram,In-Store Event,9409,200,2000,30,221,100,Community,3,Male,50,40000,1
+5/11/2021,7000,700,11,Accessories,1000,LinkedIn,Social Media,8217,200,1000,329,144,100,Events,3,Female,20,60000,0
+5/11/2021,2000,500,4,Clothing,5000,Facebook,Social Media,9009,500,2000,436,105,200,Events,1,Female,20,20000,1
+5/12/2021,10000,700,11,Accessories,1000,Facebook,Social Media,5129,500,1000,289,10,100,Community,4,Male,30,60000,0
+5/12/2021,7000,500,15,Clothing,8000,LinkedIn,In-Store Event,6204,3000,100,168,165,200,Social Media,3,Female,30,100000,1
+5/12/2021,2000,100,6,Clothing,1000,Facebook,In-Store Event,2276,200,2000,265,195,400,Social Media,5,Male,30,40000,0
+5/13/2021,2000,100,8,Accessories,1000,Instagram,In-Store Event,8603,500,100,307,230,400,Social Media,3,Male,40,60000,0
+5/13/2021,10000,500,13,Clothing,2000,Facebook,Social Media,2784,500,3000,458,146,50,Events,3,Male,30,80000,1
+5/13/2021,5000,700,8,Accessories,2000,Email,Social Media,1744,500,100,184,237,50,Community,4,Female,30,60000,0
+5/13/2021,5000,700,8,Clothing,2000,Email,In-Store Event,1833,500,1000,333,12,100,Community,4,Female,60,40000,0
+5/14/2021,10000,700,12,Clothing,5000,Email,Social Media,4169,50,2000,2,218,200,Community,3,Female,40,40000,0
+5/14/2021,10000,500,11,Clothing,2000,Email,Email,1700,50,1000,440,256,400,Social Media,5,Male,30,60000,1
+5/14/2021,10000,500,12,Home Goods,1000,Instagram,Email,2294,50,500,160,1,200,Community,4,Female,30,40000,0
+5/15/2021,7000,300,12,Accessories,2000,Email,Email,6681,50,2000,390,209,100,Events,1,Female,40,60000,0
+5/15/2021,5000,500,8,Accessories,8000,Email,Networking Event,11393,500,2000,259,224,50,Events,3,Female,50,40000,0
+5/15/2021,2000,500,15,Clothing,5000,Instagram,Email,1954,200,3000,422,193,200,Community,3,Male,30,80000,0
+5/16/2021,7000,100,5,Clothing,5000,Instagram,Email,2433,1000,1000,47,195,50,Events,5,Male,60,40000,1
+5/16/2021,7000,300,12,Home Goods,5000,LinkedIn,Email,1246,3000,1000,253,259,50,Social Media,3,Male,50,40000,1
+5/16/2021,5000,700,5,Clothing,2000,Email,Social Media,7870,3000,1000,73,56,200,Community,3,Female,50,60000,1
+5/16/2021,10000,700,12,Clothing,1000,Email,Social Media,9532,3000,500,334,112,100,Community,1,Male,20,20000,1
+5/17/2021,3000,1000,7,Accessories,2000,Email,Social Media,8473,200,2000,399,212,50,Community,3,Male,20,60000,1
+5/17/2021,5000,1000,10,Clothing,8000,Facebook,Email,11187,500,1000,165,278,100,Community,4,Male,30,40000,0
+5/17/2021,2000,700,10,Home Goods,8000,Facebook,Email,14306,200,1000,259,243,50,Events,4,Female,20,40000,0
+5/18/2021,5000,500,10,Accessories,2000,Facebook,Social Media,7327,1000,1000,3,116,200,Social Media,1,Female,20,20000,0
+5/18/2021,2000,700,11,Clothing,1000,Instagram,Social Media,14960,1000,2000,375,86,100,Referral,2,Female,20,40000,0
+5/18/2021,3000,700,7,Clothing,1000,Email,Email,9780,1000,3000,118,262,200,Events,3,Female,40,100000,0
+5/19/2021,3000,300,8,Clothing,2000,Facebook,Email,1292,200,2000,483,299,100,Community,4,Male,20,20000,0
+5/19/2021,7000,500,9,Home Goods,5000,Facebook,In-Store Event,7427,1000,1000,410,112,100,Events,5,Male,20,80000,1
+5/19/2021,7000,700,11,Accessories,1000,Facebook,Social Media,1767,50,2000,469,163,50,Community,1,Male,60,40000,0
+5/19/2021,7000,500,8,Clothing,8000,Facebook,Email,10242,50,2000,469,3,100,Community,3,Male,20,60000,0
+5/20/2021,10000,700,9,Clothing,2000,Instagram,Email,6869,1000,100,272,117,200,Social Media,3,Female,40,60000,0
+5/20/2021,5000,700,12,Accessories,8000,Instagram,In-Store Event,3190,200,100,492,22,200,Social Media,5,Female,40,100000,0
+5/20/2021,3000,300,6,Accessories,5000,Instagram,Social Media,8374,3000,100,225,232,50,Social Media,4,Female,60,80000,0
+5/21/2021,10000,500,6,Clothing,5000,Instagram,Social Media,792,50,1000,351,89,100,Social Media,3,Male,50,100000,0
+5/21/2021,3000,500,12,Clothing,5000,LinkedIn,Networking Event,7364,1000,2000,499,254,200,Events,3,Male,30,80000,0
+5/21/2021,10000,100,10,Clothing,5000,Instagram,Networking Event,4522,500,1000,69,91,100,Social Media,3,Male,60,40000,1
+5/22/2021,2000,100,11,Accessories,5000,Instagram,Networking Event,10096,1000,1000,181,154,50,Social Media,4,Female,30,100000,1
+5/22/2021,10000,700,9,Home Goods,5000,Facebook,Social Media,2148,1000,3000,352,114,100,Social Media,1,Male,40,100000,0
+5/22/2021,2000,500,14,Clothing,5000,Facebook,Social Media,11508,3000,2000,263,206,200,Social Media,3,Female,30,20000,0
+5/22/2021,10000,500,5,Accessories,8000,Instagram,Email,12602,200,2000,369,80,50,Community,4,Female,40,100000,1
+5/23/2021,5000,500,11,Clothing,5000,Email,In-Store Event,14029,3000,500,180,102,100,Referral,3,Non-Binary,40,60000,0
+5/23/2021,10000,1000,5,Clothing,5000,Email,Social Media,11610,200,500,483,79,200,Social Media,4,Male,40,100000,0
+5/23/2021,2000,500,5,Clothing,8000,Instagram,Email,5671,50,100,4,102,400,Social Media,3,Male,40,100000,0
+5/24/2021,7000,500,10,Home Goods,2000,Instagram,In-Store Event,10089,200,500,196,239,100,Referral,4,Male,30,80000,1
+5/24/2021,10000,1000,11,Clothing,1000,LinkedIn,In-Store Event,2193,1000,500,46,264,50,Referral,1,Female,30,80000,1
+5/24/2021,5000,700,12,Accessories,2000,Email,In-Store Event,7210,500,1000,457,32,100,Community,5,Male,40,20000,1
+5/25/2021,7000,300,8,Clothing,5000,Facebook,In-Store Event,1537,1000,100,39,34,100,Community,2,Female,30,20000,0
+5/25/2021,7000,700,11,Clothing,8000,Instagram,In-Store Event,4352,500,500,121,248,50,Events,2,Female,30,20000,0
+5/25/2021,5000,500,9,Clothing,2000,Facebook,Email,5959,200,500,134,49,100,Referral,5,Male,40,20000,0
+5/25/2021,7000,500,10,Accessories,5000,Facebook,In-Store Event,10254,3000,2000,139,279,400,Social Media,5,Male,60,40000,1
+5/26/2021,7000,300,12,Clothing,5000,Instagram,In-Store Event,9804,50,2000,349,241,200,Social Media,1,Male,20,60000,0
+5/26/2021,10000,100,9,Accessories,1000,Facebook,Email,7548,1000,1000,152,151,50,Social Media,5,Male,40,40000,0
+5/26/2021,2000,700,12,Clothing,5000,Facebook,Email,6684,200,500,27,146,200,Community,3,Male,20,60000,0
+5/27/2021,3000,500,12,Clothing,8000,Instagram,In-Store Event,9983,500,1000,426,38,50,Referral,4,Female,30,80000,1
+5/27/2021,10000,500,13,Clothing,1000,Email,Email,1661,200,100,76,188,100,Social Media,1,Female,30,60000,0
+5/27/2021,10000,700,7,Clothing,5000,Email,In-Store Event,1529,200,500,174,24,400,Referral,3,Male,40,60000,1
+5/28/2021,5000,700,9,Clothing,5000,Instagram,Email,13029,200,2000,48,243,400,Social Media,3,Female,50,40000,0
+5/28/2021,7000,300,8,Clothing,1000,Email,Email,12949,200,3000,341,222,50,Referral,4,Male,30,20000,0
+5/28/2021,3000,700,6,Accessories,1000,Instagram,Social Media,11431,200,2000,309,229,50,Social Media,4,Female,40,60000,0
+5/28/2021,3000,300,8,Accessories,8000,Email,Email,1478,200,3000,273,152,100,Events,3,Female,30,60000,0
+5/29/2021,5000,700,9,Clothing,2000,Instagram,Social Media,9209,500,2000,26,287,100,Referral,5,Female,30,60000,0
+5/29/2021,5000,700,12,Clothing,2000,Instagram,Social Media,13685,1000,100,327,107,200,Social Media,2,Male,40,60000,1
+5/29/2021,7000,1000,11,Clothing,1000,Facebook,Email,9474,500,3000,389,32,50,Social Media,2,Female,30,40000,0
+5/30/2021,2000,100,6,Clothing,5000,Facebook,Email,11523,1000,100,458,110,100,Community,4,Female,30,20000,0
+5/30/2021,10000,100,11,Clothing,5000,LinkedIn,Social Media,13967,500,2000,220,120,100,Social Media,1,Male,50,80000,1
+5/30/2021,10000,500,9,Home Goods,5000,Instagram,Email,12872,500,500,121,15,50,Events,3,Female,50,40000,0
+5/31/2021,7000,500,6,Clothing,1000,Instagram,Networking Event,14523,500,1000,360,226,200,Community,3,Female,50,60000,0
+5/31/2021,5000,300,7,Clothing,8000,Facebook,Social Media,5629,200,2000,68,10,200,Events,3,Male,30,80000,0
+5/31/2021,5000,1000,10,Clothing,2000,Facebook,Email,637,500,1000,70,202,50,Social Media,5,Female,30,20000,0
+5/31/2021,10000,300,14,Clothing,2000,Instagram,Social Media,9445,50,500,149,201,50,Community,3,Female,50,60000,0
+6/1/2021,7000,500,8,Accessories,2000,Facebook,Email,11645,1000,1000,186,97,50,Community,3,Male,30,60000,0
+6/1/2021,3000,700,10,Clothing,2000,Email,Email,5308,1000,1000,430,115,100,Social Media,3,Male,40,60000,0
+6/1/2021,10000,500,9,Clothing,8000,Email,Email,14991,200,3000,372,280,50,Community,2,Male,50,20000,1
+6/2/2021,10000,700,6,Accessories,8000,LinkedIn,In-Store Event,2955,1000,2000,245,231,100,Referral,3,Male,50,80000,0
+6/2/2021,10000,100,9,Clothing,2000,Instagram,In-Store Event,11526,50,1000,195,110,100,Events,4,Male,30,20000,0
+6/2/2021,7000,500,13,Accessories,8000,Email,In-Store Event,7892,200,500,31,11,50,Social Media,4,Male,60,60000,1
+6/3/2021,7000,100,13,Accessories,5000,Instagram,Social Media,9271,50,2000,466,20,200,Community,5,Male,40,40000,0
+6/3/2021,5000,100,10,Clothing,8000,Facebook,Email,11947,1000,500,108,126,50,Social Media,2,Female,40,40000,0
+6/3/2021,10000,1000,13,Accessories,2000,Facebook,Social Media,3766,1000,500,352,284,200,Social Media,1,Female,40,40000,0
+6/3/2021,10000,300,6,Clothing,5000,LinkedIn,Networking Event,5149,1000,1000,0,120,100,Community,5,Male,20,40000,1
+6/4/2021,2000,500,19,Accessories,2000,Email,In-Store Event,9087,50,2000,181,123,200,Social Media,1,Male,30,40000,0
+6/4/2021,2000,500,12,Clothing,8000,LinkedIn,Email,10629,500,500,173,32,50,Events,5,Male,50,20000,1
+6/4/2021,5000,500,9,Clothing,1000,Email,Email,14474,500,500,168,169,200,Community,5,Male,30,80000,1
+6/5/2021,10000,1000,12,Accessories,5000,LinkedIn,Social Media,14407,200,1000,247,76,50,Social Media,5,Male,30,40000,0
+6/5/2021,10000,100,5,Home Goods,2000,Email,In-Store Event,5753,500,500,107,296,400,Referral,3,Female,30,80000,1
+6/5/2021,3000,700,8,Home Goods,2000,Facebook,In-Store Event,5928,50,1000,369,62,200,Community,2,Male,30,80000,0
+6/6/2021,7000,1000,9,Accessories,5000,Instagram,Social Media,6485,200,1000,296,269,100,Events,4,Male,40,60000,0
+6/6/2021,5000,700,9,Clothing,8000,Instagram,In-Store Event,13597,500,1000,263,215,100,Social Media,4,Female,60,60000,0
+6/6/2021,10000,1000,9,Clothing,5000,Instagram,Social Media,3089,500,500,415,189,200,Community,2,Female,30,40000,0
+6/6/2021,10000,100,9,Clothing,8000,Facebook,In-Store Event,7676,50,500,29,74,400,Community,4,Female,40,100000,1
+6/7/2021,10000,500,11,Clothing,2000,Facebook,In-Store Event,3534,200,2000,301,173,200,Community,3,Female,50,60000,0
+6/7/2021,5000,500,13,Clothing,5000,Facebook,In-Store Event,669,200,2000,475,66,200,Community,3,Male,40,100000,0
+6/7/2021,5000,700,13,Home Goods,2000,LinkedIn,Social Media,11029,200,500,360,92,200,Community,5,Non-Binary,20,40000,1
+6/8/2021,3000,1000,13,Clothing,1000,LinkedIn,Email,3739,200,500,435,52,100,Social Media,2,Non-Binary,40,80000,1
+6/8/2021,2000,500,10,Clothing,5000,Instagram,Social Media,3915,200,100,351,93,50,Community,3,Male,60,40000,1
+6/8/2021,10000,700,7,Clothing,5000,Instagram,Social Media,4068,500,2000,472,112,50,Social Media,1,Female,30,80000,1
+6/9/2021,10000,300,11,Home Goods,5000,Facebook,In-Store Event,11908,200,2000,481,228,200,Events,2,Female,40,20000,0
+6/9/2021,10000,700,4,Accessories,5000,Instagram,Email,3984,1000,1000,316,249,100,Events,2,Non-Binary,60,60000,0
+6/9/2021,10000,500,13,Accessories,5000,Email,Email,5335,500,2000,224,208,100,Social Media,3,Female,50,60000,0
+6/9/2021,7000,1000,7,Clothing,1000,Facebook,Networking Event,2341,50,2000,396,181,50,Referral,3,Female,40,60000,0
+6/10/2021,7000,700,4,Home Goods,1000,Facebook,Email,7378,50,3000,88,266,200,Community,5,Male,60,40000,0
+6/10/2021,10000,500,6,Clothing,5000,Email,Social Media,12452,1000,100,233,280,50,Community,5,Female,30,60000,1
+6/10/2021,10000,300,7,Home Goods,2000,Email,Social Media,5052,50,500,167,154,100,Community,3,Male,50,40000,1
+6/11/2021,3000,300,3,Accessories,1000,Instagram,Social Media,7344,50,100,230,82,100,Events,2,Male,30,60000,0
+6/11/2021,5000,300,10,Clothing,2000,Email,Email,3526,50,2000,125,185,50,Events,3,Non-Binary,30,60000,1
+6/11/2021,3000,500,9,Clothing,5000,Facebook,In-Store Event,14113,500,2000,60,138,200,Social Media,4,Male,40,40000,0
+6/12/2021,10000,1000,6,Accessories,2000,Instagram,Social Media,6689,500,1000,119,54,100,Social Media,4,Female,20,80000,0
+6/12/2021,7000,700,4,Clothing,5000,Instagram,In-Store Event,4465,3000,100,427,18,200,Social Media,5,Male,30,20000,1
+6/12/2021,3000,500,11,Home Goods,5000,Facebook,Social Media,7684,1000,500,496,266,100,Community,1,Male,30,40000,0
+6/12/2021,7000,300,14,Clothing,2000,Instagram,Email,10293,200,500,189,141,50,Social Media,4,Female,20,60000,1
+6/13/2021,7000,1000,18,Clothing,5000,Instagram,Email,5979,200,1000,120,163,50,Social Media,4,Male,30,80000,0
+6/13/2021,5000,700,5,Clothing,5000,Facebook,Email,5880,200,500,427,251,50,Community,5,Non-Binary,50,60000,1
+6/13/2021,3000,100,7,Clothing,5000,Email,Social Media,1646,200,100,47,231,50,Community,4,Male,30,80000,0
+6/14/2021,7000,700,11,Clothing,5000,Instagram,Email,4826,50,2000,201,296,50,Events,3,Male,40,60000,0
+6/14/2021,5000,500,8,Clothing,1000,Instagram,Social Media,11376,50,500,58,59,200,Social Media,4,Male,40,80000,0
+6/14/2021,7000,100,6,Accessories,5000,Email,Social Media,611,50,1000,184,21,400,Social Media,5,Male,30,40000,0
+6/15/2021,5000,500,6,Clothing,2000,Instagram,Email,1092,200,500,222,125,400,Social Media,3,Male,60,80000,0
+6/15/2021,10000,500,7,Home Goods,8000,LinkedIn,Email,7913,200,2000,491,102,400,Referral,2,Female,50,40000,0
+6/15/2021,7000,300,17,Accessories,8000,Facebook,Networking Event,8679,3000,1000,10,220,100,Social Media,3,Female,30,60000,1
+6/15/2021,7000,1000,9,Home Goods,5000,Instagram,In-Store Event,11131,500,3000,280,109,100,Community,3,Male,60,40000,1
+6/16/2021,10000,700,4,Clothing,2000,Instagram,Email,1738,3000,1000,188,57,50,Social Media,3,Male,40,100000,0
+6/16/2021,5000,700,12,Clothing,2000,Instagram,Email,6483,200,3000,301,64,50,Social Media,5,Female,30,60000,0
+6/16/2021,3000,500,9,Clothing,2000,Instagram,In-Store Event,3294,500,2000,309,57,200,Community,4,Female,40,80000,1
+6/17/2021,2000,500,9,Accessories,2000,Instagram,Email,11106,200,1000,499,157,200,Social Media,4,Female,40,40000,0
+6/17/2021,7000,700,8,Home Goods,2000,Facebook,In-Store Event,10821,200,3000,236,75,200,Social Media,4,Female,40,20000,0
+6/17/2021,7000,500,11,Clothing,5000,Instagram,Email,11545,50,1000,33,18,200,Social Media,5,Female,40,40000,0
+6/18/2021,7000,100,8,Clothing,1000,Facebook,In-Store Event,11561,3000,1000,339,189,100,Social Media,5,Female,30,60000,0
+6/18/2021,3000,500,7,Home Goods,8000,Facebook,Social Media,13887,3000,100,134,249,100,Social Media,4,Female,60,80000,0
+6/18/2021,3000,700,12,Clothing,1000,Instagram,In-Store Event,4098,50,1000,480,78,100,Referral,3,Male,50,40000,0
+6/18/2021,2000,500,4,Accessories,8000,Instagram,Social Media,4303,200,2000,61,83,400,Referral,3,Male,40,40000,0
+6/19/2021,5000,100,8,Accessories,8000,Instagram,Social Media,2026,200,2000,312,171,400,Social Media,3,Male,20,40000,0
+6/19/2021,7000,700,7,Home Goods,5000,Instagram,Email,8409,200,500,226,211,100,Social Media,3,Female,40,60000,0
+6/19/2021,5000,300,7,Clothing,5000,Email,Email,2469,200,1000,92,148,50,Events,3,Male,40,40000,0
+6/20/2021,5000,500,8,Clothing,2000,Instagram,Networking Event,9643,50,500,115,9,100,Events,4,Female,50,100000,1
+6/20/2021,10000,300,9,Accessories,5000,Email,Social Media,2002,500,2000,331,29,100,Events,4,Female,60,40000,1
+6/20/2021,5000,500,14,Home Goods,2000,Facebook,In-Store Event,4967,200,500,132,279,200,Community,3,Female,60,80000,0
+6/21/2021,5000,700,12,Clothing,2000,Facebook,Social Media,12028,200,3000,331,54,50,Community,5,Male,30,60000,0
+6/21/2021,7000,500,9,Clothing,5000,Facebook,In-Store Event,6907,50,500,476,126,50,Referral,3,Male,50,40000,0
+6/21/2021,5000,300,9,Accessories,2000,Email,Social Media,8801,200,500,418,179,100,Referral,4,Male,20,80000,0
+6/21/2021,7000,1000,12,Home Goods,5000,Instagram,In-Store Event,12678,3000,2000,467,231,400,Social Media,4,Male,30,40000,1
+6/22/2021,10000,1000,6,Home Goods,2000,Instagram,In-Store Event,2854,200,1000,292,92,100,Referral,4,Male,20,60000,0
+6/22/2021,10000,1000,7,Home Goods,2000,Facebook,Social Media,5819,1000,100,443,7,200,Events,3,Female,50,60000,0
+6/22/2021,3000,300,12,Clothing,1000,Instagram,In-Store Event,725,1000,1000,192,246,100,Social Media,4,Female,60,20000,0
+6/23/2021,10000,500,9,Clothing,1000,Facebook,In-Store Event,3511,3000,100,399,195,50,Social Media,2,Female,30,80000,1
+6/23/2021,5000,1000,11,Accessories,2000,Facebook,Email,4626,1000,3000,29,162,50,Social Media,4,Female,30,60000,0
+6/23/2021,3000,700,6,Home Goods,1000,Facebook,Social Media,1113,500,1000,456,39,200,Social Media,3,Female,60,80000,0
+6/24/2021,5000,100,10,Clothing,1000,Facebook,Email,14582,1000,500,297,253,200,Referral,4,Male,40,40000,0
+6/24/2021,10000,100,7,Clothing,8000,Facebook,In-Store Event,598,50,1000,60,84,100,Social Media,3,Male,40,40000,0
+6/24/2021,5000,500,13,Accessories,1000,Email,Email,5958,500,100,457,271,100,Events,4,Male,40,40000,0
+6/24/2021,5000,1000,7,Clothing,5000,Email,Email,9502,3000,2000,460,77,200,Events,3,Female,40,100000,0
+6/25/2021,7000,500,11,Clothing,2000,Facebook,Social Media,6416,1000,3000,303,212,200,Community,5,Non-Binary,60,100000,0
+6/25/2021,3000,500,12,Accessories,8000,Facebook,Social Media,3837,3000,2000,445,254,50,Community,5,Female,30,60000,0
+6/25/2021,2000,300,10,Accessories,2000,Email,In-Store Event,3199,1000,1000,339,90,100,Social Media,3,Male,30,40000,0
+6/26/2021,3000,700,8,Accessories,2000,Facebook,In-Store Event,13601,1000,1000,348,192,200,Community,3,Female,30,60000,0
+6/26/2021,3000,700,11,Clothing,5000,Facebook,Social Media,6417,500,100,447,252,100,Social Media,4,Female,20,80000,0
+6/26/2021,3000,500,8,Accessories,2000,Email,Email,8017,1000,2000,440,277,400,Community,1,Female,40,80000,1
+6/27/2021,3000,700,10,Accessories,5000,Facebook,Networking Event,1519,500,1000,323,142,200,Social Media,1,Female,60,20000,1
+6/27/2021,7000,1000,12,Accessories,1000,Instagram,Social Media,3525,3000,1000,301,243,50,Community,2,Female,40,20000,1
+6/27/2021,3000,300,6,Accessories,8000,Email,Social Media,4028,1000,3000,368,211,200,Community,4,Female,60,40000,0
+6/27/2021,5000,500,5,Clothing,2000,Instagram,Social Media,4386,1000,500,27,194,100,Community,2,Female,60,40000,0
+6/28/2021,10000,500,10,Clothing,2000,Email,Social Media,6731,500,100,484,269,200,Referral,3,Non-Binary,40,80000,0
+6/28/2021,5000,700,10,Clothing,5000,Email,Social Media,5682,200,100,76,18,200,Social Media,4,Female,40,60000,0
+6/28/2021,7000,700,7,Clothing,2000,LinkedIn,Networking Event,13709,50,500,120,39,100,Referral,1,Female,40,80000,0
+6/29/2021,3000,700,14,Accessories,8000,Instagram,Social Media,14198,3000,100,2,97,200,Referral,2,Female,20,40000,0
+6/29/2021,3000,700,13,Home Goods,2000,Facebook,In-Store Event,6078,500,1000,36,3,200,Referral,5,Female,40,60000,0
+6/29/2021,2000,500,11,Accessories,5000,Facebook,Social Media,7229,200,1000,431,32,200,Social Media,4,Female,40,60000,0
+6/30/2021,3000,1000,8,Accessories,1000,Instagram,Email,7461,50,500,146,298,100,Events,3,Female,40,40000,0
+6/30/2021,3000,500,7,Clothing,8000,Instagram,In-Store Event,11671,1000,2000,91,164,100,Community,1,Male,40,60000,0
+6/30/2021,3000,300,10,Clothing,5000,Facebook,Social Media,14447,1000,500,338,26,200,Community,4,Female,30,60000,0
+6/30/2021,2000,700,9,Clothing,2000,Facebook,Email,12032,1000,2000,272,172,400,Events,3,Female,40,80000,0
+7/1/2021,3000,700,5,Clothing,1000,Instagram,Social Media,6513,500,1000,465,112,100,Community,5,Female,30,20000,0
+7/1/2021,5000,500,6,Clothing,2000,Facebook,Social Media,1296,200,1000,465,94,50,Referral,4,Female,30,80000,1
+7/1/2021,3000,1000,7,Accessories,8000,Email,In-Store Event,2457,200,3000,376,232,100,Social Media,5,Non-Binary,40,100000,1
+7/2/2021,5000,1000,9,Home Goods,2000,Email,Social Media,3566,50,100,86,133,100,Social Media,5,Female,30,60000,0
+7/2/2021,5000,500,16,Clothing,2000,LinkedIn,Networking Event,13800,1000,1000,39,123,200,Community,3,Male,50,60000,1
+7/2/2021,7000,1000,10,Clothing,1000,Facebook,Email,11712,50,2000,177,115,200,Events,4,Female,30,40000,0
+7/3/2021,2000,300,12,Accessories,2000,LinkedIn,Social Media,3180,500,1000,328,12,400,Social Media,5,Male,40,60000,0
+7/3/2021,7000,300,12,Clothing,5000,Email,In-Store Event,4941,500,500,284,164,200,Events,4,Male,40,60000,0
+7/3/2021,7000,300,14,Home Goods,8000,Instagram,In-Store Event,13511,500,1000,434,207,100,Social Media,1,Non-Binary,30,60000,1
+7/3/2021,2000,1000,7,Accessories,5000,Instagram,Email,3448,3000,2000,41,84,200,Community,3,Female,30,40000,0
+7/4/2021,10000,700,10,Home Goods,8000,Facebook,Email,4231,50,2000,284,247,200,Social Media,2,Female,40,100000,0
+7/4/2021,10000,300,7,Clothing,5000,Facebook,Social Media,1601,1000,100,65,55,400,Social Media,4,Male,30,60000,0
+7/4/2021,2000,500,13,Accessories,1000,Facebook,Social Media,5984,50,100,123,171,50,Community,4,Male,20,100000,1
+7/5/2021,3000,700,9,Clothing,2000,Facebook,Networking Event,9729,50,1000,144,140,50,Community,5,Female,40,60000,0
+7/5/2021,10000,100,16,Accessories,5000,Email,Networking Event,4731,200,500,119,131,50,Social Media,4,Male,30,80000,0
+7/5/2021,7000,1000,9,Clothing,8000,Facebook,Social Media,14115,50,500,108,200,100,Events,5,Female,40,60000,0
+7/6/2021,3000,700,12,Clothing,8000,Instagram,In-Store Event,9483,1000,500,414,288,50,Social Media,3,Female,50,60000,1
+7/6/2021,3000,500,11,Accessories,2000,Email,Social Media,12866,500,500,91,178,200,Community,3,Female,20,20000,0
+7/6/2021,5000,1000,10,Accessories,2000,Instagram,Email,10470,50,500,490,28,200,Social Media,5,Male,30,20000,0
+7/6/2021,5000,500,9,Home Goods,2000,LinkedIn,Social Media,13492,50,3000,367,35,100,Social Media,4,Male,30,60000,0
+7/7/2021,7000,1000,12,Accessories,8000,Instagram,In-Store Event,1481,500,500,307,108,100,Social Media,4,Female,40,100000,0
+7/7/2021,5000,700,9,Accessories,8000,LinkedIn,Networking Event,14229,1000,500,422,145,400,Social Media,3,Female,30,60000,0
+7/7/2021,5000,700,7,Clothing,5000,Instagram,Social Media,9957,200,500,59,275,100,Social Media,4,Male,30,40000,0
+7/8/2021,7000,300,15,Accessories,2000,Instagram,Social Media,5670,500,3000,349,145,50,Community,5,Male,20,40000,1
+7/8/2021,2000,1000,14,Accessories,5000,Instagram,In-Store Event,9435,1000,2000,226,167,100,Social Media,3,Female,20,60000,0
+7/8/2021,3000,500,17,Home Goods,2000,Email,Social Media,2931,500,2000,239,256,100,Social Media,4,Female,40,60000,1
+7/9/2021,7000,300,8,Home Goods,2000,Email,Social Media,9066,200,500,434,274,50,Social Media,3,Female,30,100000,1
+7/9/2021,10000,100,10,Clothing,5000,Facebook,In-Store Event,10445,500,2000,211,86,200,Events,2,Male,20,60000,0
+7/9/2021,5000,700,7,Home Goods,1000,LinkedIn,In-Store Event,6849,500,1000,399,153,400,Social Media,4,Female,30,40000,0
+7/9/2021,5000,500,8,Clothing,1000,Facebook,Social Media,4397,500,500,97,284,200,Events,2,Female,30,60000,1
+7/10/2021,3000,700,6,Clothing,8000,Facebook,Social Media,11228,500,1000,13,97,100,Events,3,Male,20,80000,0
+7/10/2021,5000,1000,8,Accessories,5000,Email,Social Media,8048,3000,2000,217,210,100,Community,4,Non-Binary,30,60000,0
+7/10/2021,5000,100,11,Clothing,2000,Instagram,Email,2491,200,2000,467,47,400,Referral,4,Female,30,40000,0
+7/11/2021,3000,700,6,Accessories,5000,Instagram,In-Store Event,3428,3000,2000,169,273,200,Community,3,Non-Binary,50,40000,0
+7/11/2021,3000,300,8,Clothing,2000,LinkedIn,Social Media,5930,500,3000,306,193,100,Referral,5,Female,20,80000,0
+7/11/2021,5000,1000,17,Clothing,5000,LinkedIn,In-Store Event,3946,500,500,279,251,100,Community,3,Male,40,20000,1
+7/12/2021,2000,700,14,Accessories,5000,LinkedIn,Email,7275,50,1000,362,282,200,Social Media,5,Female,30,40000,1
+7/12/2021,5000,500,12,Accessories,5000,LinkedIn,Social Media,9283,200,100,209,261,100,Social Media,4,Female,40,40000,0
+7/12/2021,3000,700,12,Home Goods,5000,Instagram,Email,5661,1000,2000,255,261,50,Referral,3,Female,20,100000,0
+7/12/2021,5000,500,14,Accessories,2000,Email,Networking Event,13320,500,500,170,30,100,Community,2,Female,60,20000,0
+7/13/2021,3000,500,10,Accessories,2000,Facebook,Social Media,3069,50,2000,72,104,100,Events,3,Female,50,80000,0
+7/13/2021,10000,700,9,Clothing,2000,LinkedIn,Social Media,3372,500,1000,146,168,100,Events,2,Male,20,60000,0
+7/13/2021,7000,500,14,Clothing,2000,Facebook,Email,9868,50,1000,339,235,50,Community,4,Female,30,60000,1
+7/14/2021,7000,500,7,Clothing,5000,Facebook,Email,1835,3000,100,316,273,50,Social Media,3,Male,40,80000,1
+7/14/2021,7000,500,10,Accessories,2000,Facebook,Email,5913,1000,1000,105,229,200,Social Media,3,Male,60,40000,0
+7/14/2021,5000,700,10,Accessories,1000,Instagram,Email,13385,50,2000,93,22,200,Social Media,4,Female,30,40000,0
+7/15/2021,2000,500,12,Clothing,2000,Instagram,Social Media,612,1000,100,62,163,50,Events,3,Male,40,40000,0
+7/15/2021,5000,300,9,Accessories,8000,Email,Social Media,4272,3000,1000,153,280,400,Referral,4,Male,30,60000,0
+7/15/2021,7000,700,12,Accessories,2000,Email,Social Media,13923,200,100,254,6,100,Events,2,Male,30,100000,0
+7/15/2021,7000,700,9,Clothing,5000,Instagram,Social Media,5794,500,1000,350,209,50,Referral,4,Female,30,100000,1
+7/16/2021,5000,300,12,Clothing,2000,Email,Email,10537,200,500,34,252,50,Community,4,Male,30,60000,1
+7/16/2021,3000,300,8,Home Goods,1000,Facebook,Email,14113,500,500,322,132,200,Community,4,Female,20,100000,1
+7/16/2021,3000,300,16,Accessories,2000,Facebook,Email,2487,200,2000,311,273,50,Events,1,Female,20,100000,1
+7/17/2021,5000,500,13,Home Goods,5000,Instagram,In-Store Event,14327,200,1000,295,105,50,Events,3,Male,40,80000,1
+7/17/2021,7000,500,6,Clothing,5000,Email,Social Media,5329,200,500,252,231,200,Community,2,Female,40,40000,1
+7/17/2021,7000,700,9,Home Goods,8000,Email,Email,2485,50,1000,156,32,100,Social Media,2,Male,30,60000,0
+7/18/2021,5000,700,8,Clothing,2000,Facebook,Email,11984,1000,500,133,78,200,Events,2,Female,50,100000,0
+7/18/2021,10000,700,9,Clothing,1000,Facebook,In-Store Event,11934,200,500,435,34,200,Community,4,Male,30,60000,0
+7/18/2021,7000,500,10,Home Goods,8000,Instagram,Networking Event,5591,200,1000,128,109,400,Community,4,Male,30,80000,0
+7/18/2021,3000,700,7,Clothing,2000,Facebook,Social Media,752,1000,500,435,62,50,Social Media,5,Male,40,20000,0
+7/19/2021,3000,500,12,Accessories,5000,Instagram,Social Media,8815,500,2000,279,296,50,Referral,3,Male,40,40000,1
+7/19/2021,3000,1000,9,Clothing,5000,Instagram,Email,9928,500,1000,357,177,400,Events,4,Female,50,40000,0
+7/19/2021,3000,700,13,Accessories,2000,Facebook,In-Store Event,1123,3000,2000,417,231,200,Events,5,Male,20,40000,0
+7/20/2021,3000,300,13,Home Goods,5000,LinkedIn,Networking Event,3656,1000,3000,370,103,200,Social Media,4,Male,30,100000,0
+7/20/2021,3000,700,9,Clothing,1000,Facebook,Social Media,14327,200,500,251,293,50,Social Media,4,Male,40,40000,0
+7/20/2021,3000,500,7,Accessories,2000,Instagram,In-Store Event,11828,500,1000,134,34,50,Community,5,Non-Binary,30,60000,0
+7/21/2021,3000,700,10,Clothing,1000,Facebook,Networking Event,3889,3000,1000,330,193,50,Referral,5,Female,20,20000,0
+7/21/2021,10000,100,9,Accessories,8000,Email,Email,3917,200,500,10,173,100,Social Media,3,Male,40,40000,0
+7/21/2021,2000,300,8,Clothing,2000,Email,Social Media,10347,200,2000,291,101,50,Social Media,4,Male,30,40000,0
+7/21/2021,5000,1000,7,Clothing,5000,Email,Email,9958,200,2000,147,292,100,Events,3,Female,30,100000,0
+7/22/2021,5000,300,7,Clothing,8000,Facebook,Email,3445,50,1000,318,84,100,Community,4,Male,30,80000,0
+7/22/2021,10000,700,12,Clothing,5000,Email,Networking Event,9852,500,1000,79,200,50,Referral,5,Non-Binary,20,60000,0
+7/22/2021,3000,500,6,Home Goods,5000,Instagram,Email,10986,1000,100,190,172,50,Social Media,3,Male,30,100000,0
+7/23/2021,5000,700,9,Clothing,2000,Instagram,In-Store Event,9132,3000,1000,452,28,100,Social Media,5,Male,40,100000,0
+7/23/2021,10000,700,10,Clothing,2000,Instagram,In-Store Event,2592,1000,2000,343,296,50,Community,4,Female,30,60000,0
+7/23/2021,10000,500,9,Clothing,2000,Facebook,Email,3205,200,1000,29,55,50,Events,3,Female,50,40000,0
+7/24/2021,10000,500,12,Clothing,5000,LinkedIn,Social Media,4259,50,500,413,15,50,Events,4,Non-Binary,20,40000,0
+7/24/2021,3000,300,7,Accessories,8000,Email,In-Store Event,5612,3000,2000,358,139,100,Community,3,Female,50,20000,1
+7/24/2021,3000,100,7,Home Goods,8000,Instagram,Networking Event,1053,200,1000,367,65,200,Community,2,Female,30,40000,0
+7/24/2021,7000,500,9,Clothing,8000,Instagram,Networking Event,5404,200,1000,494,146,50,Referral,5,Female,30,40000,0
+7/25/2021,10000,700,8,Home Goods,8000,Instagram,Social Media,13758,3000,1000,228,157,200,Community,3,Female,30,20000,1
+7/25/2021,7000,1000,12,Accessories,2000,Instagram,Social Media,1612,500,1000,480,68,200,Social Media,4,Female,30,80000,1
+7/25/2021,7000,1000,13,Clothing,5000,Facebook,Social Media,3277,200,2000,83,22,200,Social Media,5,Male,40,80000,0
+7/26/2021,3000,700,14,Accessories,8000,LinkedIn,In-Store Event,7597,1000,2000,149,189,50,Events,5,Male,30,40000,1
+7/26/2021,7000,700,12,Accessories,2000,LinkedIn,Social Media,10525,3000,100,360,247,100,Social Media,5,Male,40,80000,1
+7/26/2021,3000,700,8,Accessories,8000,Facebook,In-Store Event,1814,50,3000,188,144,200,Social Media,4,Female,30,80000,0
+7/27/2021,5000,500,7,Home Goods,2000,Email,Email,3993,1000,1000,20,176,400,Referral,4,Male,40,40000,1
+7/27/2021,5000,1000,4,Clothing,5000,Facebook,In-Store Event,11830,200,2000,36,194,400,Community,3,Male,40,60000,0
+7/27/2021,5000,700,10,Home Goods,5000,Instagram,Social Media,14062,500,2000,245,12,100,Community,3,Female,30,40000,0
+7/27/2021,3000,700,9,Accessories,8000,Facebook,Social Media,11804,3000,1000,282,165,200,Community,5,Male,50,20000,0
+7/28/2021,3000,300,10,Clothing,2000,Facebook,Social Media,8790,3000,2000,101,149,200,Referral,4,Female,50,60000,0
+7/28/2021,7000,500,4,Accessories,5000,Email,Email,7973,200,500,418,44,200,Events,1,Female,60,40000,1
+7/28/2021,3000,500,8,Clothing,5000,Instagram,Email,7515,200,500,293,173,100,Community,2,Female,30,20000,1
+7/29/2021,7000,1000,6,Home Goods,2000,Instagram,Email,12617,50,2000,231,166,100,Events,5,Male,50,60000,1
+7/29/2021,3000,500,6,Accessories,5000,Instagram,Email,10171,500,2000,315,196,50,Social Media,5,Female,50,100000,0
+7/29/2021,5000,500,15,Clothing,5000,LinkedIn,Social Media,6210,50,2000,325,205,100,Referral,3,Female,40,60000,0
+7/30/2021,5000,1000,13,Clothing,5000,Facebook,Networking Event,13088,200,2000,287,81,200,Community,4,Female,40,60000,1
+7/30/2021,2000,300,15,Accessories,2000,Email,Social Media,1722,50,1000,335,67,400,Events,3,Male,60,80000,0
+7/30/2021,5000,500,8,Clothing,2000,Email,Email,14470,200,1000,475,96,200,Social Media,4,Male,60,60000,0
+7/30/2021,3000,100,9,Clothing,5000,Instagram,In-Store Event,5083,50,3000,463,166,50,Community,4,Female,40,20000,1
+7/31/2021,2000,700,10,Clothing,2000,Facebook,Social Media,6020,1000,1000,410,76,200,Events,4,Male,30,100000,0
+7/31/2021,10000,1000,12,Clothing,1000,Email,In-Store Event,8372,200,2000,244,236,100,Community,3,Female,50,80000,0
+7/31/2021,5000,500,8,Clothing,8000,Facebook,Social Media,9696,200,1000,386,195,200,Social Media,3,Female,20,40000,0
+8/1/2021,10000,1000,11,Clothing,5000,LinkedIn,Email,9168,1000,2000,176,290,200,Events,3,Female,30,60000,0
+8/1/2021,3000,500,10,Clothing,5000,Instagram,Social Media,13933,500,1000,212,135,100,Social Media,5,Non-Binary,60,60000,0
+8/1/2021,7000,1000,9,Accessories,2000,Instagram,Social Media,5931,200,3000,357,295,50,Community,5,Male,50,20000,0
+8/2/2021,7000,700,8,Accessories,2000,Email,Email,9827,50,1000,101,35,50,Referral,5,Male,60,40000,0
+8/2/2021,7000,700,6,Clothing,2000,Email,Email,11548,500,3000,285,247,50,Community,5,Female,40,20000,1
+8/2/2021,5000,100,17,Clothing,2000,LinkedIn,Email,2205,200,100,21,253,200,Social Media,4,Male,30,80000,0
+8/2/2021,5000,1000,13,Accessories,5000,Facebook,Email,1017,1000,1000,18,213,50,Events,3,Female,60,20000,0
+8/3/2021,5000,700,13,Clothing,5000,LinkedIn,Social Media,1720,200,2000,286,251,50,Referral,4,Non-Binary,30,40000,0
+8/3/2021,10000,500,11,Clothing,2000,Email,Social Media,3006,200,2000,275,69,50,Social Media,3,Female,50,20000,0
+8/3/2021,10000,700,11,Clothing,1000,Email,Email,4825,500,3000,494,233,200,Community,3,Female,40,80000,1
+8/4/2021,10000,500,4,Home Goods,2000,Facebook,Social Media,9883,500,100,146,15,100,Events,3,Female,30,100000,0
+8/4/2021,3000,1000,8,Accessories,1000,Instagram,Social Media,12572,3000,100,385,173,50,Community,3,Male,20,60000,0
+8/4/2021,7000,300,9,Accessories,1000,LinkedIn,Email,14843,50,1000,39,186,200,Community,4,Female,30,20000,0
+8/5/2021,10000,700,11,Accessories,8000,Facebook,Email,11935,500,100,166,293,100,Referral,2,Female,40,60000,0
+8/5/2021,3000,500,9,Accessories,5000,Facebook,Email,10669,50,3000,90,224,100,Social Media,2,Male,30,80000,1
+8/5/2021,2000,100,7,Clothing,5000,Facebook,Social Media,5979,500,500,71,273,200,Community,4,Male,30,60000,1
+8/5/2021,7000,300,8,Accessories,2000,Facebook,Email,10934,1000,1000,364,11,100,Social Media,4,Female,40,60000,0
+8/6/2021,7000,100,11,Clothing,8000,Facebook,Social Media,7936,200,100,437,218,200,Community,4,Female,40,40000,1
+8/6/2021,10000,500,9,Accessories,5000,Instagram,Social Media,3590,3000,1000,282,0,100,Community,2,Female,20,20000,0
+8/6/2021,3000,500,7,Accessories,5000,Email,Social Media,6997,500,1000,334,110,100,Community,3,Male,40,20000,0
+8/7/2021,7000,700,13,Accessories,2000,Facebook,Email,10579,3000,100,139,276,100,Events,4,Male,20,100000,0
+8/7/2021,3000,500,8,Clothing,8000,Facebook,Social Media,5668,1000,1000,238,128,200,Events,4,Non-Binary,20,60000,0
+8/7/2021,3000,500,8,Clothing,8000,Instagram,Social Media,13251,50,1000,77,92,100,Social Media,2,Female,30,60000,0
+8/8/2021,3000,700,11,Accessories,8000,Instagram,In-Store Event,7493,200,3000,198,38,50,Community,5,Female,40,80000,1
+8/8/2021,10000,100,9,Accessories,1000,Instagram,Networking Event,1473,200,500,16,158,50,Events,3,Non-Binary,20,80000,1
+8/8/2021,7000,1000,6,Home Goods,2000,Email,Social Media,5777,200,1000,217,185,100,Social Media,3,Female,20,40000,0
+8/8/2021,5000,1000,6,Clothing,2000,Instagram,Social Media,8757,500,3000,228,255,200,Social Media,3,Female,20,20000,0
+8/9/2021,5000,700,16,Accessories,2000,LinkedIn,Social Media,6592,500,2000,339,238,400,Events,3,Male,60,100000,1
+8/9/2021,10000,700,19,Accessories,8000,Instagram,In-Store Event,3406,3000,3000,137,103,200,Social Media,5,Male,60,100000,0
+8/9/2021,5000,1000,12,Home Goods,1000,Instagram,Email,1070,200,3000,146,28,100,Social Media,1,Female,20,60000,0
+8/10/2021,10000,300,14,Accessories,1000,Instagram,In-Store Event,12584,1000,1000,209,88,100,Referral,3,Male,30,80000,0
+8/10/2021,5000,100,10,Accessories,2000,Instagram,Social Media,807,3000,2000,157,50,200,Social Media,3,Female,60,40000,0
+8/10/2021,5000,300,8,Accessories,1000,Email,Social Media,12100,1000,500,413,146,400,Social Media,3,Male,20,20000,0
+8/11/2021,5000,700,13,Accessories,2000,Email,Email,4242,200,1000,152,35,100,Social Media,1,Male,20,60000,0
+8/11/2021,5000,100,17,Home Goods,5000,Facebook,Social Media,9474,500,2000,343,283,50,Community,1,Female,20,80000,0
+8/11/2021,7000,700,3,Clothing,5000,Instagram,Social Media,12908,200,1000,329,100,50,Events,3,Male,60,60000,0
+8/11/2021,5000,1000,10,Clothing,1000,Instagram,Email,1265,200,2000,382,106,100,Events,4,Female,40,60000,1
+8/12/2021,3000,1000,9,Home Goods,2000,Facebook,Email,12167,200,2000,449,290,100,Community,4,Male,30,20000,1
+8/12/2021,10000,500,18,Accessories,2000,LinkedIn,In-Store Event,9464,1000,500,357,104,400,Community,4,Female,20,40000,0
+8/12/2021,5000,100,10,Accessories,1000,Instagram,Social Media,8314,500,2000,351,220,100,Referral,4,Male,60,100000,0
+8/13/2021,5000,700,15,Clothing,5000,Email,Social Media,12549,500,1000,162,75,100,Social Media,3,Male,30,20000,0
+8/13/2021,10000,700,8,Clothing,5000,Facebook,Email,8235,3000,500,306,226,100,Community,5,Male,40,60000,0
+8/13/2021,7000,300,14,Accessories,5000,Instagram,Networking Event,14931,50,2000,100,83,400,Community,3,Non-Binary,30,80000,1
+8/14/2021,3000,100,11,Accessories,5000,Facebook,Networking Event,11877,500,1000,326,75,100,Social Media,3,Male,50,60000,0
+8/14/2021,10000,1000,9,Clothing,1000,Instagram,Social Media,13774,1000,2000,326,248,50,Community,4,Female,30,100000,0
+8/14/2021,7000,700,9,Clothing,8000,Email,Social Media,14797,200,1000,154,254,50,Community,4,Male,50,40000,1
+8/14/2021,5000,700,9,Home Goods,8000,Instagram,Social Media,8536,500,1000,9,49,100,Events,3,Male,30,60000,0
+8/15/2021,3000,1000,9,Clothing,8000,Email,Social Media,8096,200,2000,352,209,200,Events,1,Female,20,40000,1
+8/15/2021,7000,700,7,Home Goods,1000,Instagram,Email,1039,1000,1000,426,157,100,Social Media,1,Female,40,40000,1
+8/15/2021,7000,500,10,Clothing,8000,LinkedIn,In-Store Event,8485,200,1000,182,232,100,Community,5,Female,50,60000,0
+8/16/2021,5000,500,8,Accessories,8000,Instagram,Social Media,2549,200,500,454,76,200,Social Media,1,Male,30,40000,1
+8/16/2021,10000,500,10,Home Goods,8000,Email,Social Media,3783,500,2000,133,222,100,Community,4,Male,20,100000,0
+8/16/2021,7000,500,17,Accessories,1000,Email,Social Media,5175,200,100,5,120,50,Social Media,2,Female,40,60000,1
+8/17/2021,3000,700,10,Clothing,5000,LinkedIn,In-Store Event,2163,200,2000,332,106,400,Community,3,Female,40,40000,0
+8/17/2021,5000,700,10,Accessories,8000,Facebook,Email,6976,200,1000,431,240,100,Community,3,Male,40,20000,1
+8/17/2021,3000,1000,7,Clothing,5000,Email,Email,9739,200,2000,332,27,200,Social Media,1,Non-Binary,30,40000,1
+8/17/2021,7000,500,6,Clothing,5000,Instagram,Social Media,12528,500,3000,257,191,200,Referral,2,Male,20,60000,0
+8/18/2021,2000,700,10,Home Goods,8000,Instagram,Social Media,3939,500,500,210,248,400,Community,4,Female,40,80000,0
+8/18/2021,7000,700,12,Accessories,2000,Facebook,Networking Event,9197,500,1000,50,212,100,Social Media,3,Male,30,60000,1
+8/18/2021,7000,700,12,Accessories,5000,Instagram,Email,7643,500,2000,444,20,100,Social Media,4,Female,60,20000,1
+8/19/2021,10000,700,8,Clothing,2000,LinkedIn,Networking Event,3747,200,2000,146,154,100,Social Media,1,Male,40,40000,0
+8/19/2021,5000,300,5,Clothing,8000,Instagram,Email,4000,50,1000,497,26,100,Events,5,Male,40,40000,0
+8/19/2021,10000,500,13,Clothing,1000,Facebook,Email,2410,1000,2000,376,76,100,Social Media,5,Non-Binary,30,60000,0
+8/20/2021,3000,300,9,Accessories,5000,Facebook,In-Store Event,1232,1000,2000,127,56,400,Events,1,Female,30,40000,1
+8/20/2021,10000,500,14,Accessories,5000,Facebook,Social Media,4013,200,2000,485,118,200,Community,5,Female,40,40000,0
+8/20/2021,3000,500,14,Accessories,5000,Facebook,Social Media,10263,200,2000,257,164,100,Events,3,Male,30,40000,1
+8/20/2021,5000,700,7,Home Goods,5000,Instagram,Email,5109,500,1000,50,63,100,Community,4,Non-Binary,50,60000,0
+8/21/2021,7000,1000,10,Clothing,8000,Facebook,Social Media,11634,500,3000,153,47,50,Community,3,Female,30,60000,0
+8/21/2021,3000,700,7,Clothing,8000,Instagram,Social Media,4956,500,1000,69,149,200,Community,4,Female,30,80000,0
+8/21/2021,3000,700,12,Clothing,1000,LinkedIn,In-Store Event,11013,50,100,275,157,100,Community,4,Male,30,60000,0
+8/22/2021,7000,500,17,Clothing,2000,Email,In-Store Event,3835,500,1000,278,155,100,Social Media,3,Male,40,60000,0
+8/22/2021,7000,700,16,Clothing,1000,LinkedIn,Social Media,13314,50,500,309,150,400,Social Media,4,Non-Binary,20,40000,0
+8/22/2021,7000,100,7,Home Goods,2000,Instagram,Social Media,8668,500,500,398,224,100,Events,4,Female,30,20000,0
+8/23/2021,7000,500,12,Clothing,5000,Instagram,Social Media,7556,1000,500,133,259,200,Community,4,Female,40,60000,0
+8/23/2021,5000,500,8,Home Goods,8000,Instagram,Social Media,13066,500,100,219,255,100,Social Media,5,Male,30,20000,0
+8/23/2021,3000,500,11,Clothing,8000,Instagram,Email,3253,50,2000,162,60,200,Social Media,5,Female,40,40000,0
+8/23/2021,5000,100,6,Home Goods,1000,Instagram,Social Media,1872,3000,100,458,259,100,Social Media,5,Female,40,20000,0
+8/24/2021,3000,300,13,Accessories,1000,Facebook,Email,14734,1000,500,135,161,100,Community,5,Female,60,40000,0
+8/24/2021,10000,500,7,Home Goods,5000,Instagram,Email,10136,1000,100,56,30,400,Community,3,Female,40,20000,1
+8/24/2021,7000,1000,11,Clothing,5000,Facebook,Email,3876,200,100,433,70,200,Social Media,3,Male,40,80000,0
+8/25/2021,5000,500,10,Accessories,2000,Email,Social Media,14899,200,500,176,1,100,Events,3,Male,30,40000,0
+8/25/2021,5000,500,8,Home Goods,8000,Facebook,Networking Event,8981,3000,1000,114,49,100,Social Media,5,Male,30,20000,1
+8/25/2021,10000,300,7,Clothing,8000,Instagram,Social Media,10757,500,3000,498,134,50,Community,2,Female,20,40000,0
+8/26/2021,3000,700,7,Clothing,2000,Instagram,Social Media,563,1000,2000,471,145,200,Community,3,Female,40,60000,1
+8/26/2021,7000,500,9,Clothing,8000,Facebook,Email,4445,200,2000,148,178,100,Community,2,Male,30,60000,1
+8/26/2021,5000,300,9,Home Goods,2000,Instagram,Social Media,829,200,500,240,263,200,Social Media,3,Female,40,20000,0
+8/26/2021,7000,500,10,Accessories,5000,Facebook,Email,14681,3000,500,122,203,100,Social Media,3,Female,30,80000,0
+8/27/2021,2000,100,10,Accessories,2000,Instagram,Social Media,5358,500,100,291,298,100,Community,4,Male,40,40000,0
+8/27/2021,10000,100,12,Clothing,1000,Email,In-Store Event,2463,50,2000,326,186,200,Social Media,1,Female,30,60000,0
+8/27/2021,10000,300,10,Clothing,8000,Email,Email,3588,200,100,68,29,100,Social Media,4,Non-Binary,40,60000,0
+8/28/2021,7000,100,15,Home Goods,2000,Facebook,Email,11182,500,1000,313,58,200,Social Media,5,Male,60,80000,0
+8/28/2021,7000,300,10,Clothing,5000,Instagram,Social Media,640,50,500,62,8,100,Community,4,Male,40,60000,0
+8/28/2021,10000,500,10,Accessories,2000,Instagram,In-Store Event,14119,500,500,220,166,50,Social Media,2,Male,30,20000,1
+8/29/2021,7000,700,11,Home Goods,1000,Email,Networking Event,5039,200,3000,15,278,100,Social Media,5,Female,40,60000,0
+8/29/2021,3000,700,10,Clothing,1000,Facebook,In-Store Event,2973,1000,2000,389,190,50,Events,4,Male,40,40000,1
+8/29/2021,7000,500,4,Accessories,2000,Instagram,Social Media,6094,200,2000,77,241,100,Events,1,Female,50,100000,0
+8/29/2021,7000,500,14,Clothing,5000,Instagram,In-Store Event,4403,3000,1000,121,277,50,Community,4,Female,50,40000,0
+8/30/2021,5000,1000,7,Accessories,2000,Instagram,Email,5864,200,2000,435,153,200,Community,4,Female,30,40000,0
+8/30/2021,7000,500,13,Clothing,5000,Email,Email,949,500,2000,257,159,50,Social Media,3,Female,50,40000,0
+8/30/2021,10000,100,11,Accessories,5000,Instagram,In-Store Event,10517,50,3000,216,264,100,Social Media,1,Non-Binary,30,20000,0
+8/31/2021,10000,700,2,Clothing,5000,Facebook,In-Store Event,4946,500,500,478,234,100,Referral,4,Male,50,60000,0
+8/31/2021,5000,300,14,Clothing,2000,Facebook,Email,5194,3000,1000,113,198,50,Social Media,4,Male,30,60000,0
+8/31/2021,3000,500,3,Accessories,8000,Facebook,Email,5306,1000,2000,369,32,50,Events,3,Male,30,40000,0
+9/1/2021,10000,500,14,Clothing,2000,Email,Email,1369,500,1000,460,88,100,Social Media,4,Female,50,20000,1
+9/1/2021,10000,1000,9,Accessories,2000,Email,Email,6579,500,2000,379,94,50,Events,3,Female,30,60000,0
+9/1/2021,3000,500,9,Clothing,1000,Facebook,Email,13972,1000,3000,145,220,50,Events,4,Non-Binary,60,20000,0
+9/1/2021,10000,700,11,Accessories,2000,Instagram,In-Store Event,7807,3000,1000,464,68,50,Events,3,Female,30,60000,0
+9/2/2021,10000,1000,8,Clothing,1000,Facebook,Social Media,12256,3000,1000,236,293,200,Social Media,3,Male,40,60000,0
+9/2/2021,5000,300,9,Accessories,5000,Facebook,Networking Event,4159,200,1000,475,236,200,Events,5,Female,40,40000,0
+9/2/2021,7000,500,11,Clothing,2000,Facebook,Networking Event,4102,3000,2000,459,159,100,Community,4,Male,20,20000,1
+9/3/2021,5000,500,8,Clothing,2000,Facebook,Social Media,9084,200,2000,418,275,400,Referral,3,Male,30,80000,1
+9/3/2021,2000,500,10,Clothing,5000,Instagram,Networking Event,9533,200,100,85,289,50,Social Media,3,Female,20,40000,0
+9/3/2021,5000,500,13,Accessories,2000,Facebook,Social Media,2948,50,1000,166,41,100,Social Media,4,Non-Binary,60,20000,0
+9/4/2021,10000,1000,15,Clothing,2000,Instagram,Social Media,14885,200,100,128,65,200,Referral,5,Male,50,60000,0
+9/4/2021,2000,700,10,Home Goods,1000,Email,Social Media,11483,1000,2000,164,20,200,Events,4,Female,30,20000,0
+9/4/2021,5000,700,8,Home Goods,5000,Instagram,Social Media,14106,1000,1000,276,69,400,Events,4,Female,30,40000,0
+9/4/2021,5000,500,11,Clothing,1000,Email,In-Store Event,8092,1000,1000,256,260,400,Community,5,Male,20,80000,0
+9/5/2021,5000,700,5,Accessories,2000,Instagram,In-Store Event,3453,500,2000,131,245,50,Referral,4,Male,40,100000,0
+9/5/2021,10000,1000,18,Clothing,5000,Facebook,Social Media,5631,500,100,479,234,400,Events,2,Female,60,60000,0
+9/5/2021,5000,700,11,Clothing,5000,Email,Networking Event,1858,500,500,57,271,400,Social Media,4,Female,40,40000,0
+9/6/2021,5000,100,11,Accessories,5000,Instagram,Email,9682,200,1000,256,98,100,Referral,3,Male,30,40000,0
+9/6/2021,7000,700,11,Accessories,8000,Email,Networking Event,9730,1000,500,140,34,400,Community,4,Male,40,60000,0
+9/6/2021,5000,100,9,Accessories,1000,Facebook,Social Media,8719,500,1000,173,170,50,Community,1,Female,60,40000,0
+9/7/2021,3000,500,11,Clothing,2000,Facebook,Email,887,500,3000,174,109,200,Social Media,3,Female,40,40000,0
+9/7/2021,5000,100,8,Clothing,2000,Instagram,Social Media,14103,500,2000,208,294,100,Community,3,Female,60,80000,1
+9/7/2021,3000,700,12,Clothing,1000,Facebook,Social Media,1332,1000,2000,203,9,50,Social Media,2,Male,20,40000,1
+9/7/2021,3000,700,7,Accessories,2000,Facebook,Email,8941,200,3000,6,201,100,Community,3,Female,40,40000,0
+9/8/2021,5000,300,10,Accessories,2000,Facebook,In-Store Event,10719,200,1000,50,256,100,Community,4,Female,40,20000,0
+9/8/2021,5000,500,11,Accessories,5000,Facebook,Email,10220,1000,500,258,261,200,Social Media,3,Female,40,60000,0
+9/8/2021,10000,500,8,Clothing,5000,Facebook,In-Store Event,4693,500,500,177,180,100,Social Media,4,Non-Binary,40,40000,1
+9/9/2021,5000,500,7,Clothing,2000,Instagram,Networking Event,2338,1000,2000,409,65,100,Community,4,Female,20,40000,1
+9/9/2021,7000,300,7,Clothing,5000,Instagram,Social Media,10052,200,2000,30,293,50,Community,4,Non-Binary,20,40000,0
+9/9/2021,7000,500,9,Clothing,2000,Instagram,Social Media,13850,200,500,355,160,200,Social Media,4,Non-Binary,60,80000,0
+9/10/2021,2000,700,9,Clothing,2000,Instagram,Networking Event,11801,1000,1000,317,66,200,Events,2,Female,30,60000,0
+9/10/2021,7000,100,14,Home Goods,5000,Email,Social Media,10015,500,1000,153,99,200,Events,3,Female,60,40000,1
+9/10/2021,3000,100,9,Home Goods,1000,Email,Social Media,10918,500,1000,450,76,200,Community,5,Female,40,80000,1
+9/10/2021,10000,500,12,Accessories,1000,Instagram,Social Media,12372,200,2000,363,34,100,Social Media,4,Female,30,40000,0
+9/11/2021,3000,1000,16,Clothing,2000,LinkedIn,Social Media,1391,200,1000,54,44,100,Community,4,Male,60,40000,1
+9/11/2021,5000,700,8,Clothing,8000,Facebook,In-Store Event,6088,500,3000,155,149,100,Social Media,4,Male,50,60000,0
+9/11/2021,2000,700,7,Home Goods,5000,LinkedIn,Email,1805,50,1000,43,67,400,Referral,1,Male,30,60000,0
+9/12/2021,10000,500,12,Clothing,1000,Email,Social Media,5783,1000,2000,80,253,200,Social Media,4,Male,20,20000,0
+9/12/2021,5000,700,9,Home Goods,8000,Email,Email,5048,1000,3000,165,16,100,Social Media,1,Male,50,80000,0
+9/12/2021,7000,100,11,Clothing,5000,Instagram,Networking Event,4692,200,3000,494,260,100,Community,5,Non-Binary,50,60000,0
+9/13/2021,2000,700,13,Clothing,5000,Instagram,Networking Event,6952,500,100,29,212,100,Referral,3,Female,50,100000,0
+9/13/2021,7000,1000,14,Home Goods,8000,Instagram,Email,8953,500,500,321,255,200,Social Media,4,Male,40,60000,1
+9/13/2021,3000,700,17,Clothing,2000,Email,Email,2840,200,1000,135,215,100,Social Media,1,Female,30,100000,1
+9/13/2021,10000,1000,8,Accessories,2000,Instagram,Email,2293,200,1000,13,285,200,Social Media,5,Male,50,60000,0
+9/14/2021,3000,700,9,Accessories,5000,Email,Social Media,10988,200,2000,356,6,100,Community,5,Female,20,20000,0
+9/14/2021,3000,300,9,Clothing,5000,Instagram,Social Media,10984,500,3000,482,198,100,Events,2,Male,30,60000,1
+9/14/2021,2000,1000,7,Clothing,5000,Email,In-Store Event,6894,500,500,105,90,200,Community,3,Male,20,80000,0
+9/15/2021,5000,100,8,Accessories,5000,Instagram,Social Media,10862,500,1000,358,146,100,Social Media,1,Female,20,80000,1
+9/15/2021,7000,500,6,Accessories,8000,Instagram,Email,824,1000,500,317,149,400,Social Media,4,Female,40,40000,0
+9/15/2021,2000,300,9,Clothing,8000,Instagram,In-Store Event,9677,1000,2000,74,51,50,Community,3,Female,20,60000,1
+9/16/2021,7000,100,6,Home Goods,8000,Facebook,Social Media,8348,500,3000,446,242,50,Community,4,Female,30,80000,0
+9/16/2021,5000,500,12,Clothing,8000,Instagram,Social Media,8614,1000,1000,78,218,100,Social Media,1,Male,30,80000,0
+9/16/2021,5000,500,12,Clothing,8000,Email,Email,7144,200,500,193,5,200,Social Media,4,Female,40,20000,0
+9/16/2021,5000,500,10,Clothing,1000,Instagram,Social Media,5282,1000,2000,484,108,200,Community,4,Male,40,60000,1
+9/17/2021,5000,700,12,Clothing,2000,Instagram,In-Store Event,12544,500,2000,362,65,50,Community,4,Male,40,60000,0
+9/17/2021,7000,100,12,Clothing,2000,Email,Social Media,10431,1000,1000,95,9,50,Events,4,Male,50,20000,1
+9/17/2021,3000,300,10,Home Goods,8000,Instagram,Social Media,10552,500,2000,39,201,100,Events,1,Female,40,100000,1
+9/18/2021,3000,700,12,Clothing,5000,LinkedIn,Social Media,3637,200,3000,255,281,100,Events,4,Female,30,40000,0
+9/18/2021,10000,500,14,Clothing,5000,LinkedIn,In-Store Event,4398,500,1000,396,213,100,Social Media,4,Male,60,60000,0
+9/18/2021,10000,700,4,Clothing,1000,Instagram,Email,1335,200,1000,106,67,100,Social Media,4,Male,20,80000,0
+9/19/2021,5000,700,9,Accessories,2000,Instagram,Social Media,4654,500,500,16,246,100,Community,2,Non-Binary,30,20000,0
+9/19/2021,3000,700,7,Home Goods,5000,Instagram,In-Store Event,3278,500,1000,14,49,100,Community,4,Male,40,80000,0
+9/19/2021,7000,700,10,Clothing,1000,Email,Email,14309,1000,1000,416,16,50,Events,5,Female,50,60000,0
+9/19/2021,5000,500,8,Clothing,2000,Facebook,Networking Event,10088,500,1000,498,10,100,Events,5,Female,50,80000,0
+9/20/2021,2000,700,14,Clothing,2000,Facebook,Social Media,6909,500,100,271,123,50,Events,4,Female,20,60000,0
+9/20/2021,3000,500,7,Clothing,2000,Email,Social Media,10368,200,500,498,224,100,Social Media,3,Male,40,20000,0
+9/20/2021,7000,500,8,Clothing,5000,Instagram,Social Media,13023,3000,500,12,243,200,Events,3,Non-Binary,40,60000,0
+9/21/2021,7000,700,10,Clothing,2000,Email,Social Media,4813,1000,1000,246,28,50,Referral,1,Female,30,40000,1
+9/21/2021,2000,500,6,Clothing,5000,Email,Social Media,6146,1000,2000,213,284,50,Social Media,3,Male,20,40000,0
+9/21/2021,3000,700,16,Accessories,1000,Facebook,Email,10529,200,2000,150,58,50,Community,2,Male,40,40000,1
+9/22/2021,3000,700,10,Clothing,8000,Email,Social Media,8108,500,1000,291,142,200,Social Media,3,Male,30,60000,0
+9/22/2021,7000,1000,5,Home Goods,2000,Email,Email,4221,50,1000,42,299,50,Community,5,Male,20,60000,0
+9/22/2021,2000,1000,8,Home Goods,5000,Instagram,Email,14217,500,2000,433,225,400,Events,5,Non-Binary,30,60000,0
+9/22/2021,3000,500,2,Accessories,5000,Facebook,In-Store Event,8411,50,1000,113,163,100,Social Media,5,Male,20,80000,1
+9/23/2021,7000,500,13,Clothing,2000,Facebook,Social Media,12364,500,3000,329,83,100,Social Media,2,Female,30,60000,0
+9/23/2021,3000,700,10,Clothing,8000,Instagram,In-Store Event,11714,500,1000,80,116,50,Social Media,5,Female,30,80000,0
+9/23/2021,7000,500,9,Clothing,5000,LinkedIn,Email,13376,200,2000,349,203,100,Social Media,2,Male,30,20000,1
+9/24/2021,3000,700,13,Accessories,2000,Instagram,Social Media,2171,500,100,140,293,100,Community,4,Male,60,80000,0
+9/24/2021,2000,700,9,Clothing,1000,Facebook,Email,1416,1000,2000,29,144,100,Referral,4,Female,30,40000,0
+9/24/2021,3000,700,10,Home Goods,8000,Facebook,Networking Event,6088,50,2000,440,26,100,Community,3,Female,40,60000,0
+9/25/2021,7000,500,8,Home Goods,5000,Instagram,Networking Event,9609,1000,3000,493,16,100,Events,5,Female,60,40000,0
+9/25/2021,10000,300,10,Clothing,2000,LinkedIn,Email,9825,200,3000,29,62,100,Events,3,Female,50,60000,1
+9/25/2021,10000,500,6,Accessories,2000,Email,In-Store Event,6996,50,500,454,266,100,Community,4,Female,30,40000,0
+9/25/2021,5000,300,8,Clothing,8000,Facebook,Email,2336,200,1000,265,63,100,Referral,1,Male,30,40000,0
+9/26/2021,7000,1000,5,Clothing,5000,Instagram,Social Media,2638,1000,1000,98,38,200,Social Media,5,Non-Binary,40,20000,1
+9/26/2021,3000,500,9,Clothing,5000,Instagram,In-Store Event,4507,200,1000,449,129,100,Social Media,3,Non-Binary,60,60000,1
+9/26/2021,3000,300,7,Clothing,2000,Instagram,In-Store Event,2405,1000,500,93,114,100,Social Media,4,Male,20,20000,0
+9/27/2021,10000,100,5,Home Goods,5000,Instagram,In-Store Event,4489,500,2000,210,44,100,Social Media,4,Male,30,40000,1
+9/27/2021,2000,700,8,Clothing,2000,Facebook,Social Media,3985,50,3000,294,215,50,Community,4,Female,50,20000,0
+9/27/2021,2000,700,15,Clothing,2000,LinkedIn,Email,5297,500,1000,36,87,100,Events,4,Female,30,20000,1
+9/28/2021,3000,500,5,Accessories,5000,Facebook,Email,10812,50,500,386,176,100,Social Media,3,Female,40,80000,0
+9/28/2021,2000,100,18,Accessories,8000,Email,Social Media,3232,1000,500,88,264,50,Community,4,Female,40,60000,0
+9/28/2021,3000,500,9,Clothing,2000,Facebook,Networking Event,8214,200,2000,417,104,400,Events,5,Female,30,100000,0
+9/28/2021,7000,500,8,Home Goods,2000,Facebook,Email,11461,200,1000,254,170,100,Events,5,Male,30,60000,1
+9/29/2021,5000,700,10,Accessories,5000,Email,Social Media,1821,1000,3000,213,107,100,Social Media,2,Female,40,80000,0
+9/29/2021,10000,700,14,Clothing,5000,Facebook,Social Media,12408,3000,2000,421,160,200,Community,1,Male,40,60000,0
+9/29/2021,10000,500,11,Clothing,8000,Email,Social Media,3854,200,2000,13,282,50,Social Media,3,Male,50,60000,0
+9/30/2021,5000,300,10,Clothing,5000,Instagram,Social Media,10220,1000,1000,191,39,200,Community,4,Non-Binary,50,60000,0
+9/30/2021,3000,1000,11,Home Goods,1000,Instagram,Social Media,14009,200,100,294,25,50,Social Media,3,Female,20,40000,1
+9/30/2021,5000,500,13,Accessories,8000,Email,In-Store Event,7601,1000,3000,181,82,100,Referral,4,Female,40,60000,1
+10/1/2021,7000,700,9,Home Goods,5000,Facebook,Email,13843,500,2000,129,172,200,Community,5,Female,40,80000,1
+10/1/2021,3000,300,9,Clothing,8000,Email,Networking Event,5243,200,3000,223,172,400,Community,3,Female,40,80000,0
+10/1/2021,7000,500,10,Clothing,5000,LinkedIn,Email,9451,200,1000,42,281,200,Events,3,Female,30,60000,0
+10/1/2021,5000,100,11,Clothing,8000,Instagram,Email,7514,50,2000,180,69,100,Community,5,Male,40,100000,0
+10/2/2021,7000,500,13,Clothing,1000,Facebook,Social Media,3912,200,100,386,5,100,Community,3,Female,40,100000,1
+10/2/2021,5000,1000,7,Accessories,2000,Instagram,In-Store Event,8325,200,2000,168,283,50,Social Media,3,Male,40,60000,0
+10/2/2021,3000,500,7,Accessories,8000,Facebook,Email,1857,500,2000,263,194,200,Events,3,Female,50,80000,0
+10/3/2021,10000,100,11,Clothing,2000,Email,Social Media,10882,3000,2000,473,12,50,Events,3,Female,20,20000,0
+10/3/2021,7000,100,6,Clothing,1000,Instagram,Social Media,14557,50,2000,95,62,100,Events,4,Male,30,20000,0
+10/3/2021,3000,500,14,Clothing,5000,Facebook,Email,3981,500,500,202,12,200,Social Media,3,Male,40,20000,0
+10/4/2021,10000,300,12,Clothing,8000,Email,In-Store Event,9640,500,3000,497,248,200,Events,3,Female,60,80000,1
+10/4/2021,5000,100,5,Clothing,1000,Instagram,Networking Event,14879,3000,3000,446,204,100,Community,4,Male,20,20000,0
+10/4/2021,10000,700,9,Clothing,8000,Email,Email,10771,500,100,320,252,200,Social Media,3,Female,30,20000,0
+10/4/2021,7000,500,18,Clothing,5000,Facebook,Social Media,2266,500,3000,334,39,50,Social Media,3,Female,60,20000,0
+10/5/2021,5000,500,8,Clothing,5000,LinkedIn,Networking Event,8719,500,500,387,164,50,Community,4,Male,50,40000,0
+10/5/2021,2000,1000,12,Clothing,8000,Instagram,Social Media,7663,200,2000,67,30,100,Social Media,5,Female,50,60000,1
+10/5/2021,3000,300,12,Clothing,2000,Instagram,Social Media,2970,50,1000,91,16,100,Social Media,3,Female,30,20000,0
+10/6/2021,5000,1000,3,Accessories,1000,Facebook,Email,11230,200,3000,265,136,200,Social Media,2,Male,50,60000,0
+10/6/2021,7000,500,8,Clothing,2000,Instagram,Social Media,659,50,500,330,164,200,Social Media,4,Female,40,40000,1
+10/6/2021,3000,1000,10,Home Goods,5000,LinkedIn,Email,3392,500,1000,177,280,100,Events,4,Male,40,40000,0
+10/7/2021,3000,700,7,Clothing,5000,Instagram,In-Store Event,5826,200,1000,150,222,200,Events,3,Female,30,80000,0
+10/7/2021,10000,700,9,Clothing,8000,Email,Social Media,4613,500,1000,316,121,50,Community,1,Female,40,100000,0
+10/7/2021,10000,1000,12,Clothing,5000,Facebook,Email,13914,50,2000,46,77,50,Social Media,1,Male,30,60000,0
+10/7/2021,5000,500,11,Clothing,5000,Instagram,In-Store Event,8249,3000,500,2,87,50,Community,4,Male,30,40000,0
+10/8/2021,3000,1000,12,Home Goods,5000,Instagram,Email,8298,1000,2000,486,112,200,Community,3,Female,40,100000,0
+10/8/2021,3000,500,11,Clothing,1000,Facebook,Social Media,12414,200,3000,102,99,100,Events,5,Male,30,60000,0
+10/8/2021,2000,500,7,Home Goods,1000,Facebook,Social Media,12423,200,2000,272,238,50,Community,4,Male,30,60000,0
+10/9/2021,10000,500,10,Home Goods,8000,Instagram,Email,11163,500,2000,21,110,100,Community,4,Non-Binary,30,40000,0
+10/9/2021,3000,500,4,Accessories,1000,LinkedIn,In-Store Event,5499,50,1000,115,89,100,Community,5,Male,50,40000,0
+10/9/2021,7000,300,8,Accessories,2000,Instagram,Networking Event,13542,200,1000,346,138,200,Events,2,Female,30,60000,0
+10/10/2021,3000,700,10,Accessories,5000,Facebook,Email,2070,200,1000,399,134,100,Community,4,Male,50,60000,0
+10/10/2021,7000,500,8,Clothing,2000,Facebook,Networking Event,9528,3000,100,463,11,50,Social Media,1,Female,40,60000,1
+10/10/2021,7000,700,7,Accessories,8000,Instagram,Social Media,13681,1000,3000,103,243,400,Community,3,Male,40,40000,0
+10/10/2021,10000,700,12,Clothing,2000,LinkedIn,In-Store Event,12630,500,500,258,181,50,Events,2,Male,40,80000,0
+10/11/2021,3000,500,9,Clothing,1000,Instagram,Social Media,10978,500,3000,307,194,200,Referral,2,Female,40,40000,0
+10/11/2021,2000,500,13,Clothing,2000,Instagram,Social Media,3905,3000,100,366,121,100,Social Media,5,Female,20,60000,1
+10/11/2021,3000,500,4,Accessories,5000,Instagram,Social Media,14984,3000,2000,416,52,50,Events,4,Female,30,40000,1
+10/12/2021,10000,300,8,Home Goods,2000,Facebook,Social Media,11362,3000,500,297,172,200,Events,5,Male,40,60000,1
+10/12/2021,10000,100,14,Clothing,5000,Facebook,Social Media,6027,50,100,129,178,50,Events,3,Female,60,40000,0
+10/12/2021,7000,500,12,Home Goods,8000,Facebook,Email,12804,200,2000,294,292,200,Events,4,Female,20,60000,0
+10/13/2021,7000,500,4,Clothing,8000,Instagram,Networking Event,13439,500,500,301,58,100,Community,1,Non-Binary,40,40000,0
+10/13/2021,7000,1000,8,Clothing,2000,Instagram,Social Media,14467,500,2000,47,53,100,Social Media,3,Non-Binary,60,60000,0
+10/13/2021,3000,700,13,Clothing,2000,Email,In-Store Event,13047,50,1000,26,256,200,Referral,4,Female,50,40000,1
+10/13/2021,10000,500,13,Clothing,5000,Instagram,Email,6348,50,500,14,244,50,Social Media,1,Female,20,100000,0
+10/14/2021,5000,700,9,Clothing,8000,Email,Social Media,7317,1000,3000,262,148,100,Referral,4,Female,40,100000,0
+10/14/2021,5000,300,7,Accessories,8000,Instagram,In-Store Event,2127,1000,1000,364,283,200,Social Media,3,Female,20,80000,1
+10/14/2021,5000,500,11,Home Goods,2000,Email,Social Media,6643,200,2000,440,15,200,Social Media,3,Male,50,100000,0
+10/15/2021,2000,700,10,Clothing,5000,Instagram,In-Store Event,10558,1000,1000,297,175,100,Social Media,4,Male,30,20000,0
+10/15/2021,3000,500,11,Clothing,2000,Facebook,In-Store Event,8896,500,2000,264,27,200,Events,5,Male,50,100000,0
+10/15/2021,7000,500,10,Home Goods,1000,Instagram,Social Media,7058,1000,1000,360,128,400,Social Media,1,Non-Binary,60,20000,0
+10/16/2021,2000,1000,7,Accessories,1000,Instagram,Social Media,12271,200,500,133,222,50,Community,4,Male,60,40000,0
+10/16/2021,7000,1000,8,Clothing,2000,Instagram,Email,5772,50,1000,440,243,100,Events,4,Male,50,40000,0
+10/16/2021,3000,700,10,Clothing,2000,Instagram,Social Media,11866,200,1000,75,237,50,Referral,1,Male,30,100000,0
+10/16/2021,5000,700,7,Home Goods,1000,Instagram,Email,8381,500,1000,29,231,200,Social Media,4,Female,30,60000,0
+10/17/2021,3000,700,14,Accessories,5000,Facebook,Networking Event,9483,500,2000,438,91,200,Community,3,Non-Binary,40,60000,1
+10/17/2021,5000,300,14,Clothing,2000,Facebook,Social Media,12784,50,2000,339,2,200,Community,2,Female,40,100000,0
+10/17/2021,7000,500,11,Clothing,5000,Email,Social Media,13928,3000,100,125,80,400,Referral,2,Male,20,60000,1
+10/18/2021,3000,100,10,Home Goods,2000,Facebook,Email,4247,200,1000,83,43,50,Community,5,Non-Binary,30,60000,1
+10/18/2021,7000,500,11,Clothing,1000,Facebook,In-Store Event,9797,200,1000,53,154,50,Social Media,2,Male,60,20000,1
+10/18/2021,5000,500,9,Home Goods,2000,Facebook,Email,14645,500,100,365,23,100,Community,3,Non-Binary,50,80000,0
+10/19/2021,7000,300,10,Clothing,2000,Facebook,Email,9782,500,500,282,98,100,Community,2,Male,30,100000,0
+10/19/2021,10000,1000,6,Accessories,5000,Facebook,Email,2107,200,100,339,170,200,Social Media,2,Female,30,100000,1
+10/19/2021,7000,1000,10,Clothing,1000,Email,In-Store Event,10531,1000,3000,442,147,200,Community,3,Male,40,40000,1
+10/19/2021,3000,700,5,Clothing,5000,Instagram,In-Store Event,5574,500,2000,262,122,100,Events,3,Non-Binary,50,40000,0
+10/20/2021,2000,500,11,Home Goods,1000,Instagram,Social Media,7653,500,100,423,111,100,Social Media,3,Male,40,40000,1
+10/20/2021,3000,1000,5,Clothing,5000,Facebook,In-Store Event,12089,500,100,359,129,200,Social Media,1,Male,60,40000,0
+10/20/2021,7000,300,7,Accessories,5000,Instagram,Email,7233,50,2000,221,67,50,Social Media,5,Female,50,40000,1
+10/21/2021,2000,700,7,Clothing,1000,Email,In-Store Event,566,500,1000,327,216,50,Referral,4,Male,60,60000,0
+10/21/2021,5000,300,16,Clothing,2000,Email,Email,8500,1000,2000,1,95,100,Social Media,2,Female,40,80000,0
+10/21/2021,7000,700,8,Clothing,1000,Instagram,Email,13471,50,3000,397,144,100,Community,3,Female,50,100000,0
+10/22/2021,5000,500,8,Accessories,5000,Instagram,Email,8145,200,1000,393,32,400,Community,1,Female,50,20000,0
+10/22/2021,7000,1000,16,Clothing,2000,Facebook,Social Media,9970,3000,500,305,285,100,Social Media,4,Male,30,40000,0
+10/22/2021,3000,1000,12,Clothing,5000,Facebook,Networking Event,4658,200,2000,145,4,200,Events,3,Non-Binary,30,40000,1
+10/22/2021,2000,300,21,Clothing,5000,Instagram,Social Media,9505,500,3000,17,117,100,Social Media,2,Female,50,40000,0
+10/23/2021,7000,500,13,Accessories,8000,Email,In-Store Event,902,3000,1000,15,139,50,Community,2,Female,20,40000,0
+10/23/2021,5000,1000,11,Accessories,5000,Facebook,Social Media,8425,200,2000,307,229,50,Events,3,Male,30,40000,0
+10/23/2021,7000,500,15,Clothing,5000,Instagram,Email,10694,50,1000,452,159,50,Social Media,5,Male,50,100000,1
+10/24/2021,5000,1000,13,Clothing,2000,Instagram,Social Media,14140,1000,1000,435,293,50,Social Media,2,Male,50,40000,0
+10/24/2021,3000,700,10,Home Goods,8000,Email,Social Media,4666,1000,2000,158,248,100,Community,2,Female,20,60000,1
+10/24/2021,10000,500,9,Clothing,5000,Instagram,In-Store Event,3425,500,3000,484,272,100,Community,4,Female,40,60000,0
+10/25/2021,7000,500,16,Home Goods,2000,Email,Social Media,3493,500,2000,339,185,200,Community,4,Female,40,60000,0
+10/25/2021,7000,300,8,Home Goods,8000,Facebook,Social Media,9778,1000,2000,406,39,100,Community,1,Female,30,60000,0
+10/25/2021,3000,700,9,Accessories,2000,Facebook,Email,13032,500,500,351,223,50,Referral,3,Female,60,80000,1
+10/25/2021,7000,500,9,Clothing,8000,Email,Social Media,11258,200,500,297,151,200,Community,3,Male,40,60000,0
+10/26/2021,5000,500,12,Home Goods,8000,Email,In-Store Event,13180,50,1000,208,139,100,Social Media,2,Female,60,80000,0
+10/26/2021,2000,500,8,Accessories,1000,Instagram,Email,1271,500,500,445,127,400,Social Media,3,Female,20,40000,0
+10/26/2021,10000,700,6,Accessories,5000,Instagram,In-Store Event,12364,1000,2000,204,146,400,Social Media,1,Female,30,20000,0
+10/27/2021,3000,1000,9,Clothing,2000,Email,Social Media,11940,1000,500,112,284,200,Events,4,Male,50,80000,1
+10/27/2021,10000,1000,13,Clothing,2000,Facebook,Email,7871,3000,2000,177,217,200,Social Media,5,Female,30,40000,0
+10/27/2021,5000,500,9,Clothing,2000,Instagram,In-Store Event,10361,1000,2000,460,219,50,Referral,4,Male,30,60000,1
+10/28/2021,3000,700,14,Accessories,5000,LinkedIn,Social Media,6213,500,1000,208,144,50,Community,3,Male,60,60000,0
+10/28/2021,5000,700,10,Accessories,2000,Instagram,Social Media,8667,200,500,123,276,200,Community,4,Female,50,40000,0
+10/28/2021,10000,700,13,Clothing,1000,Instagram,Email,2056,1000,2000,14,241,100,Community,4,Male,40,60000,0
+10/28/2021,7000,1000,9,Clothing,5000,Instagram,Email,11650,500,3000,345,59,100,Community,5,Non-Binary,40,80000,0
+10/29/2021,10000,300,10,Clothing,1000,Facebook,In-Store Event,1651,500,2000,427,97,200,Social Media,4,Male,20,80000,1
+10/29/2021,7000,300,13,Accessories,1000,Facebook,Social Media,5814,50,100,475,180,200,Events,4,Female,60,60000,0
+10/29/2021,7000,1000,7,Home Goods,2000,Instagram,In-Store Event,1717,3000,100,297,113,50,Community,3,Female,50,80000,0
+10/30/2021,10000,500,7,Clothing,2000,Instagram,Email,10923,500,1000,44,102,50,Referral,3,Female,20,80000,1
+10/30/2021,3000,700,11,Clothing,2000,Instagram,Email,13034,200,500,93,56,50,Social Media,3,Female,30,60000,1
+10/30/2021,5000,1000,11,Clothing,1000,Facebook,Email,4444,500,2000,106,284,200,Social Media,1,Female,50,40000,0
+10/31/2021,3000,100,8,Accessories,8000,Instagram,Social Media,8539,500,2000,418,128,100,Community,3,Non-Binary,20,20000,1
+10/31/2021,10000,1000,11,Accessories,5000,LinkedIn,In-Store Event,2542,200,500,277,85,400,Community,3,Male,60,40000,0
+10/31/2021,10000,500,11,Home Goods,2000,Instagram,Social Media,6803,1000,1000,127,199,200,Events,4,Male,60,20000,0
+10/31/2021,2000,500,12,Clothing,2000,LinkedIn,Social Media,9397,200,500,457,70,50,Community,5,Female,50,20000,0
+11/1/2021,7000,700,7,Home Goods,2000,Instagram,In-Store Event,3169,200,3000,458,97,50,Events,3,Female,40,100000,0
+11/1/2021,10000,1000,6,Clothing,5000,Email,Networking Event,2613,200,1000,37,299,100,Social Media,2,Female,40,60000,1
+11/1/2021,3000,100,18,Accessories,1000,Instagram,Email,3477,500,2000,96,175,400,Events,5,Male,20,80000,0
+11/2/2021,7000,500,7,Clothing,1000,Instagram,In-Store Event,13041,3000,1000,197,232,50,Events,5,Male,40,60000,0
+11/2/2021,10000,700,13,Home Goods,8000,Email,Social Media,4878,1000,2000,191,74,200,Community,3,Male,30,40000,0
+11/2/2021,2000,700,11,Accessories,2000,Email,Email,7727,3000,1000,356,142,100,Social Media,2,Female,40,20000,0
+11/3/2021,7000,700,14,Accessories,2000,Facebook,Email,6761,50,1000,6,22,100,Community,3,Male,30,100000,1
+11/3/2021,3000,300,11,Home Goods,8000,Email,Social Media,922,50,2000,43,180,400,Social Media,2,Male,30,20000,0
+11/3/2021,10000,500,18,Clothing,5000,Facebook,Social Media,10713,500,1000,331,44,50,Community,5,Male,30,60000,0
+11/3/2021,10000,500,11,Clothing,2000,Email,Email,12485,200,500,6,91,200,Social Media,4,Female,50,20000,1
+11/4/2021,10000,700,12,Home Goods,5000,Instagram,Email,12823,1000,500,193,268,50,Community,3,Female,30,40000,0
+11/4/2021,5000,500,7,Clothing,1000,Facebook,Networking Event,9222,500,1000,315,33,200,Referral,5,Female,30,40000,0
+11/4/2021,10000,300,15,Clothing,5000,Facebook,In-Store Event,590,3000,1000,0,165,200,Social Media,4,Male,30,60000,0
+11/5/2021,10000,1000,6,Clothing,2000,Instagram,Networking Event,3872,200,2000,61,69,200,Referral,5,Male,20,80000,0
+11/5/2021,5000,100,6,Accessories,8000,Email,Email,6536,500,3000,342,195,50,Community,5,Female,50,60000,0
+11/5/2021,10000,1000,7,Clothing,8000,Instagram,Email,2442,500,100,88,132,50,Social Media,1,Female,40,60000,0
+11/6/2021,2000,700,12,Clothing,8000,Instagram,Email,4305,200,500,17,246,100,Social Media,2,Female,20,100000,1
+11/6/2021,7000,700,13,Clothing,8000,Facebook,Email,9932,500,500,107,167,100,Social Media,4,Non-Binary,30,60000,1
+11/6/2021,3000,500,9,Clothing,5000,Facebook,Social Media,10450,200,1000,134,276,200,Events,5,Non-Binary,60,80000,1
+11/6/2021,3000,100,8,Home Goods,2000,Instagram,Social Media,597,200,1000,370,155,100,Referral,5,Male,40,40000,1
+11/7/2021,2000,700,11,Home Goods,2000,Instagram,Networking Event,1979,200,2000,309,22,50,Community,4,Male,30,80000,1
+11/7/2021,7000,700,15,Accessories,5000,LinkedIn,Social Media,5126,50,500,66,199,200,Referral,2,Male,30,60000,1
+11/7/2021,5000,700,15,Clothing,8000,Instagram,Email,10524,500,1000,92,274,200,Social Media,2,Female,30,20000,1
+11/8/2021,7000,300,12,Home Goods,2000,Facebook,Social Media,11277,200,2000,137,49,400,Referral,4,Female,20,20000,0
+11/8/2021,2000,700,7,Accessories,8000,Email,Social Media,5647,50,3000,188,185,100,Social Media,4,Female,50,40000,0
+11/8/2021,5000,700,5,Clothing,8000,Facebook,Social Media,4147,200,3000,58,19,100,Referral,4,Male,30,40000,0
+11/9/2021,5000,700,5,Home Goods,8000,LinkedIn,Email,5943,200,2000,186,115,50,Events,3,Female,50,80000,0
+11/9/2021,7000,700,13,Accessories,8000,Email,Social Media,579,200,3000,234,91,50,Community,4,Female,40,60000,1
+11/9/2021,5000,700,6,Accessories,2000,Facebook,Email,6077,50,500,68,52,100,Social Media,5,Non-Binary,30,100000,0
+11/9/2021,7000,700,7,Accessories,1000,Facebook,Email,13401,500,500,446,122,400,Community,3,Female,50,60000,1
+11/10/2021,10000,100,13,Clothing,1000,Facebook,In-Store Event,2723,500,100,97,264,50,Social Media,3,Female,30,60000,0
+11/10/2021,7000,500,11,Clothing,2000,Facebook,In-Store Event,3069,500,2000,7,3,100,Events,4,Male,40,40000,0
+11/10/2021,3000,100,12,Accessories,5000,Email,Email,10464,1000,3000,461,168,50,Events,5,Female,50,60000,0
+11/11/2021,2000,500,11,Clothing,8000,Instagram,Email,14268,500,500,487,280,100,Events,3,Male,60,60000,1
+11/11/2021,10000,500,15,Clothing,8000,Instagram,Networking Event,5018,500,2000,310,289,50,Social Media,3,Female,20,80000,1
+11/11/2021,2000,100,6,Accessories,5000,Instagram,Email,1623,1000,2000,133,72,100,Community,3,Male,20,60000,1
+11/12/2021,10000,500,15,Accessories,1000,Instagram,Social Media,14822,200,3000,384,136,100,Community,3,Male,40,60000,0
+11/12/2021,5000,300,11,Clothing,1000,Instagram,Email,12503,500,2000,55,255,50,Events,2,Male,30,40000,0
+11/12/2021,10000,700,9,Accessories,1000,Email,Email,12166,200,3000,480,140,50,Community,4,Male,40,60000,0
+11/12/2021,7000,1000,16,Home Goods,2000,Facebook,Networking Event,3123,200,1000,359,207,200,Community,3,Male,20,80000,0
+11/13/2021,10000,100,14,Accessories,5000,Facebook,In-Store Event,1903,1000,1000,458,259,100,Social Media,4,Non-Binary,40,60000,1
+11/13/2021,5000,1000,7,Clothing,1000,Facebook,Email,3078,200,1000,113,262,50,Community,1,Male,20,20000,0
+11/13/2021,7000,500,8,Clothing,2000,Email,Social Media,831,200,1000,87,270,400,Community,2,Female,50,40000,0
+11/14/2021,5000,500,11,Clothing,1000,Facebook,Email,7985,200,100,137,37,100,Community,4,Male,50,60000,0
+11/14/2021,5000,100,7,Clothing,5000,Email,Email,13440,200,2000,107,202,100,Referral,4,Female,20,60000,0
+11/14/2021,7000,500,11,Clothing,2000,Instagram,In-Store Event,12300,200,2000,499,223,200,Community,3,Male,50,40000,0
+11/15/2021,10000,700,13,Clothing,2000,LinkedIn,Social Media,1239,500,2000,22,51,100,Events,5,Male,30,80000,1
+11/15/2021,10000,700,11,Clothing,2000,Facebook,Social Media,13900,1000,1000,143,80,200,Community,2,Male,30,40000,0
+11/15/2021,7000,100,11,Home Goods,8000,Instagram,Networking Event,14415,1000,1000,356,210,400,Events,3,Female,30,20000,1
+11/15/2021,5000,100,8,Clothing,2000,Facebook,In-Store Event,13298,200,1000,143,6,50,Social Media,4,Male,50,80000,0
+11/16/2021,5000,500,8,Accessories,5000,Facebook,In-Store Event,8733,3000,100,55,44,200,Events,5,Non-Binary,30,60000,1
+11/16/2021,7000,500,10,Accessories,5000,Instagram,Email,5480,500,1000,107,276,50,Events,3,Female,20,80000,0
+11/16/2021,3000,300,18,Clothing,5000,Facebook,Email,4378,200,500,350,258,100,Social Media,3,Female,60,40000,0
+11/17/2021,3000,500,8,Home Goods,8000,Instagram,Social Media,2449,1000,100,5,141,200,Referral,4,Non-Binary,30,20000,0
+11/17/2021,5000,700,8,Accessories,2000,Instagram,Social Media,3960,500,2000,29,257,400,Social Media,3,Female,60,20000,0
+11/17/2021,3000,1000,9,Clothing,2000,LinkedIn,In-Store Event,2628,500,100,446,284,200,Events,4,Non-Binary,30,20000,0
+11/18/2021,3000,500,11,Accessories,1000,Facebook,Social Media,4997,200,3000,484,36,50,Social Media,3,Male,50,80000,1
+11/18/2021,3000,1000,13,Clothing,5000,Email,In-Store Event,2654,500,1000,384,44,100,Referral,5,Female,40,40000,0
+11/18/2021,2000,500,4,Accessories,2000,Facebook,Email,5730,1000,3000,306,119,100,Events,3,Male,50,100000,1
+11/18/2021,2000,500,6,Clothing,1000,Instagram,In-Store Event,7944,500,100,361,45,100,Community,5,Female,60,80000,0
+11/19/2021,10000,300,16,Home Goods,5000,Facebook,Social Media,1737,500,1000,344,139,400,Social Media,3,Female,50,60000,0
+11/19/2021,5000,700,14,Clothing,5000,Facebook,In-Store Event,10458,500,1000,126,52,100,Events,5,Non-Binary,30,100000,0
+11/19/2021,5000,1000,12,Accessories,1000,LinkedIn,Email,10533,1000,2000,301,287,50,Events,3,Non-Binary,50,40000,0
+11/20/2021,7000,700,6,Clothing,5000,Instagram,Social Media,9197,200,1000,120,273,50,Referral,3,Male,40,40000,0
+11/20/2021,3000,500,11,Accessories,5000,Email,Networking Event,5740,500,500,404,268,100,Community,3,Male,20,60000,0
+11/20/2021,10000,700,9,Accessories,1000,LinkedIn,Social Media,10533,50,2000,98,278,200,Social Media,5,Female,60,40000,1
+11/21/2021,7000,300,13,Clothing,2000,Facebook,Social Media,5315,500,1000,165,61,50,Social Media,3,Female,40,100000,0
+11/21/2021,2000,1000,13,Accessories,5000,LinkedIn,In-Store Event,10086,500,100,324,53,200,Community,3,Male,20,100000,1
+11/21/2021,5000,500,14,Clothing,5000,Instagram,Social Media,756,50,1000,318,68,50,Social Media,2,Female,30,100000,0
+11/21/2021,10000,500,11,Home Goods,2000,LinkedIn,Social Media,2220,500,2000,240,241,100,Social Media,5,Female,40,100000,0
+11/22/2021,10000,700,9,Clothing,2000,Email,Email,14609,200,500,49,269,200,Community,3,Female,40,60000,0
+11/22/2021,5000,700,5,Home Goods,5000,Instagram,In-Store Event,13741,50,1000,267,251,50,Community,3,Female,40,60000,0
+11/22/2021,7000,100,14,Home Goods,8000,LinkedIn,Social Media,7847,200,100,324,283,100,Community,5,Female,30,20000,1
+11/23/2021,3000,700,7,Clothing,5000,Facebook,Social Media,7576,200,1000,72,70,200,Events,5,Female,40,80000,1
+11/23/2021,10000,300,8,Clothing,1000,Facebook,Email,1571,200,2000,299,99,100,Social Media,3,Non-Binary,60,40000,0
+11/23/2021,3000,700,9,Clothing,2000,Facebook,Social Media,2122,200,1000,51,60,100,Community,5,Female,30,80000,1
+11/24/2021,10000,700,6,Home Goods,8000,Instagram,Email,13684,500,1000,264,102,200,Social Media,3,Female,40,100000,0
+11/24/2021,7000,700,9,Clothing,1000,Facebook,Email,2566,1000,100,226,118,400,Community,1,Female,30,40000,1
+11/24/2021,7000,700,12,Accessories,8000,Email,Social Media,9761,500,500,192,16,50,Referral,5,Male,20,20000,0
+11/24/2021,5000,500,12,Home Goods,8000,Instagram,Email,9142,50,500,373,190,200,Community,4,Non-Binary,40,60000,0
+11/25/2021,3000,300,13,Clothing,1000,Instagram,Email,1397,3000,1000,238,211,50,Events,3,Female,20,80000,1
+11/25/2021,3000,700,7,Accessories,8000,Instagram,Social Media,5675,500,1000,9,77,50,Social Media,1,Non-Binary,40,80000,0
+11/25/2021,3000,500,11,Clothing,2000,Facebook,Email,13528,50,3000,301,45,100,Events,3,Male,40,60000,0
+11/26/2021,3000,500,9,Clothing,8000,Email,Social Media,12420,1000,100,358,92,400,Community,4,Female,30,80000,0
+11/26/2021,7000,500,14,Accessories,2000,Email,Email,8773,200,1000,227,12,100,Community,5,Female,30,40000,1
+11/26/2021,5000,300,9,Clothing,2000,LinkedIn,Social Media,9428,500,1000,441,227,100,Events,3,Female,60,60000,0
+11/27/2021,2000,700,7,Clothing,5000,Facebook,Social Media,4674,500,1000,292,16,50,Community,5,Male,20,60000,0
+11/27/2021,10000,100,10,Home Goods,5000,Instagram,Networking Event,6281,200,2000,51,61,400,Events,3,Male,40,40000,1
+11/27/2021,10000,700,13,Clothing,1000,LinkedIn,Email,4444,1000,500,239,42,100,Social Media,4,Female,60,40000,1
+11/27/2021,10000,500,12,Home Goods,5000,Email,Email,6926,200,100,98,67,100,Events,1,Female,60,80000,0
+11/28/2021,10000,100,10,Home Goods,1000,Facebook,Email,14122,50,2000,80,211,200,Referral,4,Female,40,100000,0
+11/28/2021,3000,500,10,Clothing,2000,Facebook,Social Media,13784,3000,1000,12,202,200,Referral,3,Male,30,60000,0
+11/28/2021,5000,100,15,Clothing,2000,LinkedIn,In-Store Event,10899,3000,100,389,213,50,Social Media,5,Female,20,100000,0
+11/29/2021,7000,500,17,Accessories,2000,Email,Email,5935,500,500,441,108,100,Social Media,3,Female,30,20000,0
+11/29/2021,7000,700,11,Clothing,2000,Instagram,Email,12640,500,1000,356,283,400,Referral,3,Male,40,100000,0
+11/29/2021,3000,100,6,Clothing,1000,Email,Email,10694,50,2000,127,93,400,Events,5,Male,20,20000,0
+11/30/2021,10000,700,5,Accessories,1000,Instagram,Social Media,10383,1000,500,303,224,50,Community,3,Female,50,60000,1
+11/30/2021,3000,100,9,Clothing,1000,Instagram,Social Media,9871,50,1000,415,224,100,Social Media,3,Female,40,40000,0
+11/30/2021,3000,300,7,Home Goods,2000,Facebook,Social Media,3435,50,1000,10,238,50,Community,4,Female,20,80000,0
+11/30/2021,5000,700,9,Clothing,8000,Instagram,In-Store Event,6333,500,1000,80,117,100,Referral,5,Female,30,40000,0
+12/1/2021,7000,500,12,Clothing,1000,Instagram,Social Media,11207,200,3000,260,90,200,Community,3,Male,40,20000,0
+12/1/2021,7000,300,10,Clothing,8000,Instagram,Email,8588,50,100,5,288,100,Social Media,2,Non-Binary,20,40000,0
+12/1/2021,2000,500,8,Home Goods,5000,Facebook,Email,13640,200,3000,457,280,200,Social Media,3,Non-Binary,50,20000,0
+12/2/2021,10000,500,6,Accessories,5000,Email,Social Media,961,50,1000,372,18,200,Referral,5,Male,60,40000,1
+12/2/2021,3000,700,7,Home Goods,5000,LinkedIn,Social Media,11593,200,2000,480,174,200,Events,1,Female,60,60000,0
+12/2/2021,3000,500,4,Clothing,8000,Instagram,Social Media,616,50,1000,221,105,400,Community,3,Female,40,40000,0
+12/3/2021,10000,700,9,Clothing,1000,Facebook,Social Media,6285,200,1000,404,288,100,Social Media,4,Female,50,40000,0
+12/3/2021,10000,1000,12,Clothing,5000,LinkedIn,Social Media,7007,500,2000,297,247,100,Referral,1,Female,40,40000,0
+12/3/2021,10000,500,7,Clothing,5000,Instagram,In-Store Event,10346,1000,2000,80,141,200,Events,3,Female,40,20000,0
+12/3/2021,10000,1000,9,Accessories,5000,Email,Social Media,6330,500,500,410,297,200,Social Media,5,Non-Binary,40,60000,0
+12/4/2021,7000,500,18,Accessories,8000,Email,Networking Event,14724,500,500,2,192,50,Events,1,Female,30,60000,0
+12/4/2021,7000,1000,8,Clothing,1000,Instagram,Email,5061,50,1000,59,290,200,Social Media,4,Male,20,60000,1
+12/4/2021,2000,100,6,Home Goods,5000,Email,Social Media,10490,50,3000,220,207,50,Events,5,Female,50,20000,0
+12/5/2021,5000,700,13,Clothing,5000,Email,In-Store Event,8627,200,1000,449,247,50,Community,3,Male,60,60000,0
+12/5/2021,5000,500,8,Home Goods,2000,Instagram,Social Media,1159,500,2000,348,141,50,Social Media,3,Female,40,60000,0
+12/5/2021,3000,500,9,Clothing,2000,Instagram,Networking Event,11929,500,2000,48,221,400,Events,5,Female,40,40000,1
+12/6/2021,7000,700,10,Clothing,5000,Instagram,Networking Event,2622,500,2000,227,224,100,Community,4,Male,40,40000,0
+12/6/2021,5000,700,15,Clothing,8000,Instagram,Email,12511,200,1000,289,183,50,Social Media,2,Male,40,40000,1
+12/6/2021,2000,100,13,Clothing,2000,Facebook,Social Media,12035,50,1000,292,187,400,Community,3,Female,30,20000,0
+12/6/2021,3000,300,3,Accessories,8000,Facebook,Email,14502,1000,3000,297,112,200,Community,4,Male,60,40000,1
+12/7/2021,7000,700,10,Clothing,2000,Instagram,In-Store Event,11242,200,2000,192,180,200,Events,3,Male,40,20000,0
+12/7/2021,2000,700,11,Clothing,1000,LinkedIn,In-Store Event,13582,500,2000,443,198,50,Social Media,4,Female,20,40000,0
+12/7/2021,10000,1000,18,Accessories,1000,Instagram,Email,2086,500,1000,473,69,50,Community,5,Non-Binary,50,60000,1
+12/8/2021,5000,700,6,Accessories,1000,Instagram,Email,5182,500,2000,256,85,100,Social Media,3,Female,30,100000,0
+12/8/2021,5000,1000,10,Home Goods,2000,Instagram,Social Media,7299,3000,500,442,38,200,Social Media,5,Female,40,60000,1
+12/8/2021,7000,700,10,Clothing,2000,Facebook,Social Media,11439,3000,500,387,130,200,Community,4,Female,40,60000,1
+12/9/2021,10000,500,10,Accessories,5000,Facebook,Email,9326,500,2000,102,9,200,Events,2,Male,40,40000,0
+12/9/2021,5000,300,11,Accessories,5000,Instagram,Social Media,7487,500,1000,397,2,200,Social Media,4,Female,20,20000,0
+12/9/2021,7000,700,14,Clothing,1000,Instagram,Social Media,14062,200,2000,365,149,50,Events,4,Female,20,40000,0
+12/9/2021,7000,700,10,Clothing,2000,Email,Email,8475,3000,500,145,66,200,Community,3,Non-Binary,30,60000,0
+12/10/2021,3000,100,11,Clothing,2000,LinkedIn,In-Store Event,3382,500,1000,289,192,100,Social Media,3,Non-Binary,40,60000,1
+12/10/2021,10000,500,9,Clothing,5000,Instagram,In-Store Event,5749,50,1000,256,96,50,Community,4,Male,30,80000,1
+12/10/2021,7000,1000,6,Clothing,1000,Instagram,Networking Event,3311,200,1000,308,18,50,Community,4,Non-Binary,30,40000,0
+12/11/2021,7000,500,10,Clothing,1000,Facebook,In-Store Event,13145,50,500,277,97,200,Events,5,Non-Binary,60,40000,1
+12/11/2021,10000,500,9,Accessories,8000,Email,Email,12707,500,2000,463,56,200,Community,5,Female,30,60000,1
+12/11/2021,10000,500,14,Accessories,8000,Instagram,Email,11431,500,2000,188,106,100,Community,3,Male,50,60000,0
+12/12/2021,7000,300,5,Home Goods,1000,LinkedIn,Email,6027,200,500,405,87,50,Referral,4,Female,50,40000,0
+12/12/2021,10000,500,14,Accessories,2000,Facebook,Networking Event,2384,50,1000,177,140,50,Social Media,1,Male,50,60000,0
+12/12/2021,7000,500,12,Clothing,2000,Facebook,In-Store Event,10210,3000,2000,15,143,400,Community,2,Female,60,40000,1
+12/12/2021,7000,100,11,Home Goods,5000,Facebook,Networking Event,9313,1000,2000,411,51,200,Referral,2,Male,40,60000,0
+12/13/2021,7000,700,13,Home Goods,5000,LinkedIn,In-Store Event,13269,1000,2000,475,211,400,Community,4,Female,40,40000,1
+12/13/2021,7000,500,11,Clothing,1000,Email,Social Media,13767,200,2000,374,40,200,Events,2,Non-Binary,40,60000,1
+12/13/2021,3000,700,6,Accessories,5000,Instagram,Social Media,14661,1000,1000,85,90,100,Community,3,Male,30,80000,0
+12/14/2021,10000,1000,11,Home Goods,2000,Instagram,Social Media,5573,500,1000,247,38,50,Social Media,3,Female,30,100000,0
+12/14/2021,10000,300,9,Accessories,2000,Facebook,Email,10229,200,500,453,12,100,Social Media,3,Male,30,100000,0
+12/14/2021,2000,700,12,Home Goods,2000,Instagram,Email,11029,50,500,216,95,50,Community,5,Female,30,60000,0
+12/15/2021,10000,500,5,Clothing,2000,Email,Social Media,5916,200,2000,41,108,50,Social Media,5,Female,50,60000,0
+12/15/2021,3000,1000,10,Clothing,2000,Email,Social Media,6300,50,100,193,103,50,Social Media,4,Male,60,40000,1
+12/15/2021,5000,300,14,Clothing,2000,Email,Social Media,7395,3000,3000,326,230,200,Events,4,Female,50,20000,0
+12/15/2021,7000,700,10,Accessories,2000,LinkedIn,Social Media,10686,50,2000,372,42,100,Events,4,Female,30,40000,1
+12/16/2021,3000,700,9,Home Goods,1000,Instagram,Email,10762,200,2000,464,208,100,Social Media,4,Male,20,20000,0
+12/16/2021,10000,500,10,Home Goods,5000,Email,Social Media,13593,500,3000,162,87,100,Social Media,4,Female,50,60000,0
+12/16/2021,10000,300,7,Clothing,1000,Email,Social Media,6815,200,1000,275,92,50,Social Media,1,Female,30,40000,1
+12/17/2021,5000,700,10,Clothing,1000,Instagram,Social Media,5430,500,2000,363,173,200,Events,3,Male,50,20000,0
+12/17/2021,2000,700,5,Home Goods,5000,Email,In-Store Event,2865,50,500,129,125,200,Social Media,3,Non-Binary,50,60000,0
+12/17/2021,3000,500,17,Accessories,5000,Instagram,Social Media,13695,1000,100,262,108,50,Social Media,3,Female,40,60000,0
+12/18/2021,7000,700,6,Clothing,8000,Email,Social Media,11537,200,2000,479,46,200,Social Media,3,Male,30,60000,1
+12/18/2021,10000,500,8,Clothing,2000,Facebook,In-Store Event,11730,500,100,176,213,100,Referral,4,Male,20,60000,0
+12/18/2021,7000,700,8,Accessories,2000,Instagram,In-Store Event,1354,500,3000,466,91,50,Social Media,4,Female,30,40000,0
+12/18/2021,3000,300,10,Accessories,5000,Facebook,In-Store Event,3228,1000,2000,459,180,100,Community,1,Female,40,20000,1
+12/19/2021,7000,1000,9,Clothing,5000,Facebook,Email,1415,1000,2000,264,40,400,Social Media,3,Female,60,80000,0
+12/19/2021,5000,500,7,Clothing,2000,Instagram,Email,7673,500,500,26,258,50,Events,4,Female,20,40000,0
+12/19/2021,7000,500,13,Home Goods,8000,Instagram,Email,5438,200,2000,461,120,100,Events,2,Female,30,60000,0
+12/20/2021,3000,100,12,Accessories,1000,Facebook,Email,631,500,100,385,76,200,Events,1,Female,40,60000,0
+12/20/2021,7000,300,9,Clothing,8000,Facebook,In-Store Event,9808,1000,2000,84,94,100,Events,5,Female,30,100000,0
+12/20/2021,5000,500,8,Clothing,8000,Email,Social Media,4093,1000,500,195,268,100,Social Media,3,Non-Binary,50,60000,0
+12/21/2021,10000,500,7,Accessories,5000,LinkedIn,Email,9552,50,2000,315,17,200,Social Media,5,Non-Binary,20,60000,1
+12/21/2021,5000,700,7,Clothing,8000,Facebook,Email,793,200,500,242,292,100,Events,5,Female,60,40000,1
+12/21/2021,7000,100,8,Clothing,5000,Email,Email,11380,1000,100,468,170,200,Community,5,Female,60,100000,0
+12/21/2021,10000,500,6,Accessories,1000,Facebook,Social Media,9691,200,1000,367,161,200,Social Media,1,Male,50,60000,0
+12/22/2021,3000,500,10,Clothing,2000,Email,Networking Event,10988,200,500,341,51,200,Events,2,Male,30,20000,1
+12/22/2021,10000,100,16,Accessories,1000,Instagram,In-Store Event,4185,200,2000,176,35,400,Events,3,Female,30,60000,0
+12/22/2021,7000,300,8,Clothing,2000,Instagram,In-Store Event,8516,500,500,129,186,200,Referral,2,Female,50,40000,0
+12/23/2021,2000,500,8,Accessories,5000,Facebook,Email,8262,3000,1000,144,247,200,Referral,3,Male,50,20000,0
+12/23/2021,5000,500,3,Clothing,2000,Instagram,Social Media,7346,500,1000,82,51,200,Community,4,Female,40,40000,0
+12/23/2021,7000,500,10,Clothing,2000,Email,Email,8084,200,500,359,18,400,Referral,5,Non-Binary,30,80000,0
+12/24/2021,2000,500,6,Clothing,5000,Email,Social Media,7810,200,1000,87,91,400,Community,5,Non-Binary,30,60000,0
+12/24/2021,7000,700,9,Home Goods,8000,Instagram,In-Store Event,5856,50,2000,19,138,200,Events,3,Female,60,60000,0
+12/24/2021,5000,100,10,Home Goods,1000,Facebook,Social Media,786,500,500,229,219,50,Community,4,Female,20,60000,1
+12/24/2021,7000,500,11,Clothing,2000,Email,Networking Event,9141,500,100,459,98,200,Social Media,3,Male,20,60000,0
+12/25/2021,2000,1000,10,Accessories,1000,Email,Social Media,11030,200,1000,472,235,50,Referral,3,Female,20,40000,0
+12/25/2021,10000,500,13,Accessories,5000,Instagram,Email,11932,500,1000,125,206,100,Community,5,Non-Binary,50,40000,0
+12/25/2021,10000,700,10,Home Goods,1000,Instagram,Email,7086,500,1000,470,143,50,Social Media,1,Female,20,20000,0
+12/26/2021,10000,500,11,Clothing,5000,Facebook,Social Media,11395,200,1000,497,198,400,Community,4,Female,40,40000,0
+12/26/2021,7000,700,3,Accessories,2000,Facebook,Networking Event,5803,200,2000,353,286,100,Community,5,Male,30,100000,0
+12/26/2021,3000,700,7,Clothing,1000,Instagram,Email,3616,3000,100,415,263,200,Social Media,2,Female,20,80000,0
+12/27/2021,7000,500,12,Clothing,8000,Instagram,Networking Event,6374,200,1000,50,216,100,Social Media,5,Female,40,40000,1
+12/27/2021,2000,1000,6,Home Goods,1000,Email,In-Store Event,7470,1000,1000,87,188,50,Community,1,Female,20,40000,0
+12/27/2021,2000,300,6,Accessories,2000,Facebook,Social Media,14757,500,2000,169,43,100,Social Media,5,Male,30,100000,0
+12/27/2021,5000,100,7,Clothing,1000,LinkedIn,Networking Event,8648,1000,3000,62,290,200,Events,3,Female,40,40000,0
+12/28/2021,5000,700,7,Clothing,2000,Email,Social Media,13263,1000,1000,88,188,200,Community,2,Male,30,60000,1
+12/28/2021,7000,700,3,Accessories,5000,LinkedIn,Social Media,8944,500,3000,188,193,50,Social Media,2,Female,30,20000,1
+12/28/2021,7000,300,10,Accessories,2000,Instagram,Networking Event,10111,1000,1000,189,269,100,Referral,4,Female,60,60000,0
+12/29/2021,5000,500,11,Clothing,1000,Email,In-Store Event,11028,3000,100,386,259,200,Social Media,5,Female,60,100000,0
+12/29/2021,3000,100,7,Home Goods,2000,Instagram,Social Media,1735,500,500,88,238,50,Social Media,4,Female,30,80000,0
+12/29/2021,10000,500,11,Clothing,5000,Facebook,Social Media,1499,200,1000,347,111,50,Events,5,Female,30,60000,0
+12/30/2021,5000,700,13,Clothing,5000,Facebook,Email,4260,200,1000,331,68,50,Events,5,Male,30,60000,1
+12/30/2021,5000,500,6,Home Goods,5000,Instagram,Email,4616,1000,100,25,48,200,Events,1,Male,50,60000,1
+12/30/2021,3000,500,12,Clothing,5000,Email,Social Media,4911,500,1000,175,150,100,Referral,4,Non-Binary,40,20000,0
+12/30/2021,7000,500,12,Clothing,2000,Email,In-Store Event,11303,200,1000,363,238,100,Community,3,Male,20,40000,0
+12/31/2021,7000,100,7,Accessories,2000,Instagram,Social Media,6057,50,500,263,114,400,Referral,3,Male,50,100000,0
+12/31/2021,3000,500,12,Home Goods,1000,Facebook,Email,10138,500,500,388,74,200,Referral,1,Male,40,40000,0
+12/31/2021,2000,700,15,Clothing,2000,Instagram,Email,5852,200,2000,394,97,100,Events,3,Male,30,40000,0
+1/1/2022,7000,1000,7,Home Goods,2000,Facebook,Social Media,10862,500,1000,41,110,100,Social Media,4,Female,30,60000,0
+1/1/2022,7000,700,9,Accessories,5000,Email,Email,11613,500,2000,482,284,50,Events,3,Female,20,100000,1
+1/1/2022,3000,100,10,Clothing,5000,Instagram,Email,13747,500,2000,474,255,50,Community,4,Non-Binary,60,60000,0
+1/2/2022,10000,1000,9,Accessories,8000,LinkedIn,Networking Event,4183,50,1000,118,116,100,Events,5,Female,40,60000,1
+1/2/2022,3000,700,6,Clothing,1000,Instagram,Email,2761,200,500,168,175,100,Community,1,Male,20,60000,1
+1/2/2022,5000,700,9,Clothing,5000,Facebook,Social Media,10637,200,1000,107,227,100,Events,4,Female,40,60000,1
+1/2/2022,10000,500,13,Accessories,8000,Facebook,Networking Event,13626,200,1000,485,105,400,Social Media,4,Female,40,60000,0
+1/3/2022,5000,500,7,Home Goods,5000,Instagram,Email,13755,500,1000,146,238,400,Community,1,Female,30,100000,0
+1/3/2022,7000,500,5,Clothing,2000,Instagram,Social Media,2353,500,500,175,99,50,Events,4,Female,30,60000,0
+1/3/2022,5000,100,13,Clothing,2000,Email,Social Media,9291,200,500,436,175,200,Social Media,3,Male,40,40000,1
+1/4/2022,3000,300,10,Clothing,1000,Email,Social Media,13579,50,2000,438,248,50,Social Media,3,Female,30,80000,1
+1/4/2022,10000,300,9,Clothing,2000,Instagram,Social Media,12827,200,1000,375,75,200,Community,1,Female,30,80000,0
+1/4/2022,5000,500,11,Clothing,5000,Facebook,Social Media,7395,3000,2000,188,2,50,Events,4,Female,20,40000,0
+1/5/2022,10000,700,15,Clothing,1000,Instagram,In-Store Event,12095,500,1000,159,80,400,Social Media,3,Male,30,40000,0
+1/5/2022,3000,500,10,Accessories,2000,Instagram,Networking Event,3490,1000,2000,301,287,200,Social Media,3,Female,40,100000,0
+1/5/2022,3000,100,13,Clothing,5000,Facebook,Social Media,13435,1000,1000,347,7,50,Social Media,2,Male,20,40000,1
+1/5/2022,2000,1000,12,Clothing,5000,Instagram,Email,12969,500,1000,419,86,200,Events,5,Male,40,60000,1
+1/6/2022,7000,1000,10,Home Goods,2000,Email,Email,13052,500,3000,401,285,200,Social Media,5,Male,30,40000,1
+1/6/2022,5000,700,8,Home Goods,5000,Email,Email,11510,200,2000,73,73,100,Social Media,4,Male,40,60000,0
+1/6/2022,10000,1000,9,Clothing,2000,LinkedIn,Social Media,1362,500,500,351,122,200,Social Media,3,Female,30,60000,0
+1/7/2022,5000,500,11,Clothing,1000,Facebook,Email,5027,200,500,17,293,200,Social Media,1,Male,40,60000,0
+1/7/2022,10000,1000,14,Accessories,2000,LinkedIn,Social Media,12747,1000,2000,139,142,200,Referral,5,Male,40,40000,1
+1/7/2022,3000,100,6,Clothing,5000,Facebook,Networking Event,1719,50,2000,114,157,200,Events,1,Male,40,20000,1
+1/8/2022,10000,500,14,Clothing,8000,Facebook,Email,4295,1000,1000,327,108,100,Social Media,1,Male,50,100000,0
+1/8/2022,7000,300,8,Accessories,1000,LinkedIn,Networking Event,13296,50,1000,224,194,200,Social Media,3,Female,20,80000,0
+1/8/2022,7000,300,4,Clothing,5000,Facebook,Networking Event,13234,1000,2000,45,35,400,Social Media,4,Male,60,80000,0
+1/8/2022,10000,300,11,Clothing,2000,Instagram,Email,1027,200,1000,438,89,100,Events,3,Male,50,60000,1
+1/9/2022,7000,700,7,Clothing,5000,Email,Networking Event,7869,500,2000,37,295,50,Community,1,Female,40,60000,0
+1/9/2022,7000,700,14,Clothing,1000,LinkedIn,Networking Event,3422,500,500,205,200,200,Events,4,Male,50,80000,0
+1/9/2022,3000,700,13,Clothing,2000,Email,Social Media,6349,200,3000,385,45,400,Community,4,Male,30,80000,0
+1/10/2022,2000,300,7,Home Goods,8000,Facebook,Email,14416,500,2000,8,106,50,Community,4,Female,20,80000,1
+1/10/2022,10000,700,14,Clothing,5000,Facebook,Social Media,11896,3000,2000,252,169,100,Community,3,Female,40,40000,0
+1/10/2022,7000,700,6,Clothing,2000,LinkedIn,In-Store Event,1662,50,1000,107,145,50,Events,4,Female,60,40000,0
+1/11/2022,7000,500,17,Clothing,2000,Instagram,Social Media,13456,3000,500,388,177,200,Referral,3,Female,30,60000,0
+1/11/2022,5000,700,8,Home Goods,2000,Facebook,Email,12256,500,1000,97,60,400,Community,4,Non-Binary,40,40000,0
+1/11/2022,3000,500,12,Accessories,2000,Instagram,Social Media,1346,1000,2000,274,2,100,Social Media,4,Male,50,60000,1
+1/11/2022,3000,500,13,Clothing,8000,Facebook,Social Media,10809,200,2000,70,81,100,Community,3,Female,60,60000,1
+1/12/2022,7000,1000,10,Home Goods,8000,Facebook,Social Media,7459,500,1000,38,262,400,Events,3,Female,30,40000,0
+1/12/2022,5000,500,9,Clothing,2000,Instagram,Networking Event,3586,1000,2000,297,286,50,Social Media,1,Non-Binary,20,80000,0
+1/12/2022,3000,500,9,Clothing,2000,Instagram,Social Media,10462,200,2000,400,94,200,Community,3,Female,30,20000,0
+1/13/2022,5000,1000,10,Clothing,8000,Facebook,In-Store Event,3783,500,100,446,63,100,Community,3,Female,40,60000,1
+1/13/2022,2000,700,9,Clothing,2000,Instagram,Networking Event,10517,50,1000,89,245,100,Events,4,Female,60,20000,0
+1/13/2022,7000,100,12,Clothing,5000,Instagram,Social Media,3823,200,2000,429,76,100,Social Media,1,Female,40,100000,1
+1/14/2022,3000,300,8,Accessories,2000,Email,Email,945,500,1000,218,258,200,Community,5,Female,60,40000,0
+1/14/2022,7000,100,12,Clothing,5000,Instagram,In-Store Event,1525,500,2000,106,92,400,Social Media,3,Non-Binary,50,80000,0
+1/14/2022,5000,700,11,Accessories,5000,Facebook,In-Store Event,10463,500,1000,475,290,400,Events,3,Female,40,60000,0
+1/14/2022,5000,500,11,Clothing,8000,LinkedIn,Email,1859,50,3000,403,270,200,Social Media,1,Male,20,20000,0
+1/15/2022,2000,300,10,Clothing,5000,Instagram,Social Media,8710,200,100,453,20,50,Social Media,4,Male,30,60000,0
+1/15/2022,2000,1000,5,Clothing,2000,Instagram,Email,6613,200,1000,391,61,100,Social Media,4,Male,20,100000,0
+1/15/2022,5000,500,17,Home Goods,5000,Facebook,Networking Event,9252,500,100,95,259,100,Social Media,5,Male,30,40000,0
+1/16/2022,5000,300,10,Clothing,8000,Email,Networking Event,971,1000,500,402,236,400,Social Media,3,Male,20,40000,1
+1/16/2022,7000,500,10,Accessories,2000,LinkedIn,Email,527,1000,1000,31,140,100,Referral,3,Female,30,40000,0
+1/16/2022,3000,700,7,Clothing,1000,LinkedIn,In-Store Event,9251,50,500,125,166,400,Community,4,Female,30,40000,0
+1/17/2022,7000,100,6,Clothing,1000,Email,Email,11347,1000,3000,146,66,400,Social Media,4,Male,40,100000,1
+1/17/2022,10000,500,10,Clothing,2000,Instagram,Networking Event,3736,500,3000,279,57,100,Community,5,Female,30,40000,1
+1/17/2022,7000,700,7,Clothing,2000,Instagram,Social Media,13245,500,1000,23,211,200,Community,3,Male,40,60000,0
+1/17/2022,2000,500,11,Clothing,5000,Instagram,Social Media,9636,50,2000,439,129,400,Social Media,4,Female,40,40000,1
+1/18/2022,5000,500,9,Clothing,1000,Instagram,Email,4448,500,1000,208,24,200,Referral,1,Male,40,40000,0
+1/18/2022,3000,500,11,Accessories,8000,Email,Email,13987,200,2000,119,10,200,Community,3,Female,40,40000,1
+1/18/2022,3000,100,10,Clothing,2000,Facebook,Social Media,12348,200,2000,273,256,200,Referral,2,Non-Binary,40,40000,0
+1/19/2022,10000,300,4,Accessories,2000,Instagram,Social Media,13771,50,100,139,80,50,Social Media,4,Male,60,60000,1
+1/19/2022,3000,500,7,Clothing,2000,Email,Email,13655,200,2000,296,285,200,Social Media,4,Female,30,20000,0
+1/19/2022,5000,300,10,Accessories,2000,Instagram,Email,11755,50,2000,342,18,50,Community,1,Female,30,80000,0
+1/20/2022,7000,100,9,Accessories,2000,Facebook,Email,6672,200,1000,431,109,50,Social Media,3,Male,20,60000,0
+1/20/2022,7000,700,10,Clothing,2000,Facebook,Networking Event,2479,50,3000,81,33,200,Social Media,3,Non-Binary,40,40000,0
+1/20/2022,7000,1000,12,Clothing,1000,Facebook,Networking Event,11408,500,3000,447,287,200,Social Media,3,Female,30,20000,0
+1/20/2022,2000,700,7,Accessories,5000,Facebook,Email,5421,50,1000,399,254,50,Social Media,1,Male,40,20000,0
+1/21/2022,5000,1000,11,Home Goods,5000,Instagram,Social Media,9507,500,2000,207,125,100,Social Media,3,Male,30,40000,0
+1/21/2022,5000,300,10,Clothing,2000,Facebook,Email,2826,50,3000,483,208,400,Social Media,4,Female,40,60000,0
+1/21/2022,2000,1000,10,Clothing,5000,Email,In-Store Event,2830,3000,500,406,133,200,Social Media,3,Female,40,80000,0
+1/22/2022,5000,300,8,Home Goods,5000,LinkedIn,In-Store Event,8146,3000,1000,469,85,50,Events,3,Male,30,100000,0
+1/22/2022,2000,1000,5,Clothing,1000,Facebook,Social Media,1502,200,500,422,74,400,Social Media,5,Female,40,80000,0
+1/22/2022,2000,1000,12,Accessories,8000,Facebook,In-Store Event,10234,500,2000,32,134,100,Community,1,Male,50,40000,0
+1/23/2022,5000,700,10,Clothing,8000,Email,In-Store Event,6948,50,2000,23,172,200,Social Media,4,Female,50,40000,0
+1/23/2022,3000,1000,9,Clothing,2000,LinkedIn,In-Store Event,7337,3000,500,60,212,200,Events,3,Female,30,100000,0
+1/23/2022,7000,700,8,Accessories,1000,Instagram,Social Media,12896,500,3000,310,18,400,Community,5,Female,50,60000,1
+1/23/2022,7000,500,3,Accessories,1000,Facebook,Social Media,6967,50,2000,188,118,200,Events,3,Female,20,40000,0
+1/24/2022,10000,500,14,Clothing,1000,Email,Email,9921,200,2000,83,284,100,Social Media,4,Female,30,40000,0
+1/24/2022,3000,700,7,Clothing,5000,Facebook,Social Media,11997,50,100,224,226,200,Social Media,1,Male,20,40000,0
+1/24/2022,3000,100,9,Accessories,2000,Instagram,Social Media,14749,200,1000,478,211,100,Community,5,Female,60,60000,0
+1/25/2022,3000,700,13,Accessories,5000,Facebook,Email,7854,500,2000,167,188,100,Referral,3,Male,20,80000,0
+1/25/2022,7000,1000,4,Clothing,5000,Instagram,Email,14751,500,1000,185,150,100,Referral,4,Female,30,40000,1
+1/25/2022,7000,300,9,Accessories,5000,Facebook,Social Media,3029,200,2000,374,222,100,Referral,2,Female,60,20000,1
+1/26/2022,2000,700,8,Accessories,5000,Facebook,Email,13709,50,2000,71,127,100,Community,5,Female,40,40000,0
+1/26/2022,10000,1000,14,Accessories,1000,Email,Social Media,1930,200,1000,73,247,50,Events,4,Female,50,40000,0
+1/26/2022,2000,1000,13,Accessories,2000,Facebook,In-Store Event,4412,50,2000,384,50,200,Social Media,1,Female,20,60000,0
+1/26/2022,5000,1000,10,Clothing,5000,Instagram,Networking Event,2032,1000,500,340,190,200,Events,2,Non-Binary,30,60000,0
+1/27/2022,7000,500,6,Accessories,1000,Instagram,Social Media,2392,50,500,152,236,100,Community,3,Male,60,40000,1
+1/27/2022,10000,1000,8,Accessories,1000,Email,Social Media,11816,500,100,95,21,400,Events,3,Male,40,60000,1
+1/27/2022,7000,700,12,Clothing,8000,Instagram,Social Media,1921,200,1000,52,109,50,Referral,3,Female,50,40000,0
+1/28/2022,10000,300,11,Clothing,5000,Facebook,Email,14010,200,1000,444,32,100,Community,5,Female,60,60000,0
+1/28/2022,5000,500,19,Clothing,2000,Instagram,In-Store Event,9082,500,2000,173,126,100,Community,4,Female,40,60000,0
+1/28/2022,10000,700,4,Accessories,5000,Email,Email,6268,500,2000,109,43,50,Community,5,Non-Binary,30,40000,0
+1/29/2022,2000,300,9,Clothing,5000,Facebook,Email,3318,200,1000,457,6,50,Community,3,Female,30,60000,1
+1/29/2022,10000,700,15,Accessories,2000,Instagram,Networking Event,10561,500,2000,315,127,400,Social Media,4,Non-Binary,20,40000,0
+1/29/2022,5000,700,11,Home Goods,1000,Instagram,Email,11652,500,100,50,90,100,Events,3,Female,30,40000,0
+1/29/2022,10000,300,8,Accessories,8000,Email,Social Media,6117,200,500,376,129,100,Community,3,Male,60,40000,1
+1/30/2022,5000,700,17,Home Goods,2000,Facebook,Email,1695,500,2000,252,16,100,Social Media,4,Female,40,40000,0
+1/30/2022,7000,700,13,Home Goods,1000,Email,Email,6729,500,2000,495,185,200,Social Media,3,Non-Binary,60,80000,0
+1/30/2022,5000,500,10,Clothing,2000,Email,Email,11297,50,2000,72,109,100,Community,5,Male,50,40000,0
+1/31/2022,7000,100,11,Accessories,5000,LinkedIn,Email,9549,500,1000,211,285,200,Social Media,3,Non-Binary,60,60000,0
+1/31/2022,2000,100,10,Clothing,2000,Instagram,Social Media,5805,50,2000,431,162,100,Community,5,Female,60,100000,0
+1/31/2022,2000,500,10,Home Goods,2000,LinkedIn,In-Store Event,11919,200,2000,211,74,100,Social Media,4,Female,40,40000,0
+2/1/2022,3000,1000,11,Clothing,2000,Instagram,Social Media,10208,500,3000,250,198,50,Community,3,Female,50,20000,1
+2/1/2022,3000,300,11,Home Goods,8000,Instagram,In-Store Event,8577,1000,500,167,286,200,Events,3,Female,40,20000,0
+2/1/2022,10000,700,7,Accessories,1000,Email,Email,14438,1000,1000,262,181,200,Community,3,Female,40,20000,0
+2/1/2022,3000,300,17,Accessories,5000,Instagram,Social Media,9845,50,2000,330,96,100,Referral,2,Male,40,20000,1
+2/2/2022,10000,500,9,Clothing,8000,Instagram,Email,1342,200,3000,468,50,50,Events,4,Non-Binary,40,60000,0
+2/2/2022,5000,700,11,Clothing,1000,Instagram,Social Media,5700,500,500,229,33,100,Social Media,5,Female,30,40000,1
+2/2/2022,3000,700,9,Accessories,8000,Facebook,Social Media,6421,50,1000,238,20,50,Social Media,3,Non-Binary,30,60000,0
+2/3/2022,7000,100,19,Clothing,8000,Facebook,Social Media,10374,1000,1000,274,183,100,Community,5,Female,30,20000,0
+2/3/2022,7000,500,9,Home Goods,8000,Email,Networking Event,794,500,1000,493,292,200,Events,3,Female,20,40000,0
+2/3/2022,5000,100,7,Clothing,2000,Email,Social Media,6597,3000,500,142,63,200,Social Media,4,Female,40,40000,0
+2/4/2022,7000,500,7,Accessories,5000,Facebook,Social Media,6912,50,100,69,123,50,Events,3,Female,50,40000,1
+2/4/2022,7000,700,10,Clothing,5000,Instagram,In-Store Event,9336,200,1000,444,100,400,Community,2,Male,40,40000,0
+2/4/2022,3000,300,5,Accessories,8000,LinkedIn,Email,12325,1000,1000,311,118,400,Community,1,Non-Binary,20,60000,0
+2/4/2022,10000,500,10,Accessories,1000,Instagram,Social Media,7178,500,500,393,77,100,Social Media,3,Female,50,60000,0
+2/5/2022,10000,500,7,Clothing,5000,Instagram,Networking Event,10827,1000,1000,173,180,100,Community,1,Non-Binary,60,20000,0
+2/5/2022,7000,1000,13,Clothing,2000,Instagram,Social Media,5520,50,100,335,198,400,Social Media,2,Female,50,60000,1
+2/5/2022,3000,1000,9,Clothing,1000,Facebook,Email,6243,500,3000,108,189,200,Community,2,Female,40,40000,1
+2/6/2022,7000,100,10,Accessories,2000,Instagram,Social Media,610,500,1000,202,102,100,Events,1,Female,30,40000,0
+2/6/2022,2000,700,16,Accessories,5000,Instagram,Social Media,9275,50,2000,184,274,200,Events,2,Female,30,80000,0
+2/6/2022,2000,500,4,Accessories,2000,Instagram,Social Media,11917,500,1000,290,129,50,Community,4,Female,40,100000,0
+2/7/2022,3000,500,10,Accessories,5000,Instagram,Email,10178,500,3000,327,240,200,Social Media,5,Female,20,80000,0
+2/7/2022,5000,700,7,Clothing,8000,Facebook,In-Store Event,5364,200,1000,91,133,100,Social Media,2,Female,20,20000,0
+2/7/2022,10000,1000,19,Clothing,2000,Email,Networking Event,13967,200,1000,258,156,200,Events,1,Female,60,100000,0
+2/7/2022,7000,1000,10,Clothing,5000,Email,Social Media,2148,500,1000,321,157,50,Social Media,4,Female,40,60000,1
+2/8/2022,7000,700,11,Clothing,2000,Instagram,Social Media,6881,500,2000,436,189,100,Community,1,Female,30,60000,0
+2/8/2022,5000,500,6,Home Goods,2000,Instagram,In-Store Event,2881,1000,1000,205,99,100,Community,4,Male,30,100000,0
+2/8/2022,5000,700,8,Home Goods,5000,LinkedIn,Email,605,200,500,51,51,100,Social Media,2,Male,30,80000,0
+2/9/2022,5000,500,11,Clothing,8000,Instagram,Email,12245,200,500,348,48,200,Referral,3,Non-Binary,20,60000,1
+2/9/2022,10000,700,9,Accessories,5000,Email,Social Media,6318,3000,2000,180,99,100,Events,2,Female,40,80000,0
+2/9/2022,2000,500,7,Home Goods,5000,Instagram,Networking Event,10386,3000,1000,437,250,50,Community,3,Male,30,40000,0
+2/10/2022,10000,700,7,Clothing,1000,LinkedIn,Email,10425,50,100,302,53,100,Events,4,Female,50,60000,0
+2/10/2022,7000,300,6,Clothing,2000,Instagram,In-Store Event,881,1000,1000,2,136,200,Referral,2,Male,50,40000,0
+2/10/2022,5000,300,12,Clothing,5000,Facebook,Social Media,11428,50,1000,448,161,50,Community,5,Female,40,100000,0
+2/10/2022,7000,1000,9,Accessories,1000,Email,Social Media,4856,50,2000,398,291,50,Events,3,Male,50,60000,1
+2/11/2022,5000,300,11,Home Goods,2000,Facebook,Email,6418,200,100,83,80,400,Social Media,5,Non-Binary,30,80000,1
+2/11/2022,10000,500,15,Accessories,5000,Instagram,Email,1816,200,1000,213,219,50,Social Media,2,Non-Binary,40,40000,0
+2/11/2022,10000,300,9,Clothing,1000,Facebook,Networking Event,5954,1000,2000,33,84,200,Social Media,2,Female,40,80000,1
+2/12/2022,5000,100,12,Clothing,2000,Email,In-Store Event,11394,500,2000,49,82,100,Referral,4,Male,40,40000,0
+2/12/2022,3000,100,12,Accessories,5000,Instagram,Social Media,13607,3000,500,288,66,200,Community,1,Female,20,60000,1
+2/12/2022,7000,300,10,Home Goods,5000,Instagram,In-Store Event,4574,500,2000,328,233,50,Events,5,Female,30,80000,0
+2/13/2022,10000,1000,7,Accessories,8000,Facebook,In-Store Event,5304,200,1000,258,197,200,Community,3,Male,30,20000,0
+2/13/2022,3000,500,9,Accessories,5000,Instagram,Social Media,1406,500,1000,257,258,50,Social Media,4,Female,40,40000,0
+2/13/2022,7000,1000,9,Clothing,2000,Facebook,Social Media,8121,3000,3000,387,176,100,Referral,2,Female,50,60000,0
+2/13/2022,7000,700,12,Home Goods,8000,Instagram,Social Media,1162,500,3000,271,297,50,Events,4,Male,40,40000,0
+2/14/2022,7000,500,5,Accessories,5000,Facebook,Social Media,14107,1000,1000,181,279,200,Social Media,4,Male,50,40000,0
+2/14/2022,3000,700,15,Clothing,2000,Instagram,Email,7218,3000,500,32,299,200,Social Media,4,Female,20,40000,0
+2/14/2022,7000,500,10,Accessories,1000,Facebook,Social Media,9154,50,1000,264,128,100,Community,3,Female,50,40000,0
+2/15/2022,10000,700,9,Clothing,5000,Instagram,Email,11594,500,100,312,179,100,Community,5,Non-Binary,40,80000,1
+2/15/2022,3000,500,10,Clothing,5000,Instagram,In-Store Event,13372,1000,100,39,291,200,Events,5,Male,20,100000,0
+2/15/2022,3000,500,6,Clothing,5000,Instagram,In-Store Event,1442,3000,1000,485,206,200,Social Media,5,Female,40,60000,0
+2/16/2022,10000,1000,16,Clothing,5000,LinkedIn,Email,8849,200,3000,307,293,200,Social Media,4,Female,40,20000,0
+2/16/2022,3000,1000,7,Clothing,5000,Instagram,Social Media,6915,500,2000,209,174,400,Social Media,3,Male,30,80000,0
+2/16/2022,10000,1000,7,Clothing,8000,Email,Social Media,14638,500,1000,271,28,100,Social Media,1,Female,50,60000,0
+2/16/2022,5000,500,10,Accessories,5000,Instagram,Social Media,3809,200,1000,135,178,50,Community,5,Male,60,80000,1
+2/17/2022,3000,700,5,Clothing,1000,Instagram,Email,1826,500,100,86,40,50,Social Media,5,Male,30,40000,0
+2/17/2022,10000,500,10,Clothing,8000,Facebook,Social Media,11409,200,500,59,191,200,Referral,1,Female,40,20000,1
+2/17/2022,5000,500,13,Clothing,2000,Facebook,Email,11360,200,100,163,236,100,Events,3,Female,20,60000,1
+2/18/2022,5000,300,13,Accessories,5000,LinkedIn,Email,11260,200,2000,2,224,50,Social Media,5,Non-Binary,60,40000,0
+2/18/2022,5000,700,10,Clothing,8000,LinkedIn,Email,12084,500,500,14,113,100,Community,1,Male,30,80000,0
+2/18/2022,7000,300,9,Clothing,5000,Email,Email,2606,200,2000,101,277,100,Social Media,2,Female,30,60000,0
+2/19/2022,3000,500,12,Home Goods,5000,Facebook,Networking Event,14169,500,2000,254,16,50,Events,5,Male,40,40000,1
+2/19/2022,5000,1000,11,Accessories,2000,Facebook,In-Store Event,5299,200,500,224,85,50,Community,5,Male,20,60000,0
+2/19/2022,10000,300,15,Home Goods,2000,Instagram,Social Media,9339,200,500,209,180,400,Social Media,5,Non-Binary,30,60000,0
+2/19/2022,3000,100,5,Clothing,2000,LinkedIn,Social Media,12014,50,2000,22,144,100,Referral,2,Female,20,40000,0
+2/20/2022,7000,100,10,Clothing,5000,Facebook,Email,3438,200,3000,234,224,50,Social Media,3,Male,20,40000,1
+2/20/2022,5000,1000,8,Accessories,5000,Facebook,Social Media,2983,500,2000,130,53,200,Social Media,4,Female,20,40000,0
+2/20/2022,7000,500,8,Clothing,5000,Instagram,Email,12933,1000,1000,157,67,200,Social Media,4,Non-Binary,50,20000,0
+2/21/2022,3000,500,7,Clothing,1000,Instagram,Social Media,11598,200,1000,172,106,200,Community,3,Male,60,40000,0
+2/21/2022,10000,700,7,Clothing,2000,LinkedIn,In-Store Event,11717,50,1000,16,76,100,Community,5,Male,40,40000,1
+2/21/2022,5000,700,6,Home Goods,5000,Instagram,Email,1875,500,3000,369,26,200,Referral,5,Male,40,20000,0
+2/22/2022,3000,500,11,Clothing,2000,Facebook,Networking Event,8356,200,2000,441,154,100,Community,3,Female,40,80000,1
+2/22/2022,2000,700,8,Home Goods,5000,Instagram,Email,10515,3000,2000,313,71,100,Social Media,2,Male,30,20000,1
+2/22/2022,3000,700,8,Home Goods,5000,Email,Social Media,744,500,1000,479,179,200,Social Media,2,Male,30,40000,0
+2/22/2022,5000,700,6,Clothing,5000,Instagram,Email,14371,200,2000,365,46,200,Events,3,Female,40,40000,0
+2/23/2022,5000,300,8,Accessories,2000,Email,Social Media,2848,200,1000,184,241,100,Events,2,Female,30,40000,0
+2/23/2022,10000,1000,7,Accessories,8000,Instagram,Email,9559,500,100,390,276,400,Community,3,Female,40,100000,1
+2/23/2022,5000,500,6,Home Goods,1000,Email,Social Media,14935,50,1000,422,104,200,Social Media,3,Female,40,60000,1
+2/24/2022,3000,500,11,Clothing,8000,Email,Social Media,11553,50,3000,333,94,200,Social Media,5,Female,40,80000,0
+2/24/2022,7000,500,10,Accessories,1000,Instagram,Social Media,979,200,2000,441,218,100,Social Media,3,Non-Binary,50,60000,0
+2/24/2022,7000,100,11,Clothing,1000,Facebook,Social Media,11154,1000,100,183,169,100,Social Media,4,Male,40,60000,1
+2/25/2022,3000,300,14,Home Goods,8000,Instagram,In-Store Event,2435,500,2000,142,282,100,Community,4,Male,60,100000,0
+2/25/2022,3000,700,12,Clothing,2000,Instagram,Social Media,14753,50,500,43,127,50,Referral,4,Female,50,40000,1
+2/25/2022,2000,100,9,Clothing,5000,Email,Email,6257,500,500,11,199,50,Social Media,5,Female,20,60000,0
+2/25/2022,7000,500,10,Accessories,8000,Facebook,Email,12065,200,500,7,34,200,Social Media,4,Female,40,60000,1
+2/26/2022,7000,500,13,Home Goods,8000,Instagram,In-Store Event,11713,500,1000,79,143,200,Social Media,5,Male,40,100000,0
+2/26/2022,5000,100,11,Accessories,8000,Instagram,Social Media,11884,200,1000,296,291,50,Community,3,Female,40,40000,0
+2/26/2022,10000,1000,12,Clothing,2000,Instagram,Social Media,587,500,1000,161,65,100,Social Media,4,Female,40,60000,0
+2/27/2022,10000,300,13,Clothing,5000,Email,Email,9932,3000,2000,301,218,50,Community,4,Female,20,20000,0
+2/27/2022,7000,500,11,Home Goods,1000,Instagram,Social Media,9264,50,1000,215,55,200,Social Media,5,Female,60,100000,0
+2/27/2022,10000,500,9,Accessories,2000,LinkedIn,Email,9505,200,2000,247,144,50,Events,3,Male,50,60000,1
+2/28/2022,3000,300,10,Home Goods,8000,LinkedIn,In-Store Event,678,200,500,28,212,200,Events,2,Female,40,80000,0
+2/28/2022,3000,100,16,Clothing,2000,Instagram,In-Store Event,10417,200,2000,271,93,200,Community,4,Male,30,80000,0
+2/28/2022,3000,700,5,Clothing,5000,Instagram,Email,662,200,2000,132,105,100,Social Media,3,Female,50,60000,0
+2/28/2022,2000,1000,14,Accessories,5000,Email,Social Media,3140,1000,2000,4,83,100,Social Media,4,Female,30,60000,1
+3/1/2022,5000,300,5,Home Goods,5000,Instagram,Email,9697,3000,1000,243,135,100,Social Media,5,Female,30,60000,0
+3/1/2022,10000,700,7,Clothing,8000,Instagram,Social Media,2848,200,2000,29,145,200,Community,5,Female,40,60000,0
+3/1/2022,2000,700,13,Home Goods,1000,Instagram,In-Store Event,2921,500,100,116,248,200,Events,3,Male,50,40000,0
+3/2/2022,3000,700,13,Accessories,5000,Facebook,Social Media,11447,500,2000,177,17,200,Community,2,Male,20,40000,0
+3/2/2022,5000,500,11,Clothing,8000,Email,Social Media,4798,500,100,497,124,200,Referral,4,Male,50,40000,0
+3/2/2022,10000,500,8,Clothing,2000,Instagram,Email,4642,200,500,260,1,50,Social Media,4,Female,40,100000,1
+3/3/2022,5000,500,10,Clothing,1000,Instagram,In-Store Event,13250,200,1000,234,199,50,Events,4,Female,40,40000,0
+3/3/2022,5000,700,16,Accessories,5000,LinkedIn,Social Media,12433,500,2000,140,137,200,Community,4,Male,30,80000,0
+3/3/2022,2000,700,6,Clothing,2000,Email,Social Media,5003,200,100,482,202,200,Events,4,Female,30,20000,1
+3/3/2022,3000,300,16,Clothing,1000,Facebook,Email,1717,1000,3000,304,281,200,Community,2,Male,20,60000,0
+3/4/2022,10000,500,6,Home Goods,8000,Email,Social Media,2974,1000,3000,344,29,200,Events,4,Female,20,20000,1
+3/4/2022,10000,1000,12,Clothing,5000,Facebook,In-Store Event,1429,50,2000,49,55,100,Social Media,1,Female,30,60000,1
+3/4/2022,2000,700,8,Clothing,8000,Email,Social Media,8458,50,1000,269,118,50,Social Media,1,Female,30,20000,1
+3/5/2022,10000,1000,8,Clothing,8000,Instagram,Social Media,9008,3000,2000,107,131,200,Community,4,Male,30,60000,0
+3/5/2022,7000,700,14,Accessories,5000,Instagram,Social Media,2002,500,1000,45,230,400,Community,4,Non-Binary,30,60000,0
+3/5/2022,10000,500,8,Accessories,1000,Email,Networking Event,920,1000,1000,473,151,100,Social Media,4,Male,30,80000,0
+3/6/2022,5000,700,6,Clothing,2000,Facebook,Social Media,14080,50,3000,81,20,100,Social Media,3,Male,30,60000,0
+3/6/2022,5000,700,20,Accessories,1000,LinkedIn,Email,6330,500,3000,125,67,100,Social Media,1,Female,40,100000,0
+3/6/2022,5000,100,14,Accessories,8000,Instagram,Social Media,14547,500,3000,83,125,50,Community,3,Female,40,80000,1
+3/6/2022,7000,500,11,Clothing,1000,LinkedIn,Social Media,4858,1000,500,289,42,100,Community,4,Male,20,20000,0
+3/7/2022,3000,700,9,Clothing,2000,LinkedIn,Networking Event,1949,50,500,70,181,400,Events,3,Female,30,40000,0
+3/7/2022,2000,300,12,Clothing,5000,Instagram,In-Store Event,6311,200,500,174,99,200,Events,4,Female,40,20000,0
+3/7/2022,5000,700,9,Clothing,2000,Email,Social Media,9119,200,1000,315,239,200,Social Media,4,Female,30,40000,0
+3/8/2022,7000,700,10,Accessories,2000,Facebook,Email,8371,1000,1000,329,199,200,Social Media,3,Female,60,60000,0
+3/8/2022,3000,1000,16,Accessories,5000,LinkedIn,In-Store Event,9088,3000,1000,462,115,100,Events,5,Male,40,100000,1
+3/8/2022,7000,100,14,Clothing,1000,Facebook,Social Media,14027,3000,2000,336,114,400,Events,5,Male,30,60000,0
+3/9/2022,10000,500,13,Clothing,1000,Email,Social Media,9487,3000,2000,394,141,100,Community,5,Female,40,80000,1
+3/9/2022,2000,700,9,Clothing,2000,Facebook,Social Media,606,50,2000,353,118,400,Events,4,Male,40,40000,0
+3/9/2022,7000,500,10,Accessories,5000,Instagram,Social Media,4549,50,2000,90,92,200,Social Media,3,Female,30,40000,1
+3/9/2022,5000,700,18,Clothing,5000,Instagram,Email,8789,50,100,468,8,100,Events,3,Male,30,80000,0
+3/10/2022,10000,700,5,Accessories,2000,Facebook,Networking Event,2403,200,100,350,72,100,Social Media,4,Female,40,40000,0
+3/10/2022,3000,300,3,Clothing,5000,Email,In-Store Event,8149,1000,2000,433,25,100,Social Media,3,Female,60,80000,0
+3/10/2022,7000,500,7,Accessories,2000,Facebook,Social Media,4070,1000,1000,248,238,50,Social Media,4,Female,30,40000,1
+3/11/2022,10000,500,9,Home Goods,8000,Facebook,Social Media,11993,200,1000,131,144,100,Social Media,4,Female,30,80000,1
+3/11/2022,10000,500,12,Clothing,1000,Instagram,Email,5876,500,100,168,67,200,Social Media,1,Male,30,80000,0
+3/11/2022,7000,1000,8,Clothing,5000,Facebook,Email,542,3000,500,442,187,200,Events,4,Male,40,60000,0
+3/12/2022,5000,700,13,Home Goods,8000,Instagram,Social Media,6885,500,2000,59,130,100,Social Media,1,Female,40,80000,0
+3/12/2022,7000,700,10,Clothing,8000,Email,Social Media,2077,50,2000,368,220,100,Community,1,Female,30,40000,0
+3/12/2022,10000,700,10,Accessories,1000,LinkedIn,In-Store Event,12882,500,3000,336,280,200,Community,5,Female,50,40000,0
+3/12/2022,7000,500,7,Clothing,2000,Facebook,Networking Event,6565,200,1000,240,276,100,Social Media,3,Female,30,40000,0
+3/13/2022,2000,1000,7,Accessories,5000,Instagram,Social Media,6385,500,1000,189,139,100,Events,4,Female,40,40000,0
+3/13/2022,10000,700,12,Clothing,1000,Instagram,Social Media,12975,200,2000,495,53,200,Events,3,Non-Binary,30,40000,0
+3/13/2022,7000,700,16,Home Goods,8000,Facebook,Email,9076,50,1000,339,0,100,Social Media,4,Male,50,80000,1
+3/14/2022,7000,1000,15,Accessories,5000,Facebook,In-Store Event,13606,3000,1000,280,127,50,Social Media,2,Female,50,20000,0
+3/14/2022,3000,500,9,Accessories,5000,Email,Social Media,12163,500,3000,231,0,100,Community,4,Male,50,100000,0
+3/14/2022,7000,700,15,Accessories,1000,Instagram,Email,4077,500,2000,470,172,100,Referral,5,Female,30,100000,1
+3/15/2022,5000,300,6,Accessories,5000,Email,Social Media,3738,3000,3000,462,265,100,Community,5,Female,40,60000,0
+3/15/2022,7000,500,15,Clothing,5000,Facebook,In-Store Event,5744,200,500,288,295,100,Social Media,2,Female,40,100000,0
+3/15/2022,3000,500,9,Home Goods,8000,Instagram,In-Store Event,10388,200,1000,274,255,100,Social Media,4,Male,60,80000,1
+3/15/2022,7000,1000,11,Home Goods,1000,Facebook,Email,2634,1000,2000,312,173,200,Events,5,Female,30,60000,0
+3/16/2022,10000,1000,11,Clothing,1000,Instagram,In-Store Event,4392,200,500,14,44,200,Community,2,Male,50,60000,0
+3/16/2022,2000,700,15,Home Goods,2000,Facebook,Email,11228,1000,2000,40,140,200,Social Media,1,Male,30,60000,0
+3/16/2022,10000,700,18,Accessories,1000,Email,Email,4821,200,500,452,26,100,Social Media,5,Male,30,20000,0
+3/17/2022,5000,700,10,Accessories,5000,Facebook,In-Store Event,6276,50,2000,207,232,50,Social Media,4,Female,20,40000,0
+3/17/2022,10000,1000,9,Clothing,8000,Email,In-Store Event,11084,500,2000,59,208,100,Community,3,Male,30,60000,0
+3/17/2022,7000,500,10,Clothing,2000,Facebook,Social Media,14685,200,500,364,49,200,Social Media,2,Male,30,20000,0
+3/18/2022,7000,500,11,Clothing,8000,Instagram,Social Media,13305,1000,1000,239,60,100,Social Media,4,Male,30,100000,0
+3/18/2022,7000,300,14,Clothing,1000,Facebook,In-Store Event,6328,500,2000,95,242,100,Events,3,Male,20,60000,1
+3/18/2022,10000,700,7,Accessories,1000,Facebook,Networking Event,4315,3000,2000,277,268,50,Community,4,Male,50,40000,1
+3/18/2022,5000,700,13,Clothing,1000,Instagram,In-Store Event,795,1000,1000,426,139,400,Community,3,Male,40,40000,1
+3/19/2022,5000,500,13,Clothing,2000,Instagram,Social Media,913,200,2000,159,156,400,Events,4,Female,50,40000,1
+3/19/2022,7000,100,8,Home Goods,8000,Facebook,In-Store Event,6456,1000,1000,396,84,50,Events,4,Female,40,40000,0
+3/19/2022,10000,700,16,Clothing,1000,Instagram,In-Store Event,10687,500,1000,421,83,200,Events,4,Male,50,20000,1
+3/20/2022,7000,100,7,Clothing,5000,Instagram,Email,6778,500,100,281,275,50,Events,4,Female,40,100000,0
+3/20/2022,7000,700,6,Clothing,2000,Facebook,In-Store Event,14816,1000,3000,499,30,100,Community,2,Male,20,40000,1
+3/20/2022,5000,1000,10,Clothing,8000,Instagram,Social Media,7168,500,500,208,7,50,Community,3,Male,40,60000,0
+3/21/2022,10000,500,16,Accessories,1000,LinkedIn,Social Media,8695,500,1000,132,279,50,Community,1,Female,40,20000,1
+3/21/2022,3000,300,10,Accessories,2000,Instagram,Social Media,677,500,2000,380,202,50,Referral,3,Female,40,100000,0
+3/21/2022,5000,700,13,Accessories,1000,Email,Email,9437,200,500,432,32,400,Social Media,5,Non-Binary,50,60000,0
+3/21/2022,2000,700,8,Clothing,2000,Facebook,Social Media,4854,200,1000,96,297,200,Community,4,Male,40,60000,1
+3/22/2022,5000,500,7,Accessories,2000,Email,In-Store Event,9343,500,500,218,142,50,Community,2,Female,30,80000,1
+3/22/2022,5000,1000,8,Clothing,8000,Instagram,Email,6414,200,2000,388,36,100,Events,3,Female,50,60000,0
+3/22/2022,5000,100,7,Clothing,5000,LinkedIn,Social Media,5982,50,1000,484,146,50,Events,1,Female,40,20000,0
+3/23/2022,7000,500,14,Clothing,5000,Facebook,In-Store Event,12581,50,2000,70,227,100,Referral,2,Non-Binary,20,40000,0
+3/23/2022,5000,700,7,Clothing,5000,Email,Social Media,3771,500,2000,431,33,200,Social Media,3,Male,40,40000,0
+3/23/2022,5000,1000,8,Clothing,1000,Instagram,Social Media,7187,200,2000,273,236,50,Social Media,3,Male,40,60000,0
+3/24/2022,3000,300,9,Clothing,2000,Instagram,Social Media,11174,1000,2000,350,211,200,Community,3,Female,40,40000,1
+3/24/2022,5000,700,11,Home Goods,8000,Facebook,Social Media,5892,200,1000,133,139,100,Community,2,Male,60,80000,0
+3/24/2022,3000,700,16,Clothing,8000,Instagram,Social Media,789,500,1000,65,189,50,Community,4,Female,20,40000,1
+3/24/2022,2000,500,7,Clothing,8000,Facebook,In-Store Event,9494,200,2000,126,95,100,Community,4,Male,40,40000,0
+3/25/2022,7000,300,11,Clothing,8000,Instagram,Social Media,11222,500,3000,204,193,400,Social Media,5,Female,50,100000,0
+3/25/2022,7000,1000,9,Accessories,1000,Facebook,In-Store Event,14809,200,1000,297,295,200,Referral,2,Male,40,100000,0
+3/25/2022,7000,300,12,Clothing,2000,LinkedIn,Social Media,8925,3000,1000,116,151,50,Community,5,Male,30,100000,0
+3/26/2022,5000,500,8,Home Goods,1000,Facebook,Social Media,907,3000,1000,435,222,200,Referral,4,Non-Binary,30,60000,0
+3/26/2022,5000,500,9,Home Goods,2000,Email,Social Media,1193,1000,1000,266,195,400,Social Media,3,Male,40,20000,1
+3/26/2022,10000,1000,17,Clothing,1000,Facebook,Networking Event,1669,3000,100,281,87,100,Social Media,3,Male,30,80000,0
